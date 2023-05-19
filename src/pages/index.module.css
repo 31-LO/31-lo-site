@@ -10,14 +10,38 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.button {
+  background-color: white;
+  padding: 2rem 1rem;
+  min-width: 230px;
+}
+
+.button:hover,
+.button:active {
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+
+.subtitle {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  div.buttons {
+    grid-template-columns: 1fr;
+  }
 }
