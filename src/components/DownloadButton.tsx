@@ -1,7 +1,6 @@
-import Link from "@docusaurus/Link";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import React from "react";
-import styles from "./DownloadButton.module.css";
+import FileDownloadIcon from "@mui/icons-material/FileDownload";
 
 type DownloadButtonProps = {
   children: React.ReactNode;
@@ -13,13 +12,8 @@ export default function DownloadButton({
   fileName,
 }: DownloadButtonProps) {
   return (
-    <a
-      role="button"
-      download
-      href={useBaseUrl(`files/${fileName}`)}
-      className={styles.button}
-    >
-      {children}
+    <a role="button" download href={useBaseUrl(`files/${fileName}`)}>
+      {children} <FileDownloadIcon fontSize="small" />
     </a>
   );
 }

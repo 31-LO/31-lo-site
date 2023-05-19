@@ -5,7 +5,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
-import styles from "./index.module.css";
+import styles from "./home.module.css";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -53,6 +53,14 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <div className={styles.callToAction}>
+          <Link
+            className="button button--secondary button--lg"
+            href="/docs/oferta-edukacyjna"
+          >
+            Oferta edukacyjna
+          </Link>
+        </div>
       </main>
     </Layout>
   );
