@@ -76,6 +76,26 @@ const config = {
             label: "Konsultacje",
             position: "left",
           },
+          {
+            to: "/docs/samorzad",
+            label: "Dla uczniów",
+            position: "left",
+          },
+          {
+            to: "/docs/nasi-partnerzy",
+            label: "Partnerzy",
+            position: "left",
+          },
+          {
+            to: "/docs/boisko",
+            label: "Wynajmij boisko",
+            position: "left",
+          },
+          {
+            to: "/docs/kontakt",
+            label: "Kontakt",
+            position: "left",
+          },
           // right side
           {
             to: "https://www.instagram.com/31lokrakow",

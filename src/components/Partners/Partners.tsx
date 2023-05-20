@@ -29,7 +29,13 @@ function Partner({ name, url, description, logo }: PartnerProps) {
           textAlign: "center",
         }}
       >
-        <img src={logo} alt="" width="300px" height="300px" />
+        <img
+          src={logo}
+          alt=""
+          width="300px"
+          height="300px"
+          style={{ backgroundColor: "white", padding: "1rem" }}
+        />
       </Link>
       <section className="col">
         <h2>

@@ -20,8 +20,10 @@ const sidebars = {
       ],
     },
     {
-      Partnerzy: ["nasi-partnerzy"],
+      Partnerzy: ["nasi-partnerzy", "zostan-partnerem"],
     },
+    "boisko",
+    "kontakt",
   ],
 };
 
