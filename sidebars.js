@@ -11,6 +11,17 @@ const sidebars = {
       ],
     },
     { "Organizacja pracy": ["konsultacje"] },
+    {
+      "Dla uczniów": [
+        "samorzad",
+        "zajecia-dodatkowe",
+        "podreczniki",
+        "projekty",
+      ],
+    },
+    {
+      Partnerzy: ["nasi-partnerzy"],
+    },
   ],
 };
 

@@ -113,8 +113,8 @@ const config = {
             </a>`,
           },
           {
-            html: `<a href="https://support.google.com/a/answer/139019" target="_blank" rel="noreferrer noopener" aria-label="G-SUite dla edukacji">
-              <img src="/img/footer-logos/g-suite.png" alt="G-SUite dla edukacji" height="51" />
+            html: `<a href="https://support.google.com/a/answer/139019" target="_blank" rel="noreferrer noopener" aria-label="Google Workspace dla edukacji">
+              <img src="/img/footer-logos/google-workspace.png" alt="Google Workspace dla edukacji" height="51" />
             </a>`,
           },
         ],
