@@ -15,9 +15,14 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/features/undraw_happy_feeling.svg").default,
     description: (
       <>
-        Szkoła to nie tylko wyniki. W naszym liceum liczy się przede wszystkim
-        społeczność i dlatego stawiamy na otwartą atmosferę w której każdy może
-        się czuć bezpiecznie.
+        <p>
+          Szkoła to nie tylko wyniki. W naszym liceum liczy się przede wszystkim
+          społeczność i dlatego stawiamy na otwartą atmosferę w której każdy
+          może się czuć bezpiecznie.
+        </p>
+        <Link href="/docs/oferta-edukacyjna">
+          Dowiedz się więcej czytając naszą ofertę edkuacyjną
+        </Link>
       </>
     ),
   },
