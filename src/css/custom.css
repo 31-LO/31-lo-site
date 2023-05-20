@@ -34,3 +34,15 @@
 .markdown a {
   text-decoration: underline;
 }
+
+.footer__links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer__link-separator {
+  display: none;
+}

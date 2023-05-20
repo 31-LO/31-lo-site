@@ -71,6 +71,22 @@ const config = {
             label: "Rekrutacja",
             position: "left",
           },
+          {
+            to: "/docs/konsultacje",
+            label: "Konsultacje",
+            position: "left",
+          },
+          // right side
+          {
+            to: "https://www.instagram.com/31lokrakow",
+            label: "Instagram",
+            position: "right",
+          },
+          {
+            to: "https://www.facebook.com/31LOKrakow",
+            label: "Facebook",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -94,6 +110,11 @@ const config = {
           {
             html: `<a href="https://www.marr.pl/liderhr/" target="_blank" rel="noreferrer noopener" aria-label="Lider HR">
               <img src="/img/footer-logos/lider_hr.png" alt="Lider HR" height="51" />
+            </a>`,
+          },
+          {
+            html: `<a href="https://support.google.com/a/answer/139019" target="_blank" rel="noreferrer noopener" aria-label="G-SUite dla edukacji">
+              <img src="/img/footer-logos/g-suite.png" alt="G-SUite dla edukacji" height="51" />
             </a>`,
           },
         ],

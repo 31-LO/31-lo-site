@@ -2,7 +2,7 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  recruitment: [
+  main: [
     {
       Rekrutacja: [
         "oferta-edukacyjna",
@@ -10,6 +10,7 @@ const sidebars = {
         "zasady-rekrutacji",
       ],
     },
+    { "Organizacja pracy": ["konsultacje"] },
   ],
 };
 

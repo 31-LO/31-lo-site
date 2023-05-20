@@ -3,6 +3,10 @@
  * and scoped locally.
  */
 
+.main {
+  padding-bottom: 3rem;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -45,6 +49,10 @@
 }
 
 @media screen and (max-width: 996px) {
+  main.main {
+    padding-bottom: 1rem;
+  }
+
   .heroBanner {
     padding: 2rem;
   }

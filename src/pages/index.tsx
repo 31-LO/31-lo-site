@@ -4,8 +4,8 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-
 import styles from "./home.module.css";
+import CallToAction from "@site/src/components/CallToAction";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          <img src="img/logo.png" alt={siteConfig.title} width={300} />
+          <img src="img/logo.png" alt={siteConfig.title} width={200} />
         </h1>
         <p className={clsx("hero__subtitle", styles.subtitle)}>
           {siteConfig.tagline}
@@ -51,16 +51,9 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
-      <main>
+      <main className={styles.main}>
         <HomepageFeatures />
-        <div className={styles.callToAction}>
-          <Link
-            className="button button--secondary button--lg"
-            href="/docs/oferta-edukacyjna"
-          >
-            Oferta edukacyjna
-          </Link>
-        </div>
+        <CallToAction />
       </main>
     </Layout>
   );
