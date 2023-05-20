@@ -47,7 +47,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} 👋`}
+      title={`Strona startowa 👋`}
       description="Liceum Ogólnokształcące im. Romana INgardena w Krakowie, strona domowa, rekrutacja"
     >
       <HomepageHeader />

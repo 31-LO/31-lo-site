@@ -1,6 +1,7 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 type FeatureItem = {
   title: string;
@@ -26,8 +27,13 @@ const FeatureList: FeatureItem[] = [
       .default,
     description: (
       <>
-        Oprócz zajęć lekcyjnych mam liczne kółka zainteresowań. Poza tym
-        organizujemy warsztaty, hakatony i projekty.
+        <p>
+          Oprócz zajęć lekcyjnych mam liczne kółka zainteresowań. Poza tym
+          organizujemy warsztaty, hakatony i projekty.
+        </p>
+        <Link href="/docs/zajecia-dodatkowe">
+          Zobacz listę zajęć dodatkowych
+        </Link>
       </>
     ),
   },
@@ -36,8 +42,11 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/features/undraw_term_sheet.svg").default,
     description: (
       <>
-        Nasi uczniowie pracują pod opieką nie tylko nauczycieli, ale też
-        partnerów z firm i uczelni.
+        <p>
+          Nasi uczniowie pracują pod opieką nie tylko nauczycieli, ale też
+          partnerów z firm i uczelni.
+        </p>
+        <Link href="/docs/nasi-partnerzy">Poczytaj o naszych partnerach</Link>
       </>
     ),
   },
