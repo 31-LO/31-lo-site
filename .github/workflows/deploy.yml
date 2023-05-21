@@ -27,4 +27,3 @@ jobs:
           local-dir: ./build/
           server-dir: ./docusaurus/
           protocol: 'ftps'
-          dangerous-clean-slate: true
