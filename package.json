@@ -16,7 +16,6 @@
     "prettier": "yarn prettier --write ."
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^1.1.0",
     "@docusaurus/core": "2.4.1",
     "@docusaurus/preset-classic": "2.4.1",
     "@emotion/react": "^11.11.0",
