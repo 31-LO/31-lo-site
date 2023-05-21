@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         <p>
-          Oprócz zajęć lekcyjnych mam liczne kółka zainteresowań. Poza tym
+          Oprócz zajęć lekcyjnych mamy liczne kółka zainteresowań. Poza tym
           organizujemy warsztaty, hakatony i projekty.
         </p>
         <Link href="/docs/zajecia-dodatkowe">
