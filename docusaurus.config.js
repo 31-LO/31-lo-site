@@ -138,7 +138,7 @@ const config = {
             </a>`,
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} XXXI Liceum Ogólnokształcące im. Romana Ingardena w Kraków`,
+        copyright: `Copyright © ${new Date().getFullYear()} XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie`,
       },
       prism: {
         theme: lightCodeTheme,
