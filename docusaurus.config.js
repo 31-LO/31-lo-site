@@ -123,7 +123,7 @@ const config = {
             </a>`,
           },
           {
-            html: `<a href="http://www.bip.gov.pl/" target="_blank" rel="noreferrer noopener" aria-label="Biuletyn informacji publicznej">
+            html: `<a href="https://www.gov.pl/bip" target="_blank" rel="noreferrer noopener" aria-label="Biuletyn informacji publicznej">
               <img src="/img/footer-logos/bip.webp" alt="Biuletyn informacji publicznej" height="51" />
             </a>`,
           },
