@@ -72,8 +72,8 @@ const config = {
             position: "left",
           },
           {
-            to: "/docs/konsultacje",
-            label: "Konsultacje",
+            to: "/docs/kadra",
+            label: "Kadra",
             position: "left",
           },
           {

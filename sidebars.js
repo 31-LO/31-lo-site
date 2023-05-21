@@ -10,7 +10,7 @@ const sidebars = {
         "zasady-rekrutacji",
       ],
     },
-    { "Organizacja pracy": ["konsultacje"] },
+    { "O szkole": ['kadra', "biblioteka", "informacje-dodatkowe", "deklaracja-dostepnosci"] },
     {
       "Dla uczniów": [
         "samorzad",
