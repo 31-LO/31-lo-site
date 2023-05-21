@@ -22,12 +22,6 @@
   gap: 1rem;
 }
 
-.button {
-  background-color: white;
-  padding: 2rem 1rem;
-  min-width: 230px;
-}
-
 .button:hover,
 .button:active {
   transform: scale(1.1);

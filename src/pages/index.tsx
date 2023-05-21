@@ -20,19 +20,13 @@ function HomepageHeader() {
         </p>
         <div className={styles.buttons}>
           <Link
-            className={clsx(
-              "button button--secondary button--lg",
-              styles.button
-            )}
+            className={"button button--secondary button--lg"}
             to="/docs/programowanie"
           >
             Programowanie
           </Link>
           <Link
-            className={clsx(
-              "button button--secondary button--lg",
-              styles.button
-            )}
+            className={"button button--secondary button--lg"}
             to="/docs/game-dev"
           >
             Game dev
