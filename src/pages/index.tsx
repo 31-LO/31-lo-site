@@ -6,6 +6,7 @@ import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./home.module.css";
 import CallToAction from "@site/src/components/CallToAction";
+import Announcement from "@site/src/components/Announcement";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -42,12 +43,12 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Strona startowa 👋`}
       description="Liceum Ogólnokształcące im. Romana INgardena w Krakowie, strona domowa, rekrutacja"
     >
+      <Announcement />
       <HomepageHeader />
       <main className={styles.main}>
         <HomepageFeatures />
