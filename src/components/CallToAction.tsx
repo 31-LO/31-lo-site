@@ -22,26 +22,32 @@ export default function CallToAction() {
           flexWrap="wrap-reverse"
           gap={2}
           className="card"
-          sx={{ padding: "2rem" }}
+          sx={{
+            padding: "2rem",
+          }}
         >
           <Stack
             sx={{
               gap: 2,
               justifyContent: "space-between",
+              alignItems: {
+                md: "start",
+                sm: "center",
+              },
             }}
           >
             <div>
               <h2>Chcesz do nas dołączyć?</h2>
-              <p>Zapoznaj się z zasadmi rekrutacji i do dzieła!</p>
+              <p>Zapoznaj się z zasadami rekrutacji i do dzieła!</p>
             </div>
-            <div>
+            <Stack>
               <Link
                 className="button button--primary button--lg"
                 href="/docs/zasady-rekrutacji"
               >
                 Rekrutacja
               </Link>
-            </div>
+            </Stack>
           </Stack>
           <img
             src="/img/features/undraw_educator.svg"
