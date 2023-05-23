@@ -35,6 +35,13 @@ a {
   color: var(--ifm-color-primary-darkest);
 }
 
+.navbar__link--active,
+.table-of-contents__link--active,
+.menu__link--active {
+  color: black;
+  font-weight: 600;
+}
+
 .markdown a {
   text-decoration: underline;
 }
