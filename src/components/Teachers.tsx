@@ -76,13 +76,13 @@ const listOfTeachers: TeacherProps[] = [
   },
   {
     firstName: "Janina",
-    lastName: "MAgas",
+    lastName: "Magas",
     subject: "język polski dla obcokrajowców",
     officeHours: "brak",
   },
   {
     firstName: "Katarzyna",
-    lastName: "MOlicka-Mocek",
+    lastName: "Molicka-Mocek",
     subject: "język niemiecki",
     officeHours: "poniedziałek, 13:50 - 14:00, sala 308",
   },
