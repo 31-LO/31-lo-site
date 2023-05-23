@@ -5,154 +5,193 @@ import React from "react";
 import CardHeader from "@mui/material/CardHeader";
 
 type TeacherProps = {
-  name: string;
+  firstName: string;
+  lastName: string;
+  titleOfAddress?: string;
   subject: string;
   officeHours: string;
 };
 
 const listOfTeachers: TeacherProps[] = [
   {
-    name: "Jacek Brzostowski",
+    firstName: "Jacek",
+    lastName: "Brzostowski",
     subject: "matematyka",
     officeHours: "wtorek 7:00-8:00, sala 305",
   },
   {
-    name: "Monika Budziak",
+    firstName: "Monika",
+    lastName: "Budziak",
     subject: "język polski",
     officeHours: "czwartek 14:35-15:35, sala 310",
   },
   {
-    name: "Renata Chodacka",
+    firstName: "Renata",
+    lastName: "Chodacka",
     subject: "chemia",
     officeHours: "wtorek, 8.40-9.40, sala 301",
   },
   {
-    name: "Roman Czapla",
+    firstName: "Roman",
+    lastName: "Czapla",
     subject: "informatyka",
     officeHours: "czwartek, 14:35-15:35, sala 217",
   },
   {
-    name: "Monika Grosiak",
+    firstName: "Monika",
+    lastName: "Grosiak",
     subject: "biologia",
     officeHours: "poniedziałek, 14.40-15.40, sala 313",
   },
   {
-    name: "Dorota Haase",
+    firstName: "Dorota",
+    lastName: "Haase",
     subject: "jężyk angielski",
     officeHours: "piętak, 11:50-12:50, sala 301",
   },
   {
-    name: "wicedyr. Kamila Jakóbczak",
+    firstName: "Kamila",
+    lastName: "Jakóbczak",
+    titleOfAddress: "wicedyr.",
     subject: "plastyka",
     officeHours: "czwartek, 15:00-16:00, gabinet zastępcy dyrektora",
   },
   {
-    name: "Jadwiga Jaworska",
+    firstName: "Jadwiga",
+    lastName: "Jaworska",
     subject: "fizyka, doradca zawodowy",
     officeHours: "piątek, 16:15-17:15, sala 314",
   },
   {
-    name: "Agnieszka Korpała",
+    firstName: "Agnieszka",
+    lastName: "Korpała",
     subject: "fizyka, matematyka",
     officeHours: "czwartek, 13:45-14:45, sala 313",
   },
   {
-    name: "Anna Ligas-Kowaluk",
+    firstName: "Anna",
+    lastName: "Ligas-Kowaluk",
     subject: "język angielski",
     officeHours: "czwartek, 13:50-14:50, sala 306",
   },
   {
-    name: "Janina Magas",
+    firstName: "Janina",
+    lastName: "MAgas",
     subject: "język polski dla obcokrajowców",
     officeHours: "brak",
   },
   {
-    name: "Katarzyna Molicka-Mocek",
+    firstName: "Katarzyna",
+    lastName: "MOlicka-Mocek",
     subject: "język niemiecki",
     officeHours: "poniedziałek, 13:50 - 14:00, sala 308",
   },
   {
-    name: "dyr. Łukasz Pająk",
+    firstName: "Łukasz",
+    lastName: "Pająk",
+    titleOfAddress: "dyr.",
     subject: "WOS, wychowanie do życia w rodzinie",
     officeHours: "poniedziałek, 15:30-16:30, sala 312",
   },
   {
-    name: "Małgorzata Potyrało",
+    firstName: "Małgorzata",
+    lastName: "Potyrało",
     subject: "biblioteka",
     officeHours: "czwartek, 15:30-16:30, biblioteka",
   },
   {
-    name: "Anna Radzik",
+    firstName: "Anna",
+    lastName: "Radzik",
     subject: "wychowanie fizyczne",
     officeHours: "wtorek, 15:30-16:30, pok. nauczycieli WF",
   },
   {
-    name: "Jolanta Rawecka",
+    firstName: "Jolanta",
+    lastName: "Rawecka",
     subject: "język angielski",
     officeHours: "czwartek, 11:55-12:55, pokój nauczycielski",
   },
   {
-    name: "ks. Krzysztof Rusnak",
+    firstName: "Krzysztof",
+    lastName: "Rusnak",
+    titleOfAddress: "ks.",
     subject: "religia",
     officeHours: "środa, 12:50-13:50, pokój nauczycielski",
   },
   {
-    name: "Wojciech Rzeszut",
+    firstName: "Wojciech",
+    lastName: "Rzeszut",
     subject: "matematyka",
     officeHours:
       "1 godz. co 2 tygodnie, piątek, 12:50-13:50, pokój nauczycielski",
   },
   {
-    name: "Marek Solarz",
+    firstName: "Marek",
+    lastName: "Solarz",
     subject: "informatyka",
     officeHours: "czwartek, 11:50-12:50, sala 216",
   },
   {
-    name: "Barbara Stuczko",
+    firstName: "Barbara",
+    lastName: "Stuczko",
     subject: "geografia",
     officeHours: "poniedziałek, 14:40-15:40, sala 312",
   },
   {
-    name: "Albert Swęd",
+    firstName: "Albert",
+    lastName: "Swęd",
     subject: "wychowanie fizyczne",
     officeHours: "wtorek, 15:30-16:30, pok. nauczycieli WF",
   },
   {
-    name: "Joanna Szlachetka",
+    firstName: "Joanna",
+    lastName: "Szlachetka",
     subject: "pedagog",
     officeHours: "środa, 8:00-9:00, gabinet pedagoga",
   },
   {
-    name: "Renata Świgost",
+    firstName: "Renata",
+    lastName: "Świgost",
     subject: "historia, WOS, HIS",
     officeHours: "wtorek, 14:35-15:35, sala 313",
   },
   {
-    name: "Donata Wajda",
+    firstName: "Donata",
+    lastName: "Wajda",
     subject: "język niemiecki",
     officeHours: "wtorek, 15:30-16:30, sala 308",
   },
   {
-    name: "Angelika Wójciak",
+    firstName: "Angelika",
+    lastName: "Wójciak",
     subject: "język angielski",
     officeHours: "poniedziałek, 14:35-15:35, sala 210",
   },
   {
-    name: "Ryszard Mamczura",
+    firstName: "Ryszard",
+    lastName: "Mamczura",
     subject: "język polski",
     officeHours: "TBD",
   },
   {
-    name: "Jakub Mordyl",
+    firstName: "Jakub",
+    lastName: "Mordyl",
     subject: "EDB",
     officeHours: "TBD",
   },
 ];
 
-function Teacher({ name, subject, officeHours }: TeacherProps) {
+function Teacher({
+  firstName,
+  lastName,
+  titleOfAddress,
+  subject,
+  officeHours,
+}: TeacherProps) {
+  const fullName = [titleOfAddress, firstName, lastName].join(" ");
   return (
     <Card sx={{ padding: 1.5 }}>
-      <CardHeader title={name} subheader={subject} />
+      <CardHeader title={fullName} subheader={subject} />
       <CardContent>
         <Typography variant="subtitle2" component="div">
           Konsultacje:
@@ -164,6 +203,7 @@ function Teacher({ name, subject, officeHours }: TeacherProps) {
 }
 
 export default function Teachers() {
+  listOfTeachers.sort((a, b) => (a.lastName > b.lastName ? 1 : -1));
   return (
     <div
       style={{
@@ -175,7 +215,7 @@ export default function Teachers() {
       }}
     >
       {listOfTeachers.map((props) => (
-        <Teacher {...props} key={props.name} />
+        <Teacher {...props} key={`${props.firstName} ${props.lastName}`} />
       ))}
     </div>
   );

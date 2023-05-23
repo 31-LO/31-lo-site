@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
           może się czuć bezpiecznie.
         </p>
         <Link href="/docs/oferta-edukacyjna">
-          Dowiedz się więcej czytając naszą ofertę edkuacyjną
+          Dowiedz się więcej czytając naszą ofertę edukacyjną
         </Link>
       </>
     ),
@@ -65,7 +65,7 @@ function Feature({ title, Svg, description }: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <h2>{title}</h2>
-        <p>{description}</p>
+        <div>{description}</div>
       </div>
     </div>
   );
