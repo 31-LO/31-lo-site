@@ -154,7 +154,9 @@ function Teacher({ name, subject, officeHours }: TeacherProps) {
     <Card sx={{ padding: 1.5 }}>
       <CardHeader title={name} subheader={subject} />
       <CardContent>
-        <Typography variant="subtitle2">Konsultacje:</Typography>
+        <Typography variant="subtitle2" component="div">
+          Konsultacje:
+        </Typography>
         <Typography>{officeHours}</Typography>
       </CardContent>
     </Card>
