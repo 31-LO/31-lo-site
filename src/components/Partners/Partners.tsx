@@ -28,6 +28,7 @@ function Partner({ name, url, description, logo }: PartnerProps) {
         style={{
           textAlign: "center",
         }}
+        aria-label={`przejdź do strony ${name}`}
       >
         <img
           src={logo}

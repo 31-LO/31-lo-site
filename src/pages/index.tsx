@@ -13,16 +13,16 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">
+        <div className="hero__title">
           <img
             src="img/logo.png"
             alt="XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie"
             width={200}
           />
-        </h1>
-        <p className={clsx("hero__subtitle", styles.subtitle)}>
+        </div>
+        <h1 className={clsx("hero__subtitle", styles.subtitle)}>
           {siteConfig.tagline}
-        </p>
+        </h1>
         <div className={styles.buttons}>
           <Link
             className={"button button--secondary button--lg"}
