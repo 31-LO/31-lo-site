@@ -8,10 +8,30 @@
 }
 
 .heroBanner {
+  --frame-distance: 30px;
+  --frame-width: 2px;
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  position: relative;
+}
+
+.frame {
+  position: absolute;
+  border: var(--frame-width) solid white;
+  top: var(--frame-distance);
+  bottom: var(--frame-distance);
+  left: var(--frame-distance);
+  right: var(--frame-distance);
+}
+
+.krakowLogo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100000;
+  width: 180px;
 }
 
 .buttons {
@@ -48,10 +68,16 @@
   }
 
   .heroBanner {
+    --frame-distance: 16px;
+    --frame-width: 2px;
     padding: 2rem;
   }
 
   div.buttons {
     grid-template-columns: 1fr;
+  }
+
+  img.krakowLogo {
+    width: 80px;
   }
 }
