@@ -14,31 +14,31 @@ function HomepageHeader() {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className={styles.frame}>
         <img alt="" src="/img/logo-krakow.png" className={styles.krakowLogo} />
-      </div>
-      <div className="container">
-        <div className="hero__title">
-          <img
-            src="img/logo.png"
-            alt="XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie"
-            width={200}
-          />
-        </div>
-        <h1 className={clsx("hero__subtitle", styles.subtitle)}>
-          {siteConfig.tagline}
-        </h1>
-        <div className={styles.buttons}>
-          <Link
-            className={"button button--secondary button--lg"}
-            to="/docs/programowanie"
-          >
-            Programowanie
-          </Link>
-          <Link
-            className={"button button--secondary button--lg"}
-            to="/docs/game-dev"
-          >
-            Game dev
-          </Link>
+        <div className="container">
+          <div className="hero__title">
+            <img
+              src="img/logo.png"
+              alt="XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie"
+              width={200}
+            />
+          </div>
+          <h1 className={clsx("hero__subtitle", styles.subtitle)}>
+            {siteConfig.tagline}
+          </h1>
+          <div className={styles.buttons}>
+            <Link
+              className={"button button--secondary button--lg"}
+              to="/docs/programowanie"
+            >
+              Programowanie
+            </Link>
+            <Link
+              className={"button button--secondary button--lg"}
+              to="/docs/game-dev"
+            >
+              Game dev
+            </Link>
+          </div>
         </div>
       </div>
     </header>
