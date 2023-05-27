@@ -24,7 +24,7 @@ export default function Announcement() {
         alignItems="center"
         sx={{ textAlign: "center" }}
       >
-        <h2>Dzień otwarty w naszym liceum już 27 maja</h2>
+        <h2>Dzień otwarty w naszym liceum już DZIŚ!</h2>
         <Link href="https://fb.me/e/1fWdJOYBo">
           Więcej informacji i zapisy na warsztaty w wydarzeniu na Facebooku
         </Link>
