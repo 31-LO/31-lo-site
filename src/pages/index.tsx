@@ -7,13 +7,13 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./home.module.css";
 import CallToAction from "@site/src/components/CallToAction";
 import Announcement from "@site/src/components/Announcement";
+import KrakowLogoFrame from "../components/KrakowLogoFrame/KrakowLogoFrame";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className={styles.frame}>
-        <img alt="" src="/img/logo-krakow.png" className={styles.krakowLogo} />
+      <KrakowLogoFrame>
         <div className="container">
           <div className="hero__title">
             <img
@@ -40,7 +40,7 @@ function HomepageHeader() {
             </Link>
           </div>
         </div>
-      </div>
+      </KrakowLogoFrame>
     </header>
   );
 }
