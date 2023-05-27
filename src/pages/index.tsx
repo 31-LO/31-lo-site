@@ -51,7 +51,8 @@ export default function Home(): JSX.Element {
       title={`Strona startowa 👋`}
       description="Liceum Ogólnokształcące im. Romana Ingardena w Krakowie, strona domowa, rekrutacja"
     >
-      <Announcement />
+      {/* announcement go here 👇 */}
+      {/* <Announcement /> */}
       <HomepageHeader />
       <main className={styles.main}>
         <HomepageFeatures />
