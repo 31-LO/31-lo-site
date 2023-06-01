@@ -2,3 +2,4 @@ build
 .docusaurus
 .yarn
 *.yml
+node_modules

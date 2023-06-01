@@ -5,12 +5,12 @@ import frozenWay from "./img/frozen-way.webp";
 import drawDistance from "./img/draw-distance.webp";
 import kpt from "./img/kpt.webp";
 import uj from "./img/uj.webp";
-import naniby from "./img/na-niby.webp";
+import naNiby from "./img/na-niby.webp";
 import cisco from "./img/cisco.webp";
 import iht from "./img/iht.webp";
 import kms from "./img/kms.webp";
 import ear from "./img/ear.webp";
-import swistak from "./img/swistak.webp";
+import marmot from "./img/swistak.webp";
 
 type PartnerProps = {
   name: string;
@@ -158,7 +158,7 @@ const partnerList: PartnerProps[] = [
   {
     name: "Na Niby Studio (Make Believe Graphics)",
     url: "https://nanibystudio.pl/",
-    logo: naniby,
+    logo: naNiby,
     description: (
       <>
         <p>
@@ -254,14 +254,14 @@ const partnerList: PartnerProps[] = [
   {
     name: "Krakowski Świstak",
     url: "https://www.swistak-krakow.pl/",
-    logo: swistak,
+    logo: marmot,
     description: (
       <>
-        <p>Krakowki Świstak to konsultant strategii w biznesie.</p>
+        <p>Krakowski Świstak to konsultant strategii w biznesie.</p>
         <p>
           Świstak prowadzi z naszą młodzieżą warsztaty rozwijające ich
           umiejętności zarządzania, planowania, prowadzenia projektów i firmy.
-          Jeśli jest wśód naszych uczniów potencjał na tech startup to znajdzie
+          Jeśli jest wśród naszych uczniów potencjał na tech startup to znajdzie
           go i rozwinie właśnie Świstak!
         </p>
       </>
