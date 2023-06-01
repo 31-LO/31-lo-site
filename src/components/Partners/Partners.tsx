@@ -225,7 +225,7 @@ const partnerList: PartnerProps[] = [
           działania szkoleniowe i edukacyjne z zakresu przedsiębiorczości.
         </p>
         <p>
-          Dzięki współpracy z Funcacją uczymy się pracować w projektach,
+          Dzięki współpracy z Fundacją uczymy się pracować w projektach,
           rozwijać swoją przedsiębiorczość i poznawać tajniki prowadzenia firm.
           Uczniowie biorą również udział w ciekawych hackhatonach projektów
           społecznych i edukacyjnych.

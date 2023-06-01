@@ -1,6 +1,30 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.language": "en,pl",
-  "cSpell.words": ["fontsource"]
+  "cSpell.language": "en,pl,pl-PL",
+  "cSpell.words": [
+    "ballsquad",
+    "cutscenes",
+    "devowe",
+    "devowej",
+    "fontsource",
+    "frameworku",
+    "gamedev",
+    "hackatonach",
+    "hackhatonach",
+    "hakatony",
+    "ITIL",
+    "Kielian",
+    "Ligas",
+    "NPRCZ",
+    "ogólnoszkolne",
+    "Sleeveface",
+    "softwarem",
+    "Startupów",
+    "storytellingu",
+    "Techlandu",
+    "unboxingu",
+    "wolontaryjnej"
+  ],
+  "cSpell.enableFiletypes": ["mdx"]
 }
