@@ -1,16 +1,16 @@
-import Link from "@docusaurus/Link";
-import React from "react";
-import uk from "./img/untitled-kingdom.webp";
-import frozenWay from "./img/frozen-way.webp";
-import drawDistance from "./img/draw-distance.webp";
-import kpt from "./img/kpt.webp";
-import uj from "./img/uj.webp";
-import naNiby from "./img/na-niby.webp";
-import cisco from "./img/cisco.webp";
-import iht from "./img/iht.webp";
-import kms from "./img/kms.webp";
-import ear from "./img/ear.webp";
-import marmot from "./img/swistak.webp";
+import Link from '@docusaurus/Link';
+import React from 'react';
+import uk from './img/untitled-kingdom.webp';
+import frozenWay from './img/frozen-way.webp';
+import drawDistance from './img/draw-distance.webp';
+import kpt from './img/kpt.webp';
+import uj from './img/uj.webp';
+import naNiby from './img/na-niby.webp';
+import cisco from './img/cisco.webp';
+import iht from './img/iht.webp';
+import kms from './img/kms.webp';
+import ear from './img/ear.webp';
+import marmot from './img/swistak.webp';
 
 type PartnerProps = {
   name: string;
@@ -26,7 +26,7 @@ function Partner({ name, url, description, logo }: PartnerProps) {
         href={url}
         className="col"
         style={{
-          textAlign: "center",
+          textAlign: 'center',
         }}
         aria-label={`przejdź do strony ${name}`}
       >
@@ -35,7 +35,7 @@ function Partner({ name, url, description, logo }: PartnerProps) {
           alt=""
           width="300px"
           height="300px"
-          style={{ backgroundColor: "white", padding: "1rem" }}
+          style={{ backgroundColor: 'white', padding: '1rem' }}
         />
       </Link>
       <section className="col">
@@ -50,8 +50,8 @@ function Partner({ name, url, description, logo }: PartnerProps) {
 
 const partnerList: PartnerProps[] = [
   {
-    name: "Untitled Kingdom",
-    url: "https://www.untitledkingdom.com/",
+    name: 'Untitled Kingdom',
+    url: 'https://www.untitledkingdom.com/',
     logo: uk,
     description: (
       <>
@@ -74,8 +74,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Frozen Way",
-    url: "https://frozenway.games/",
+    name: 'Frozen Way',
+    url: 'https://frozenway.games/',
     logo: frozenWay,
     description: (
       <>
@@ -96,8 +96,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Draw Distance",
-    url: "https://drawdistance.dev/",
+    name: 'Draw Distance',
+    url: 'https://drawdistance.dev/',
     logo: drawDistance,
     description: (
       <>
@@ -117,8 +117,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Krakowski Park Technologiczny",
-    url: "https://www.kpt.krakow.pl/",
+    name: 'Krakowski Park Technologiczny',
+    url: 'https://www.kpt.krakow.pl/',
     logo: kpt,
     description: (
       <>
@@ -138,8 +138,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "UJ Wydz. Fizyki, Astronomii i Informatyki Stosowanej, Zakład Technologii Gier",
-    url: "http://www.ztg.fais.uj.edu.pl/",
+    name: 'UJ Wydz. Fizyki, Astronomii i Informatyki Stosowanej, Zakład Technologii Gier',
+    url: 'http://www.ztg.fais.uj.edu.pl/',
     logo: uj,
     description: (
       <>
@@ -156,8 +156,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Na Niby Studio (Make Believe Graphics)",
-    url: "https://nanibystudio.pl/",
+    name: 'Na Niby Studio (Make Believe Graphics)',
+    url: 'https://nanibystudio.pl/',
     logo: naNiby,
     description: (
       <>
@@ -174,8 +174,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Cisco Kraków",
-    url: "https://www.facebook.com/CiscoKrakow/",
+    name: 'Cisco Kraków',
+    url: 'https://www.facebook.com/CiscoKrakow/',
     logo: cisco,
     description: (
       <>
@@ -195,8 +195,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "i-ht",
-    url: "https://i-ht.pl/strona-glowna",
+    name: 'i-ht',
+    url: 'https://i-ht.pl/strona-glowna',
     logo: iht,
     description: (
       <>
@@ -213,8 +213,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Kraków Miastem Startupów",
-    url: "https://kms.org.pl/",
+    name: 'Kraków Miastem Startupów',
+    url: 'https://kms.org.pl/',
     logo: kms,
     description: (
       <>
@@ -234,8 +234,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "EAR",
-    url: "https://earear.pl/",
+    name: 'EAR',
+    url: 'https://earear.pl/',
     logo: ear,
     description: (
       <>
@@ -252,8 +252,8 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: "Krakowski Świstak",
-    url: "https://www.swistak-krakow.pl/",
+    name: 'Krakowski Świstak',
+    url: 'https://www.swistak-krakow.pl/',
     logo: marmot,
     description: (
       <>

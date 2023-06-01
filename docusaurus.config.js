@@ -1,53 +1,53 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "LO 31",
-  tagline: "Jedyne takie liceum",
-  favicon: "img/favicon.ico",
+  title: 'LO 31',
+  tagline: 'Jedyne takie liceum',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: "https://lo31.krakow.pl",
+  url: 'https://lo31.krakow.pl',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "31-LO", // Usually your GitHub org/user name.
-  projectName: "31-lo-site", // Usually your repo name.
+  organizationName: '31-LO', // Usually your GitHub org/user name.
+  projectName: '31-lo-site', // Usually your repo name.
 
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "pl",
-    locales: ["pl"],
+    defaultLocale: 'pl',
+    locales: ['pl'],
   },
 
   presets: [
     [
-      "classic",
+      'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
           showReadingTime: true,
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: "G-PZCSLJKETM",
+          trackingID: 'G-PZCSLJKETM',
           anonymizeIP: true,
         },
       }),
@@ -58,59 +58,59 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: "LO 31",
+        title: 'LO 31',
         logo: {
-          alt: "LO 31 Logo",
-          src: "img/logo.png",
+          alt: 'LO 31 Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
-            to: "/docs/oferta-edukacyjna",
-            label: "Rekrutacja",
-            position: "left",
+            to: '/docs/oferta-edukacyjna',
+            label: 'Rekrutacja',
+            position: 'left',
           },
           {
-            to: "/docs/kadra",
-            label: "Kadra",
-            position: "left",
+            to: '/docs/kadra',
+            label: 'Kadra',
+            position: 'left',
           },
           {
-            to: "/docs/samorzad",
-            label: "Dla uczniów",
-            position: "left",
+            to: '/docs/samorzad',
+            label: 'Dla uczniów',
+            position: 'left',
           },
           {
-            to: "/docs/nasi-partnerzy",
-            label: "Partnerzy",
-            position: "left",
+            to: '/docs/nasi-partnerzy',
+            label: 'Partnerzy',
+            position: 'left',
           },
           {
-            to: "/docs/boisko",
-            label: "Wynajmij boisko",
-            position: "left",
+            to: '/docs/boisko',
+            label: 'Wynajmij boisko',
+            position: 'left',
           },
           {
-            to: "/docs/kontakt",
-            label: "Kontakt",
-            position: "left",
+            to: '/docs/kontakt',
+            label: 'Kontakt',
+            position: 'left',
           },
           // right side
           {
-            to: "https://www.instagram.com/31lokrakow",
-            label: "Instagram",
-            position: "right",
+            to: 'https://www.instagram.com/31lokrakow',
+            label: 'Instagram',
+            position: 'right',
           },
           {
-            to: "https://www.facebook.com/31LOKrakow",
-            label: "Facebook",
-            position: "right",
+            to: 'https://www.facebook.com/31LOKrakow',
+            label: 'Facebook',
+            position: 'right',
           },
         ],
       },
       footer: {
-        style: "dark",
+        style: 'dark',
         links: [
           {
             html: `<a href="https://zso13krakow.mobidziennik.pl" target="_blank" rel="noreferrer noopener" aria-label="Mobi dziennik">

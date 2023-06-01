@@ -5,25 +5,32 @@ const sidebars = {
   main: [
     {
       Rekrutacja: [
-        "oferta-edukacyjna",
-        { Profile: ["programowanie", "game-dev"] },
-        "zasady-rekrutacji",
-      ],
-    },
-    { "O szkole": ['kadra', "biblioteka", "informacje-dodatkowe", "deklaracja-dostepnosci"] },
-    {
-      "Dla uczniów": [
-        "samorzad",
-        "zajecia-dodatkowe",
-        "podreczniki",
-        "projekty",
+        'oferta-edukacyjna',
+        { Profile: ['programowanie', 'game-dev'] },
+        'zasady-rekrutacji',
       ],
     },
     {
-      Partnerzy: ["nasi-partnerzy", "zostan-partnerem"],
+      'O szkole': [
+        'kadra',
+        'biblioteka',
+        'informacje-dodatkowe',
+        'deklaracja-dostepnosci',
+      ],
     },
-    "boisko",
-    "kontakt",
+    {
+      'Dla uczniów': [
+        'samorzad',
+        'zajecia-dodatkowe',
+        'podreczniki',
+        'projekty',
+      ],
+    },
+    {
+      Partnerzy: ['nasi-partnerzy', 'zostan-partnerem'],
+    },
+    'boisko',
+    'kontakt',
   ],
 };
 

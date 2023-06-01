@@ -1,18 +1,18 @@
-import React from "react";
-import clsx from "clsx";
-import styles from "./styles.module.css";
-import Link from "@docusaurus/Link";
+import React from 'react';
+import clsx from 'clsx';
+import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<"svg">>;
+  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Świetna atmosfera",
-    Svg: require("@site/static/img/features/undraw_happy_feeling.svg").default,
+    title: 'Świetna atmosfera',
+    Svg: require('@site/static/img/features/undraw_happy_feeling.svg').default,
     description: (
       <>
         <p>
@@ -27,8 +27,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Rozwijanie zainteresowań",
-    Svg: require("@site/static/img/features/undraw_pair_programming.svg")
+    title: 'Rozwijanie zainteresowań',
+    Svg: require('@site/static/img/features/undraw_pair_programming.svg')
       .default,
     description: (
       <>
@@ -43,8 +43,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Partnerzy",
-    Svg: require("@site/static/img/features/undraw_term_sheet.svg").default,
+    title: 'Partnerzy',
+    Svg: require('@site/static/img/features/undraw_term_sheet.svg').default,
     description: (
       <>
         <p>
@@ -59,7 +59,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx("col col--4")}>
+    <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -75,7 +75,7 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className={"row"}>
+        <div className={'row'}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}

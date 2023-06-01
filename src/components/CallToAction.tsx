@@ -1,19 +1,19 @@
-import Link from "@docusaurus/Link";
-import Stack from "@mui/material/Stack";
-import React from "react";
+import Link from '@docusaurus/Link';
+import Stack from '@mui/material/Stack';
+import React from 'react';
 
 export default function CallToAction() {
   return (
     <div
       style={{
-        backgroundColor: "var(--ifm-color-primary)",
-        padding: "2rem 1rem",
+        backgroundColor: 'var(--ifm-color-primary)',
+        padding: '2rem 1rem',
       }}
     >
       <div
         className="container"
         style={{
-          margin: "2rem auto",
+          margin: '2rem auto',
         }}
       >
         <Stack
@@ -23,16 +23,16 @@ export default function CallToAction() {
           gap={2}
           className="card"
           sx={{
-            padding: "2rem",
+            padding: '2rem',
           }}
         >
           <Stack
             sx={{
               gap: 2,
-              justifyContent: "space-between",
+              justifyContent: 'space-between',
               alignItems: {
-                md: "start",
-                sm: "center",
+                md: 'start',
+                sm: 'center',
               },
             }}
           >
@@ -53,8 +53,8 @@ export default function CallToAction() {
             src="/img/features/undraw_educator.svg"
             alt=""
             style={{
-              width: "400px",
-              maxWidth: "100%",
+              width: '400px',
+              maxWidth: '100%',
             }}
           />
         </Stack>
