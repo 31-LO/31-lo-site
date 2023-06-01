@@ -46,7 +46,7 @@ const listOfTeachers: TeacherProps[] = [
   {
     firstName: "Dorota",
     lastName: "Haase",
-    subject: "jężyk angielski",
+    subject: "język angielski",
     officeHours: "piętak, 11:50-12:50, sala 301",
   },
   {
