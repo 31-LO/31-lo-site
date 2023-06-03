@@ -48,7 +48,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   return (
     <Layout
-      title={`Strona startowa 👋`}
+      title={`Jedyne takie liceum 👋`}
       description="Liceum Ogólnokształcące im. Romana Ingardena w Krakowie, strona domowa, rekrutacja"
     >
       {/* announcements go here 👇 */}
