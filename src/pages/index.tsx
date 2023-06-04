@@ -49,7 +49,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Jedyne takie liceum 👋`}
-      description="Liceum Ogólnokształcące im. Romana Ingardena w Krakowie, strona domowa, rekrutacja"
+      description="Liceum informatyczne o profilach programowanie i game dev, rekrutacja. Liceum Ogólnokształcące im. Romana Ingardena w Krakowie."
     >
       {/* announcements go here 👇 */}
       {/* <Announcement /> */}
