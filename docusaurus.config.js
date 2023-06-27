@@ -66,35 +66,94 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          // left side
           {
-            to: '/docs/oferta-edukacyjna',
             label: 'Rekrutacja',
-            position: 'left',
+            to: 'docs/oferta-edukacyjna',
+            items: [
+              {
+                label: 'Oferta edukacyjna',
+                to: 'docs/oferta-edukacyjna',
+              },
+              {
+                label: 'Zasady rekrutacji',
+                to: 'docs/zasady-rekrutacji',
+              },
+            ],
           },
           {
-            to: '/docs/kadra',
-            label: 'Kadra',
-            position: 'left',
+            label: 'Profile',
+            to: 'docs/programowanie',
+            items: [
+              { label: 'Programowanie', to: 'docs/programowanie' },
+              { label: 'Game dev', to: 'docs/game-dev' },
+            ],
           },
           {
-            to: '/docs/samorzad',
+            label: 'O szkole',
+            to: 'docs/kadra',
+            items: [
+              {
+                label: 'Kadra',
+                to: 'docs/kadra',
+              },
+              {
+                label: 'Biblioteka',
+                to: 'docs/biblioteka',
+              },
+              {
+                label: 'Informacje dodatkowe',
+                to: 'docs/informacje-dodatkowe',
+              },
+              {
+                label: 'Deklaracja dostępności',
+                to: 'docs/deklaracja-dostepnosci',
+              },
+            ],
+          },
+          {
             label: 'Dla uczniów',
-            position: 'left',
+            to: 'docs/samorzad',
+            items: [
+              {
+                label: 'Samorząd',
+                to: 'docs/samorzad',
+              },
+              {
+                label: 'Zajęcia dodatkowe',
+                to: 'docs/zajecia-dodatkowe',
+              },
+              {
+                label: 'Podręczniki',
+                to: 'docs/podreczniki',
+              },
+              {
+                label: 'Projekty',
+                to: 'docs/projekty',
+              },
+            ],
           },
           {
-            to: '/docs/nasi-partnerzy',
             label: 'Partnerzy',
-            position: 'left',
+            to: 'docs/nasi-partnerzy',
+            items: [
+              {
+                label: 'Nasi partnerzy',
+                to: 'docs/nasi-partnerzy',
+              },
+              {
+                label: 'Zostań partnerem',
+                to: 'docs/zostan-partnerem',
+              },
+            ],
           },
           {
-            to: '/docs/boisko',
-            label: 'Wynajmij boisko',
-            position: 'left',
+            label: 'Boisko',
+            to: 'docs/boisko',
           },
           {
-            to: '/docs/kontakt',
             label: 'Kontakt',
-            position: 'left',
+            to: 'docs/kontakt',
           },
           // right side
           {
