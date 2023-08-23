@@ -1,7 +1,7 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.language": "en,pl,pl-PL",
+  "cSpell.language": "en,pl,pl-PL,uk",
   "cSpell.words": [
     "ballsquad",
     "cutscenes",
