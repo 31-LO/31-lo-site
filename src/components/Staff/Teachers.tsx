@@ -6,138 +6,137 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Jacek Brzostowski',
     subject: 'matematyka',
-    officeHours: 'wtorek 7:00-8:00, sala 305',
+    imagePath: require('./img/brzostowski.png').default
   },
   {
     name: 'Monika Budziak',
     subject: 'język polski',
-    officeHours: 'czwartek 14:35-15:35, sala 310',
+    imagePath: require('./img/budziak.png').default
   },
   {
     name: 'Renata Chodacka',
     subject: 'chemia',
-    officeHours: 'wtorek, 8.40-9.40, sala 301',
+    imagePath: require('./img/placeholder.png').default
   },
   {
     name: 'Roman Czapla',
     subject: 'informatyka',
-    officeHours: 'czwartek, 14:35-15:35, sala 217',
+    imagePath: require('./img/czapla.png').default
   },
   {
     name: 'Monika Grosiak',
     subject: 'biologia',
-    officeHours: 'poniedziałek, 14.40-15.40, sala 313',
+    imagePath: require('./img/grosiak.png').default
   },
   {
     name: 'Dorota Haase',
     subject: 'język angielski',
-    officeHours: 'piętak, 11:50-12:50, sala 301',
+    imagePath: require('./img/haase.png').default
   },
   {
     name: 'wicedyr. Kamila Jakóbczak',
     subject: 'plastyka',
-    officeHours: 'czwartek, 15:00-16:00, gabinet zastępcy dyrektora',
-  },
-  {
-    name: 'Jadwiga Jaworska',
-    subject: 'fizyka, doradca zawodowy',
-    officeHours: 'piątek, 16:15-17:15, sala 314',
+    imagePath: require('./img/jakobczak.png').default
   },
   {
     name: 'Agnieszka Korpała',
     subject: 'fizyka, matematyka',
-    officeHours: 'czwartek, 13:45-14:45, sala 313',
+    imagePath: require('./img/korpala.png').default
   },
   {
     name: 'Anna Ligas-Kowaluk',
     subject: 'język angielski',
-    officeHours: 'czwartek, 13:50-14:50, sala 306',
+    imagePath: require('./img/ligas.png').default
   },
   {
     name: 'Janina Magas',
     subject: 'język polski dla obcokrajowców',
-    officeHours: 'brak',
+    imagePath: require('./img/magas.png').default
   },
   {
     name: 'Katarzyna Molicka-Mocek',
     subject: 'język niemiecki',
-    officeHours: 'poniedziałek, 13:50 - 14:00, sala 308',
+    imagePath: require('./img/molicka.png').default
   },
   {
     name: 'dyr. Łukasz Pająk',
-    subject: 'WOS, wychowanie do życia w rodzinie',
-    officeHours: 'poniedziałek, 15:30-16:30, sala 312',
+    subject: 'wychowanie do życia w rodzinie',
+    imagePath: require('./img/pajak.png').default
   },
   {
     name: 'Małgorzata Potyrało',
     subject: 'biblioteka',
-    officeHours: 'czwartek, 15:30-16:30, biblioteka',
+    imagePath: require('./img/placeholder.png').default
   },
   {
     name: 'Anna Radzik',
     subject: 'wychowanie fizyczne',
-    officeHours: 'wtorek, 15:30-16:30, pok. nauczycieli WF',
-  },
-  {
-    name: 'Jolanta Rawecka',
-    subject: 'język angielski',
-    officeHours: 'czwartek, 11:55-12:55, pokój nauczycielski',
+    imagePath: require('./img/radzik.png').default
   },
   {
     name: 'ks. Krzysztof Rusnak',
     subject: 'religia',
-    officeHours: 'środa, 12:50-13:50, pokój nauczycielski',
-  },
-  {
-    name: 'Wojciech Rzeszut',
-    subject: 'matematyka',
-    officeHours:
-      '1 godz. co 2 tygodnie, piątek, 12:50-13:50, pokój nauczycielski',
+    imagePath: require('./img/rusnak.png').default
   },
   {
     name: 'Marek Solarz',
     subject: 'informatyka',
-    officeHours: 'czwartek, 11:50-12:50, sala 216',
-  },
-  {
-    name: 'Barbara Stuczko',
-    subject: 'geografia',
-    officeHours: 'poniedziałek, 14:40-15:40, sala 312',
+    imagePath: require('./img/solarz.png').default
   },
   {
     name: 'Albert Swęd',
     subject: 'wychowanie fizyczne',
-    officeHours: 'wtorek, 15:30-16:30, pok. nauczycieli WF',
+    imagePath: require('./img/swed.png').default
   },
   {
     name: 'Joanna Szlachetka',
     subject: 'pedagog',
-    officeHours: 'środa, 8:00-9:00, gabinet pedagoga',
-  },
-  {
-    name: 'Renata Świgost',
-    subject: 'historia, WOS, HIS',
-    officeHours: 'wtorek, 14:35-15:35, sala 313',
+    imagePath: require('./img/szlachetka.png').default
   },
   {
     name: 'Donata Wajda',
     subject: 'język niemiecki',
-    officeHours: 'wtorek, 15:30-16:30, sala 308',
+    imagePath: require('./img/wajda.png').default
   },
   {
     name: 'Angelika Wójciak',
     subject: 'język angielski',
-    officeHours: 'poniedziałek, 14:35-15:35, sala 210',
-  },
-  {
-    name: 'Ryszard Mamczura',
-    subject: 'język polski',
-    officeHours: 'TBD',
+    imagePath: require('./img/wojciak.png').default
   },
   {
     name: 'Jakub Mordyl',
-    subject: 'EDB',
-    officeHours: 'TBD',
+    subject: 'wychowanie fizyczne',
+    imagePath: require('./img/mordyl.png').default
+  },
+  {
+    name: 'Joanna Dusza',
+    subject: 'EDB, podstawy przedsiębiorczości, doradztwo zawodowe',
+    imagePath: require('./img/dusza.png').default
+  },
+  {
+    name: 'Krystian Prymon',
+    subject: 'język polski',
+    imagePath: require('./img/prymon.png').default
+  },
+  {
+    name: 'Marika Serafin',
+    subject: 'język angielski',
+    imagePath: require('./img/serafin.png').default
+  },
+  {
+    name: 'Magdalena Stańczak-Strząska',
+    subject: 'matematyka',
+    imagePath: require('./img/stanczak.png').default
+  },
+  {
+    name: 'Karolina Sumara',
+    subject: 'historia',
+    imagePath: require('./img/placeholder.png').default
+  },
+  {
+    name: 'Blanka Woszczek',
+    subject: 'geografia',
+    imagePath: require('./img/placeholder.png').default
   },
 ];
 
