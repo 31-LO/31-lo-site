@@ -8,45 +8,52 @@ import Box from '@mui/material/Box';
 const placeholder = require('./img/placeholder.png').default;
 
 export type StaffMemberProps = {
-  firstName: string;
-  lastName: string;
-  titleOfAddress?: string;
+  name: string;
   subject: string;
-  officeHours: string;
+  officeHours?: string;
   imagePath?: string;
+  children?: React.ReactNode;
 };
 
 export default function StaffMemberCard({
-  firstName,
-  lastName,
-  titleOfAddress,
+  name,
   subject,
   officeHours,
   imagePath,
+  children,
 }: StaffMemberProps) {
-  const fullName = [titleOfAddress, firstName, lastName].join(' ');
   return (
-    <Card
-      sx={{ padding: 1.5, display: 'grid', gridTemplateColumns: '1fr 2fr' }}
+    <Box
+      sx={{
+        padding: 1.5,
+        display: 'grid',
+        gridTemplateColumns: { md: '145px 2fr', sm: '1fr' },
+        gap: 2,
+      }}
     >
       <Box
         sx={{
           display: 'flex',
           alignItems: 'center',
-          justifyContent: 'center',
+          justifyContent: 'flex-start',
         }}
       >
         <img alt="" src={imagePath || placeholder} />
       </Box>
       <Box>
-        <CardHeader title={fullName} subheader={subject} />
+        <CardHeader title={name} subheader={subject} />
         <CardContent>
-          <Typography variant="subtitle2" component="div">
-            Konsultacje:
-          </Typography>
-          <Typography>{officeHours}</Typography>
+          {officeHours && (
+            <>
+              <Typography variant="subtitle2" component="div">
+                Konsultacje:
+              </Typography>
+              <Typography>{officeHours}</Typography>
+            </>
+          )}
+          {children && <Typography>{children}</Typography>}
         </CardContent>
       </Box>
-    </Card>
+    </Box>
   );
 }

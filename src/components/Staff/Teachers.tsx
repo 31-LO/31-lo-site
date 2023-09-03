@@ -4,175 +4,145 @@ import StaffMemberCard, { StaffMemberProps } from './StaffMemberCard';
 
 const listOfTeachers: StaffMemberProps[] = [
   {
-    firstName: 'Jacek',
-    lastName: 'Brzostowski',
+    name: 'Jacek Brzostowski',
     subject: 'matematyka',
     officeHours: 'wtorek 7:00-8:00, sala 305',
   },
   {
-    firstName: 'Monika',
-    lastName: 'Budziak',
+    name: 'Monika Budziak',
     subject: 'język polski',
     officeHours: 'czwartek 14:35-15:35, sala 310',
   },
   {
-    firstName: 'Renata',
-    lastName: 'Chodacka',
+    name: 'Renata Chodacka',
     subject: 'chemia',
     officeHours: 'wtorek, 8.40-9.40, sala 301',
   },
   {
-    firstName: 'Roman',
-    lastName: 'Czapla',
+    name: 'Roman Czapla',
     subject: 'informatyka',
     officeHours: 'czwartek, 14:35-15:35, sala 217',
   },
   {
-    firstName: 'Monika',
-    lastName: 'Grosiak',
+    name: 'Monika Grosiak',
     subject: 'biologia',
     officeHours: 'poniedziałek, 14.40-15.40, sala 313',
   },
   {
-    firstName: 'Dorota',
-    lastName: 'Haase',
+    name: 'Dorota Haase',
     subject: 'język angielski',
     officeHours: 'piętak, 11:50-12:50, sala 301',
   },
   {
-    firstName: 'Kamila',
-    lastName: 'Jakóbczak',
-    titleOfAddress: 'wicedyr.',
+    name: 'wicedyr. Kamila Jakóbczak',
     subject: 'plastyka',
     officeHours: 'czwartek, 15:00-16:00, gabinet zastępcy dyrektora',
   },
   {
-    firstName: 'Jadwiga',
-    lastName: 'Jaworska',
+    name: 'Jadwiga Jaworska',
     subject: 'fizyka, doradca zawodowy',
     officeHours: 'piątek, 16:15-17:15, sala 314',
   },
   {
-    firstName: 'Agnieszka',
-    lastName: 'Korpała',
+    name: 'Agnieszka Korpała',
     subject: 'fizyka, matematyka',
     officeHours: 'czwartek, 13:45-14:45, sala 313',
   },
   {
-    firstName: 'Anna',
-    lastName: 'Ligas-Kowaluk',
+    name: 'Anna Ligas-Kowaluk',
     subject: 'język angielski',
     officeHours: 'czwartek, 13:50-14:50, sala 306',
   },
   {
-    firstName: 'Janina',
-    lastName: 'Magas',
+    name: 'Janina Magas',
     subject: 'język polski dla obcokrajowców',
     officeHours: 'brak',
   },
   {
-    firstName: 'Katarzyna',
-    lastName: 'Molicka-Mocek',
+    name: 'Katarzyna Molicka-Mocek',
     subject: 'język niemiecki',
     officeHours: 'poniedziałek, 13:50 - 14:00, sala 308',
   },
   {
-    firstName: 'Łukasz',
-    lastName: 'Pająk',
-    titleOfAddress: 'dyr.',
+    name: 'dyr. Łukasz Pająk',
     subject: 'WOS, wychowanie do życia w rodzinie',
     officeHours: 'poniedziałek, 15:30-16:30, sala 312',
   },
   {
-    firstName: 'Małgorzata',
-    lastName: 'Potyrało',
+    name: 'Małgorzata Potyrało',
     subject: 'biblioteka',
     officeHours: 'czwartek, 15:30-16:30, biblioteka',
   },
   {
-    firstName: 'Anna',
-    lastName: 'Radzik',
+    name: 'Anna Radzik',
     subject: 'wychowanie fizyczne',
     officeHours: 'wtorek, 15:30-16:30, pok. nauczycieli WF',
   },
   {
-    firstName: 'Jolanta',
-    lastName: 'Rawecka',
+    name: 'Jolanta Rawecka',
     subject: 'język angielski',
     officeHours: 'czwartek, 11:55-12:55, pokój nauczycielski',
   },
   {
-    firstName: 'Krzysztof',
-    lastName: 'Rusnak',
-    titleOfAddress: 'ks.',
+    name: 'ks. Krzysztof Rusnak',
     subject: 'religia',
     officeHours: 'środa, 12:50-13:50, pokój nauczycielski',
   },
   {
-    firstName: 'Wojciech',
-    lastName: 'Rzeszut',
+    name: 'Wojciech Rzeszut',
     subject: 'matematyka',
     officeHours:
       '1 godz. co 2 tygodnie, piątek, 12:50-13:50, pokój nauczycielski',
   },
   {
-    firstName: 'Marek',
-    lastName: 'Solarz',
+    name: 'Marek Solarz',
     subject: 'informatyka',
     officeHours: 'czwartek, 11:50-12:50, sala 216',
   },
   {
-    firstName: 'Barbara',
-    lastName: 'Stuczko',
+    name: 'Barbara Stuczko',
     subject: 'geografia',
     officeHours: 'poniedziałek, 14:40-15:40, sala 312',
   },
   {
-    firstName: 'Albert',
-    lastName: 'Swęd',
+    name: 'Albert Swęd',
     subject: 'wychowanie fizyczne',
     officeHours: 'wtorek, 15:30-16:30, pok. nauczycieli WF',
   },
   {
-    firstName: 'Joanna',
-    lastName: 'Szlachetka',
+    name: 'Joanna Szlachetka',
     subject: 'pedagog',
     officeHours: 'środa, 8:00-9:00, gabinet pedagoga',
   },
   {
-    firstName: 'Renata',
-    lastName: 'Świgost',
+    name: 'Renata Świgost',
     subject: 'historia, WOS, HIS',
     officeHours: 'wtorek, 14:35-15:35, sala 313',
   },
   {
-    firstName: 'Donata',
-    lastName: 'Wajda',
+    name: 'Donata Wajda',
     subject: 'język niemiecki',
     officeHours: 'wtorek, 15:30-16:30, sala 308',
   },
   {
-    firstName: 'Angelika',
-    lastName: 'Wójciak',
+    name: 'Angelika Wójciak',
     subject: 'język angielski',
     officeHours: 'poniedziałek, 14:35-15:35, sala 210',
   },
   {
-    firstName: 'Ryszard',
-    lastName: 'Mamczura',
+    name: 'Ryszard Mamczura',
     subject: 'język polski',
     officeHours: 'TBD',
   },
   {
-    firstName: 'Jakub',
-    lastName: 'Mordyl',
+    name: 'Jakub Mordyl',
     subject: 'EDB',
     officeHours: 'TBD',
   },
 ];
 
 export default function Teachers() {
-  listOfTeachers.sort((a, b) => (a.lastName > b.lastName ? 1 : -1));
+  listOfTeachers.sort((a, b) => (a.name > b.name ? 1 : -1));
   return (
     <Box
       sx={{
@@ -184,10 +154,7 @@ export default function Teachers() {
       }}
     >
       {listOfTeachers.map((props) => (
-        <StaffMemberCard
-          {...props}
-          key={`${props.firstName} ${props.lastName}`}
-        />
+        <StaffMemberCard {...props} key={props.name} />
       ))}
     </Box>
   );
