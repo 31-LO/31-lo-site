@@ -2,27 +2,37 @@
 
 ## Dyrektor
 
-mgr Łukasz Pająk
+import StaffMemberCard from '@site/src/components/Staff/StaffMemberCard';
 
-Dyrektor przyjmuje strony w poniedziałki w godz. 12:00 - 18:00
+<StaffMemberCard
+  name="mgr Łukasz Pająk"
+  officeHours="poniedziałek, 12:00 - 18:00"
+>
 
 tel./fax.: 12 413 35 54
 
 mail: zso13@mjo.krakow.pl lub lukasz.pajak@lo31.krakow.pl
 
+</StaffMemberCard>
+
 ## Wicedyrektor
 
-mgr Kamila Jakóbczak
-
-Wicedyrektor przyjmuje strony w czwartki w godz. 15:00 - 18:00
+<StaffMemberCard
+  name="mgr Kamila Jakóbczak"
+  officeHours="czwartek, 15:00 - 18:00"
+>
 
 tel./fax.: 12 413 35 54
 
 mail: zso13@mjo.krakow.pl lub kamila.jakobczak@lo31.krakow.pl
 
+</StaffMemberCard>
+
 ## Sekretariat
 
-Mariola Kowalska
+<StaffMemberCard
+  name="Mariola Kowalska"
+>
 
 Sekretariat otwarty jest w poniedziałek, środę, czwartek i piątek od 8:00 do
 14:00
@@ -33,9 +43,13 @@ tel/fax: 12 413 35 54
 
 mail: zso13@mjo.krakow.pl
 
+</StaffMemberCard>
+
 ## Pedagog
 
-Joanna Szlachetka
+<StaffMemberCard
+  name="Joanna Szlachetka"
+>
 
 Pedagog szkolny jest do dyspozycji uczniów i rodziców:
 
@@ -45,6 +59,8 @@ Pedagog szkolny jest do dyspozycji uczniów i rodziców:
 tel/fax: 12 413 35 54
 
 mail: joanna.szlachetka@lo31.krakow.pl
+
+</StaffMemberCard>
 
 **Uczniu**, **uczennico**, nie masz głowy do nauki ani ochoty do zabawy? Jest Ci
 smutno, źle? Pamiętaj, szkoła to nie tylko miejsce, w którym się uczysz. Tutaj
@@ -60,14 +76,19 @@ Razem pokonamy trudności!
 
 ## Nauczyciele
 
-import Teachers from '@site/src/components/Teachers';
+import Teachers from '@site/src/components/Staff/Teachers';
 
 <Teachers />
 
 :::info
 
-Godzina dostępności dla uczniów i nauczycieli, zgodnie z KN art. 42. ust. 2f,
-który brzmi:
+Jeżeli nauczyciel jest zatrudniony na pełny etat, jest dostępny dla uczniów i
+rodziców przez jedną godzinę w tygodniu.
+
+Jeżeli natomiast jest zatrudniony na na mniej niż pół etatu, nauczyciel jest
+dostępny przez jedną godzinę raz na dwa tygodnie.
+
+Zgodnie z KN art. 42. ust. 2f, który brzmi:
 
 "W ramach zajęć i czynności, o których mowa w ust. 2 pkt 2, nauczyciel jest
 obowiązany do dostępności w szkole w wymiarze 1 godziny tygodniowo, a w
