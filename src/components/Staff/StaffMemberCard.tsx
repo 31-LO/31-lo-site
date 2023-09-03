@@ -34,7 +34,7 @@ export default function StaffMemberCard({
       <Box
         sx={{
           display: 'flex',
-          alignItems: 'center',
+          alignItems: 'flex-start',
           justifyContent: 'flex-start',
         }}
       >
