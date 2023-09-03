@@ -1,18 +1,8 @@
-import Typography from '@mui/material/Typography';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
 import React from 'react';
-import CardHeader from '@mui/material/CardHeader';
+import Box from '@mui/material/Box';
+import StaffMemberCard, { StaffMemberProps } from './StaffMemberCard';
 
-type TeacherProps = {
-  firstName: string;
-  lastName: string;
-  titleOfAddress?: string;
-  subject: string;
-  officeHours: string;
-};
-
-const listOfTeachers: TeacherProps[] = [
+const listOfTeachers: StaffMemberProps[] = [
   {
     firstName: 'Jacek',
     lastName: 'Brzostowski',
@@ -181,42 +171,24 @@ const listOfTeachers: TeacherProps[] = [
   },
 ];
 
-function Teacher({
-  firstName,
-  lastName,
-  titleOfAddress,
-  subject,
-  officeHours,
-}: TeacherProps) {
-  const fullName = [titleOfAddress, firstName, lastName].join(' ');
-  return (
-    <Card sx={{ padding: 1.5 }}>
-      <CardHeader title={fullName} subheader={subject} />
-      <CardContent>
-        <Typography variant="subtitle2" component="div">
-          Konsultacje:
-        </Typography>
-        <Typography>{officeHours}</Typography>
-      </CardContent>
-    </Card>
-  );
-}
-
 export default function Teachers() {
   listOfTeachers.sort((a, b) => (a.lastName > b.lastName ? 1 : -1));
   return (
-    <div
-      style={{
+    <Box
+      sx={{
         display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
+        gridTemplateColumns: { sm: '1fr', md: '1fr 1fr' },
         gridTemplateRows: '1fr',
         gap: '1rem',
         margin: '2rem 0',
       }}
     >
       {listOfTeachers.map((props) => (
-        <Teacher {...props} key={`${props.firstName} ${props.lastName}`} />
+        <StaffMemberCard
+          {...props}
+          key={`${props.firstName} ${props.lastName}`}
+        />
       ))}
-    </div>
+    </Box>
   );
 }
