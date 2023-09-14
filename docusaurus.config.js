@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'Statut szkoły',
-                to: 'docs/statut-szkoły',
+                to: 'docs/statut',
               },
               {
                 label: 'Informacje dodatkowe',
