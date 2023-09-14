@@ -102,6 +102,10 @@ const config = {
                 to: 'docs/biblioteka',
               },
               {
+                label: 'Statut szkoły',
+                to: 'docs/statut-szkoły',
+              },
+              {
                 label: 'Informacje dodatkowe',
                 to: 'docs/informacje-dodatkowe',
               },

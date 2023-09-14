@@ -29,6 +29,7 @@
     "Ligas",
     "Mamczura",
     "Meus",
+    "Mobi",
     "Molicka",
     "Mordyl",
     "Mrzigod",
@@ -54,7 +55,7 @@
     "wolontaryjnej",
     "Zamarlik"
   ],
-  "cSpell.enableFiletypes": ["mdx"],
+    "cSpell.enableFiletypes": ["mdx"],
   "cSpell.ignoreRegExpList": [
     "(?<=\\[[^\\]]+\\])\\([^\\)]+\\)",
     "href=\"[^\"]+\"",
