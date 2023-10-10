@@ -50,6 +50,7 @@ export default function StaffMemberCard({
             },
             '.MuiCardHeader-subheader': {
               fontSize: 13,
+              color: 'var(--ifm-font-color-base)',
             },
           }}
         />
@@ -65,7 +66,7 @@ export default function StaffMemberCard({
           {children && <Typography>{children}</Typography>}
         </CardContent>
       </Box>
-      <Divider sx={{ display: { xs: 'block', sm: 'none'}}} />
+      <Divider sx={{ display: { xs: 'block', sm: 'none' } }} />
     </Box>
   );
 }
