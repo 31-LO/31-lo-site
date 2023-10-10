@@ -4,6 +4,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
 import Box from '@mui/material/Box';
+import { Divider } from '@mui/material';
 
 const placeholder = require('./img/placeholder.png').default;
 
@@ -25,10 +26,9 @@ export default function StaffMemberCard({
   return (
     <Box
       sx={{
-        padding: 1.5,
         display: 'grid',
         gridTemplateColumns: { md: '145px 2fr', sm: '1fr' },
-        gap: 2,
+        gap: 1,
       }}
     >
       <Box
@@ -41,7 +41,18 @@ export default function StaffMemberCard({
         <img alt="" src={imagePath || placeholder} />
       </Box>
       <Box>
-        <CardHeader title={name} subheader={subject} />
+        <CardHeader
+          title={name}
+          subheader={subject}
+          sx={{
+            '.MuiCardHeader-title': {
+              fontSize: 16,
+            },
+            '.MuiCardHeader-subheader': {
+              fontSize: 13,
+            },
+          }}
+        />
         <CardContent>
           {officeHours && (
             <>
@@ -54,6 +65,7 @@ export default function StaffMemberCard({
           {children && <Typography>{children}</Typography>}
         </CardContent>
       </Box>
+      <Divider sx={{ display: { xs: 'block', sm: 'none'}}} />
     </Box>
   );
 }

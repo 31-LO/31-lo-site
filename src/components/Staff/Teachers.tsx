@@ -6,137 +6,164 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Jacek Brzostowski',
     subject: 'matematyka',
-    imagePath: require('./img/brzostowski.png').default
+    imagePath: require('./img/brzostowski.png').default,
+    officeHours: 'środa 7:00 - 8:00 s. 305',
   },
   {
     name: 'Monika Budziak',
     subject: 'język polski',
-    imagePath: require('./img/budziak.png').default
+    imagePath: require('./img/budziak.png').default,
+    officeHours: 'piątek 13:35 - 14:35, s. 310',
   },
   {
     name: 'Renata Chodacka',
     subject: 'chemia',
-    imagePath: require('./img/placeholder.png').default
+    imagePath: require('./img/placeholder.png').default,
+    officeHours: 'środa 8:45 - 9:45 s. 313',
   },
   {
     name: 'Roman Czapla',
     subject: 'informatyka',
-    imagePath: require('./img/czapla.png').default
+    imagePath: require('./img/czapla.png').default,
+    officeHours: 'poniedziałek, 15:25 - 16:25, s. 217',
   },
   {
     name: 'Monika Grosiak',
     subject: 'biologia',
-    imagePath: require('./img/grosiak.png').default
+    imagePath: require('./img/grosiak.png').default,
+    officeHours: 'poniedziałek, 13:40 - 14:40, s. 313',
   },
   {
     name: 'Dorota Haase',
     subject: 'język angielski',
-    imagePath: require('./img/haase.png').default
+    imagePath: require('./img/haase.png').default,
+    officeHours: 'piątek, 7:55 - 8:55, s. 307',
   },
   {
     name: 'wicedyr. Kamila Jakóbczak',
     subject: 'plastyka',
-    imagePath: require('./img/jakobczak.png').default
+    imagePath: require('./img/jakobczak.png').default,
+    officeHours: 'czwartek, 14:00 - 15:00, gabinet wicedyrektora',
   },
   {
     name: 'Agnieszka Korpała',
     subject: 'fizyka, matematyka',
-    imagePath: require('./img/korpala.png').default
+    imagePath: require('./img/korpala.png').default,
+    officeHours: 'czwartek, 15:40 - 16:40, s. 314',
   },
   {
     name: 'Anna Ligas-Kowaluk',
     subject: 'język angielski',
-    imagePath: require('./img/ligas.png').default
+    imagePath: require('./img/ligas.png').default,
+    officeHours: 'środa, 14:40 - 15:40, s. 306',
   },
   {
     name: 'Janina Magas',
     subject: 'język polski dla obcokrajowców',
-    imagePath: require('./img/magas.png').default
+    imagePath: require('./img/magas.png').default,
+    officeHours: 'termin konsultacji ustalany indywidualnie',
   },
   {
     name: 'Katarzyna Molicka-Mocek',
     subject: 'język niemiecki',
-    imagePath: require('./img/molicka.png').default
+    imagePath: require('./img/molicka.png').default,
+    officeHours: 'wtorek 7:00 - 8:00, s. 308',
   },
   {
     name: 'dyr. Łukasz Pająk',
     subject: 'wychowanie do życia w rodzinie',
-    imagePath: require('./img/pajak.png').default
+    imagePath: require('./img/pajak.png').default,
+    officeHours: 'poniedziałek 15:30 - 16:30, s. 005',
   },
   {
     name: 'Małgorzata Potyrało',
     subject: 'biblioteka',
-    imagePath: require('./img/placeholder.png').default
+    imagePath: require('./img/placeholder.png').default,
+    officeHours: 'czwartek 15:00 - 16:00 biblioteka',
   },
   {
     name: 'Anna Radzik',
     subject: 'wychowanie fizyczne',
-    imagePath: require('./img/radzik.png').default
+    imagePath: require('./img/radzik.png').default,
+    officeHours: 'środa, 15:30 - 16:30, pok. nauczycieli WF',
   },
   {
     name: 'ks. Krzysztof Rusnak',
     subject: 'religia',
-    imagePath: require('./img/rusnak.png').default
+    imagePath: require('./img/rusnak.png').default,
+    officeHours: 'czwartek 9:40 - 10:40, pokój nauczycielski',
   },
   {
     name: 'Marek Solarz',
     subject: 'informatyka',
-    imagePath: require('./img/solarz.png').default
+    imagePath: require('./img/solarz.png').default,
+    officeHours: 'wtorek, 12:40 - 13:40, pokój nauczycielski',
   },
   {
     name: 'Albert Swęd',
     subject: 'wychowanie fizyczne',
-    imagePath: require('./img/swed.png').default
+    imagePath: require('./img/swed.png').default,
+    officeHours: 'poniedziałek 15:25 - 16:25, pok. nauczycieli WF',
   },
   {
     name: 'Joanna Szlachetka',
     subject: 'pedagog',
-    imagePath: require('./img/szlachetka.png').default
+    imagePath: require('./img/szlachetka.png').default,
+    officeHours: 'czwartek, 8:15 - 9:15, gabinet pedagoga',
   },
   {
     name: 'Donata Wajda',
     subject: 'język niemiecki',
-    imagePath: require('./img/wajda.png').default
+    imagePath: require('./img/wajda.png').default,
+    officeHours: 'wtorek, 15:25 - 16:25, s. 205b',
   },
   {
     name: 'Angelika Wójciak',
     subject: 'język angielski',
-    imagePath: require('./img/wojciak.png').default
+    imagePath: require('./img/wojciak.png').default,
+    officeHours: 'środa, 7:00 - 8:00, s. 309',
   },
   {
     name: 'Jakub Mordyl',
     subject: 'wychowanie fizyczne',
-    imagePath: require('./img/mordyl.png').default
+    imagePath: require('./img/mordyl.png').default,
+    officeHours: 'czwartek 11:40 - 12:40, pok. nauczycieli WF',
   },
   {
     name: 'Joanna Dusza',
     subject: 'EDB, podstawy przedsiębiorczości, doradztwo zawodowe',
-    imagePath: require('./img/dusza.png').default
+    imagePath: require('./img/dusza.png').default,
+    officeHours: 'czwartek 12:20 - 13:20 pokój nauczycielski, (co drugi tydz.)',
   },
   {
     name: 'Krystian Prymon',
     subject: 'język polski',
-    imagePath: require('./img/prymon.png').default
+    imagePath: require('./img/prymon.png').default,
+    officeHours: 'środa 8:00 - 9:00, s. 112',
   },
   {
     name: 'Marika Serafin',
     subject: 'język angielski',
-    imagePath: require('./img/serafin.png').default
+    imagePath: require('./img/serafin.png').default,
+    officeHours: 'wtorek 9:35 - 10:35, pokój nauczycielski',
   },
   {
     name: 'Magdalena Stańczak-Strząska',
     subject: 'matematyka',
-    imagePath: require('./img/stanczak.png').default
+    imagePath: require('./img/stanczak.png').default,
+    officeHours: 'wtorek, 7:00 - 8:00, s. 207',
   },
   {
     name: 'Karolina Sumara',
     subject: 'historia',
-    imagePath: require('./img/placeholder.png').default
+    imagePath: require('./img/sumara.png').default,
+    officeHours: 'poniedziałek, 12:30 - 13:30, s. 206',
   },
   {
     name: 'Blanka Woszczek',
     subject: 'geografia',
-    imagePath: require('./img/placeholder.png').default
+    imagePath: require('./img/placeholder.png').default,
+    officeHours: 'poniedziałek, 14:45 - 15:30, pokój nauczycielski',
   },
 ];
 
