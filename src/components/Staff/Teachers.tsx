@@ -7,7 +7,7 @@ const listOfTeachers: StaffMemberProps[] = [
     name: 'Jacek Brzostowski',
     subject: 'matematyka',
     imagePath: require('./img/brzostowski.png').default,
-    officeHours: 'środa 7:00 - 8:00 s. 305',
+    officeHours: 'piątek 12:40 - 13:40 s. 305',
   },
   {
     name: 'Monika Budziak',
