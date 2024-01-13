@@ -1,11 +1,8 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: 'LO 31',
   tagline: 'Jedyne takie liceum',
   favicon: 'img/favicon.ico',
@@ -36,7 +33,7 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
@@ -50,13 +47,13 @@ const config = {
           trackingID: 'G-PZCSLJKETM',
           anonymizeIP: true,
         },
-      }),
+      } satisfies Preset.Options,
     ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -204,10 +201,10 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
-    }),
+    } satisfies Preset.ThemeConfig,
 };
 
 module.exports = config;
