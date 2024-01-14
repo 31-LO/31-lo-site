@@ -19,10 +19,10 @@ export default function CookieDialog() {
       <div className={styles.card}>
         <div className={styles.title}>Ta strona używa "cookies" 🍪</div>
         <p>
-          Cookies czyli ciasteczka to pliki umożliwiające zapisywanie informacji
-          o Tobie i Twoich działaniach w Internecie. Nasza strona używa
-          analityki Google'a więc Google dokłada do niej swoje pliki cookies,
-          żeby realizować swoje cele biznesowe.
+          Cookies, czyli ciasteczka, to pliki umożliwiające zapisywanie
+          informacji o Tobie i Twoich działaniach w Internecie. Nasza strona
+          używa analityki Google'a więc Google dokłada do niej swoje pliki
+          cookies.
         </p>
         <p>
           <strong>Nie martw się</strong>, w tym momencie pliki cookies są
