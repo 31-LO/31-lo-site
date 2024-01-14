@@ -1,16 +1,5 @@
 import Link from '@docusaurus/Link';
 import React from 'react';
-import uk from './img/untitled-kingdom.webp';
-import frozenWay from './img/frozen-way.webp';
-import drawDistance from './img/draw-distance.webp';
-import kpt from './img/kpt.webp';
-import uj from './img/uj.webp';
-import naNiby from './img/na-niby.webp';
-import cisco from './img/cisco.webp';
-import iht from './img/iht.webp';
-import kms from './img/kms.webp';
-import ear from './img/ear.webp';
-import marmot from './img/swistak.webp';
 
 type PartnerProps = {
   name: string;
@@ -52,7 +41,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Untitled Kingdom',
     url: 'https://www.untitledkingdom.com/',
-    logo: uk,
+    logo: require('./img/untitled-kingdom.webp').default,
     description: (
       <>
         <p>
@@ -76,7 +65,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Frozen Way',
     url: 'https://frozenway.games/',
-    logo: frozenWay,
+    logo: require('./img/frozen-way.webp').default,
     description: (
       <>
         <p>
@@ -98,7 +87,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Draw Distance',
     url: 'https://drawdistance.dev/',
-    logo: drawDistance,
+    logo: require('./img/draw-distance.webp').default,
     description: (
       <>
         <p>
@@ -119,7 +108,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Krakowski Park Technologiczny',
     url: 'https://www.kpt.krakow.pl/',
-    logo: kpt,
+    logo: require('./img/kpt.webp').default,
     description: (
       <>
         <p>
@@ -140,7 +129,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'UJ Wydz. Fizyki, Astronomii i Informatyki Stosowanej, Zakład Technologii Gier',
     url: 'http://www.ztg.fais.uj.edu.pl/',
-    logo: uj,
+    logo: require('./img/uj.webp').default,
     description: (
       <>
         <p>
@@ -158,7 +147,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Na Niby Studio (Make Believe Graphics)',
     url: 'https://nanibystudio.pl/',
-    logo: naNiby,
+    logo: require('./img/na-niby.webp').default,
     description: (
       <>
         <p>
@@ -176,7 +165,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Cisco Kraków',
     url: 'https://www.facebook.com/CiscoKrakow/',
-    logo: cisco,
+    logo: require('./img/cisco.webp').default,
     description: (
       <>
         <p>
@@ -197,7 +186,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'i-ht',
     url: 'https://i-ht.pl/strona-glowna',
-    logo: iht,
+    logo: require('./img/iht.webp').default,
     description: (
       <>
         <p>
@@ -215,7 +204,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Kraków Miastem Startupów',
     url: 'https://kms.org.pl/',
-    logo: kms,
+    logo: require('./img/kms.webp').default,
     description: (
       <>
         <p>
@@ -236,7 +225,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'EAR',
     url: 'https://earear.pl/',
-    logo: ear,
+    logo: require('./img/ear.webp').default,
     description: (
       <>
         <p>
@@ -254,7 +243,7 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Krakowski Świstak',
     url: 'https://www.swistak-krakow.pl/',
-    logo: marmot,
+    logo: require('./img/swistak.webp').default,
     description: (
       <>
         <p>Krakowski Świstak to konsultant strategii w biznesie.</p>
@@ -264,6 +253,22 @@ const partnerList: PartnerProps[] = [
           Jeśli jest wśród naszych uczniów potencjał na tech startup to znajdzie
           go i rozwinie właśnie Świstak!
         </p>
+      </>
+    ),
+  },
+  {
+    name: 'Salon reklamy',
+    url: 'https://salonreklamy.pl/',
+    logo: require('./img/salon-reklamy-square.png').default,
+    description: (
+      <>
+        Firma zajmuje się kompleksową obsługą reklamową biznesu. Tworzy
+        kreatywne projekty graficzne i skuteczne strategie marketingowe. Poprzez
+        współpracę z firmą nasi uczniowie poznają podstawy projektowania
+        graficznego 2D, teorie koloru, kompozycji, uczą się jak przygotowywać
+        pliki i wiele innych ważnych aspektów grafiki. Pobudzają również swoją
+        kreatywność podczas ciekawych warsztatów i projektów, a energia i zapał
+        prowadzących zaszczepia w nich miłość do tworzenia.
       </>
     ),
   },

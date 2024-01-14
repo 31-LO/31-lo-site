@@ -51,11 +51,12 @@
     "Techlandu",
     "Uliszak",
     "unboxingu",
+    "webp",
     "Wiedermann",
     "wolontaryjnej",
     "Zamarlik"
   ],
-    "cSpell.enableFiletypes": ["mdx"],
+  "cSpell.enableFiletypes": ["mdx"],
   "cSpell.ignoreRegExpList": [
     "(?<=\\[[^\\]]+\\])\\([^\\)]+\\)",
     "href=\"[^\"]+\"",
