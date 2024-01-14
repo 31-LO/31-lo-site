@@ -1,16 +1,8 @@
 .card {
-  position: sticky;
-  bottom: 50px;
-  left: 50px;
-  background-color: var(--ifm-color-secondary-contrast-background);
-  width: 500px;
-  max-width: 100%;
-  padding: 24px;
-  border: 1.5px solid var(--ifm-color-primary);
+  padding: 32px 24px;
 }
 
 .title {
-  font-family: var(--nice-heading-font);
   font-size: 180%;
 }
 
