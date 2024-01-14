@@ -2,7 +2,7 @@
   position: sticky;
   bottom: 50px;
   left: 50px;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: var(--ifm-color-secondary-contrast-background);
   width: 500px;
   max-width: 100%;
   padding: 24px;
