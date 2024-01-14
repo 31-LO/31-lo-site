@@ -15,7 +15,7 @@ export default function CookieDialog() {
   }
 
   return (
-    <Dialog open={consentGiven !== 'pending'}>
+    <Dialog open={consentGiven === 'pending'}>
       <div className={styles.card}>
         <div className={styles.title}>Ta strona używa "cookies" 🍪</div>
         <p>
