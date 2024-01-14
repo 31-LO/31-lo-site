@@ -1,0 +1,23 @@
+.card {
+  position: sticky;
+  bottom: 50px;
+  left: 50px;
+  background-color: rgba(255, 255, 255, 0.95);
+  width: 500px;
+  max-width: 100%;
+  padding: 24px;
+  border: 1.5px solid var(--ifm-color-primary);
+}
+
+.title {
+  font-family: var(--nice-heading-font);
+  font-size: 180%;
+}
+
+.buttonBar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+}
