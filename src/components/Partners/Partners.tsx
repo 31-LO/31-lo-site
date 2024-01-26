@@ -63,28 +63,6 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: 'Frozen Way',
-    url: 'https://frozenway.games/',
-    logo: require('./img/frozen-way.webp').default,
-    description: (
-      <>
-        <p>
-          Frozen Way to studio deweloperskie i wydawca gier z Krakowa. Są znani
-          ze współtworzenia House Flipper wraz z jego DLC, a także z stworzenia
-          i wydania House Flipper VR na Steam. Koncentrują się na rynku PC oraz
-          konsolach nowej generacji. Są 30 osobową grupą pogodnych ludzi z pasją
-          do gier wideo. Gamedev to ich styl życia i filozofia, więc wierzą, że
-          nie ma nic lepszego niż widzieć, że ich kreacje przynoszą społeczności
-          mnóstwo radości.
-        </p>
-        <p>
-          Firma Frozen Way wspiera warsztaty z silnika Unreal Engine prowadzone
-          w naszej szkole przez niezastąpionego Bartosza Kamińskiego.
-        </p>
-      </>
-    ),
-  },
-  {
     name: 'Draw Distance',
     url: 'https://drawdistance.dev/',
     logo: require('./img/draw-distance.webp').default,
