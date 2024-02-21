@@ -6,9 +6,10 @@ type PartnerProps = {
   url: string;
   description: React.ReactNode;
   logo: string;
+  backgroundColor?: `#${string}` | string;
 };
 
-function Partner({name, url, description, logo}: PartnerProps) {
+function Partner({name, url, description, logo, backgroundColor}: PartnerProps) {
   return (
     <>
       <Link
@@ -24,7 +25,9 @@ function Partner({name, url, description, logo}: PartnerProps) {
           alt=""
           width="300px"
           height="300px"
-          style={{backgroundColor: 'white', padding: '1rem'}}
+          style={
+            {backgroundColor: backgroundColor || 'white', padding: '1rem'}
+          }
         />
       </Link>
       <section className="col">
@@ -100,6 +103,7 @@ const partnerList: PartnerProps[] = [
     name: 'Untitled Kingdom',
     url: 'https://www.untitledkingdom.com/',
     logo: require('./img/untitled-kingdom.webp').default,
+    backgroundColor: "#0e0e0e",
     description: (
       <>
         <p>
@@ -300,6 +304,7 @@ const partnerList: PartnerProps[] = [
     name: "proAutomator",
     url: 'https://www.proautomator.pl/',
     logo: require('./img/proautomator.webp').default,
+    backgroundColor: "#080012",
     description: (
       <>
         <p>
