@@ -103,7 +103,7 @@ const partnerList: PartnerProps[] = [
     name: 'Untitled Kingdom',
     url: 'https://www.untitledkingdom.com/',
     logo: require('./img/untitled-kingdom.webp').default,
-    backgroundColor: "#0e0e0e",
+    backgroundColor: "transparent",
     description: (
       <>
         <p>
@@ -206,10 +206,9 @@ const partnerList: PartnerProps[] = [
   },
   {
     name: "Bartosz Kamiński",
-    //TODO: Bartosz Kamiński url
-    url: 'https://www.linkedin.com/in/bartosz-kami%C5%84ski-622238132',
-    //TODO: Bartosz Kamiński logo
-    logo: null,
+    url: 'https://www.youtube.com/user/KamskiStudio',
+    logo: require("./img/bartosz-kaminski.webp").default,
+    backgroundColor: "transparent",
     description: (
       <>
         <p>
@@ -304,7 +303,7 @@ const partnerList: PartnerProps[] = [
     name: "proAutomator",
     url: 'https://www.proautomator.pl/',
     logo: require('./img/proautomator.webp').default,
-    backgroundColor: "#080012",
+    backgroundColor: "transparent",
     description: (
       <>
         <p>
