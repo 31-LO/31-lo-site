@@ -299,7 +299,7 @@ const partnerList: PartnerProps[] = [
   {
     name: "proAutomator",
     url: 'https://www.proautomator.pl/',
-    logo: require('./img/proAutomator-alpha.webp').default,
+    logo: require('./img/proautomator.webp').default,
     description: (
       <>
         <p>
