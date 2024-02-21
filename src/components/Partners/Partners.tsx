@@ -292,7 +292,7 @@ const partnerList: PartnerProps[] = [
   },
   {
     name: "Zakład Technologii Gier Wydziału Fizyki, Astronomii i Informatyki Stosowanej Uniwersytetu Jagiellońskiego",
-    url: 'http://www.ztg.fais.uj.edu.pl/',
+    url: 'https://www.ztg.fais.uj.edu.pl/',
     logo: require('./img/uj.webp').default,
     description: (
       <>
