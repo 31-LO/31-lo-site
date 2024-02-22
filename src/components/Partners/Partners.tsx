@@ -293,7 +293,7 @@ const partnerList: PartnerProps[] = [
   },
   {
     name: "Zakład Technologii Gier Wydziału Fizyki, Astronomii i Informatyki Stosowanej Uniwersytetu Jagiellońskiego",
-    url: 'https://www.ztg.fais.uj.edu.pl/',
+    url: 'https://ztg.fais.uj.edu.pl',
     logo: require('./img/uj.webp').default,
     description: (
       <>
@@ -316,7 +316,7 @@ const partnerList: PartnerProps[] = [
           B2B wobec rosnących kosztów i biurokracji, sprawiając, że będą bardziej rentowne i gotowe do wzrostu.
         </p>
         <p>
-          Jakub Masztalski organizuje dla naszych uczniów cykliczne warsztaty pokazując wszystko z zakresu IA.
+          Jakub Masztalski organizuje dla naszych uczniów cykliczne warsztaty pokazując wszystko z zakresu AI.
         </p>
       </>
     )
