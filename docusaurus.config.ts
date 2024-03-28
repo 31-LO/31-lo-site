@@ -63,7 +63,7 @@ const config: Config = {
         items: [
           // left side
           {
-            label: 'Wieści',
+            label: 'Poczytajże!',
             to: '/blog',
           },
           {
@@ -215,10 +215,10 @@ const config: Config = {
         id: 'blog',
         routeBasePath: 'blog',
         path: './blog',
-        blogTitle: 'Wieści LO31',
+        blogTitle: 'Poczytajże!',
         blogDescription: 'Wszystko co w szkole piszczy!',
         postsPerPage: 'ALL',
-        blogSidebarTitle: 'Wszystkie wieści',
+        blogSidebarTitle: 'Wszystkie "Poczytajże!"',
         blogSidebarCount: 'ALL',
       },
     ],
