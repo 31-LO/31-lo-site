@@ -12,10 +12,10 @@ type RecentBlogPostsProps = {
 export default function RecentBlogPosts({ recentPosts }: RecentBlogPostsProps) {
   return (
     <div className="container">
-      <div className="row margin-top--lg">
+      <div className={styles.cardList}>
         {recentPosts.map(({ content: BlogPostContent }) => (
           <div
-            className={clsx('col col--3 col--offset-1', styles.blogPostList)}
+            className={clsx(styles.card, 'shadow--lw')}
             key={BlogPostContent.metadata.permalink}
           >
             <BlogPostProvider content={BlogPostContent}>
