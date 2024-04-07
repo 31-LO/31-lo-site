@@ -1,15 +1,11 @@
-import React from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import styles from './home.module.css';
-import CallToAction from '@site/src/components/CallToAction';
-import Announcement from '@site/src/components/Announcement';
-import KrakowLogoFrame from '../components/KrakowLogoFrame/KrakowLogoFrame';
+import KrakowLogoFrame from '@site/src/components/KrakowLogoFrame/KrakowLogoFrame';
+import clsx from 'clsx';
+import React from 'react';
+import styles from './Home.module.css';
 
-function HomepageHeader() {
+export default function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -42,22 +38,5 @@ function HomepageHeader() {
         </div>
       </KrakowLogoFrame>
     </header>
-  );
-}
-
-export default function Home(): JSX.Element {
-  return (
-    <Layout
-      title={`Jedyne takie liceum 👋`}
-      description="Liceum informatyczne o profilach programowanie i game dev, rekrutacja. Liceum Ogólnokształcące im. Romana Ingardena w Krakowie."
-    >
-      {/* announcements go here 👇 */}
-      {/* <Announcement /> */}
-      <HomepageHeader />
-      <main className={styles.main}>
-        <HomepageFeatures />
-        <CallToAction />
-      </main>
-    </Layout>
   );
 }

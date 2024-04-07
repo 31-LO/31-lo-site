@@ -37,9 +37,7 @@ const config: Config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -64,6 +62,10 @@ const config: Config = {
         },
         items: [
           // left side
+          {
+            label: 'Dowiedz się!',
+            to: '/blog',
+          },
           {
             label: 'Rekrutacja',
             to: 'docs/oferta-edukacyjna',
@@ -205,6 +207,22 @@ const config: Config = {
         darkTheme: prismThemes.dracula,
       },
     } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    [
+      './src/plugins/blog-plugin',
+      {
+        id: 'blog',
+        routeBasePath: 'blog',
+        path: './blog',
+        blogTitle: 'Dowiedz się!',
+        blogDescription: 'Wszystko co w szkole piszczy!',
+        postsPerPage: 'ALL',
+        blogSidebarTitle: 'Wszystkie "Dowiedz się!"',
+        blogSidebarCount: 'ALL',
+      },
+    ],
+  ],
 };
 
 module.exports = config;

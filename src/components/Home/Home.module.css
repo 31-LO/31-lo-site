@@ -43,6 +43,10 @@
   background-color: var(--ifm-color-primary);
 }
 
+.blogPostList h2 {
+  font-size: large;
+}
+
 @media screen and (max-width: 996px) {
   main.main {
     padding-bottom: 1rem;
