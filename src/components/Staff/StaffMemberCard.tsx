@@ -60,10 +60,10 @@ export default function StaffMemberCard({
               <Typography variant="subtitle2" component="div">
                 Konsultacje:
               </Typography>
-              <Typography>{officeHours}</Typography>
+              <Typography component="div">{officeHours}</Typography>
             </>
           )}
-          {children && <Typography>{children}</Typography>}
+          {children && <Typography component="div">{children}</Typography>}
         </CardContent>
       </Box>
       <Divider sx={{ display: { xs: 'block', sm: 'none' } }} />

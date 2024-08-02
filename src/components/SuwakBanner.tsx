@@ -14,12 +14,14 @@ const images: ImgHTMLAttributes<HTMLImageElement>[] = [
 
 export default function SuwakBanner() {
   return (
-    <Box sx={{
+    <Box
+      sx={{
         display: 'grid',
-        gridTemplateColumns: { xs: '1fr', sm: '1fr 1fr'}
-    }}>
-      {images.map((props) => (
-        <img {...props} />
+        gridTemplateColumns: { xs: '1fr', sm: '1fr 1fr' },
+      }}
+    >
+      {images.map((props, idx) => (
+        <img {...props} key={idx} />
       ))}
     </Box>
   );
