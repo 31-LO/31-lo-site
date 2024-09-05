@@ -113,6 +113,11 @@ const config: Config = {
                 label: 'Deklaracja dostępności',
                 to: 'docs/deklaracja-dostepnosci',
               },
+              {
+                label:
+                  'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
+                to: 'docs/ochrona',
+              },
             ],
           },
           {
