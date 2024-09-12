@@ -1,6 +1,7 @@
 import React from 'react';
 import Box from '@mui/material/Box';
 import StaffMemberCard, { StaffMemberProps } from './StaffMemberCard';
+const placeholder = require('./img/placeholder.png').default
 
 const listOfTeachers: StaffMemberProps[] = [
   {
@@ -16,9 +17,9 @@ const listOfTeachers: StaffMemberProps[] = [
     officeHours: 'piątek 13:35 - 14:35, s. 310',
   },
   {
-    name: 'Renata Chodacka',
+    name: 'Barbara Machnik',
     subject: 'chemia',
-    imagePath: require('./img/placeholder.png').default,
+    imagePath: placeholder,
     officeHours: 'środa 8:45 - 9:45 s. 313',
   },
   {
@@ -78,7 +79,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Małgorzata Potyrało',
     subject: 'biblioteka',
-    imagePath: require('./img/placeholder.png').default,
+    imagePath: placeholder,
     officeHours: 'czwartek 15:00 - 16:00 biblioteka',
   },
   {
@@ -88,9 +89,9 @@ const listOfTeachers: StaffMemberProps[] = [
     officeHours: 'środa, 15:30 - 16:30, pok. nauczycieli WF',
   },
   {
-    name: 'ks. Krzysztof Rusnak',
+    name: 'Krzysztof Kasprzycki',
     subject: 'religia',
-    imagePath: require('./img/rusnak.png').default,
+    imagePath: placeholder,
     officeHours: 'czwartek 9:40 - 10:40, pokój nauczycielski',
   },
   {
@@ -104,12 +105,6 @@ const listOfTeachers: StaffMemberProps[] = [
     subject: 'wychowanie fizyczne',
     imagePath: require('./img/swed.png').default,
     officeHours: 'poniedziałek 15:25 - 16:25, pok. nauczycieli WF',
-  },
-  {
-    name: 'Joanna Szlachetka',
-    subject: 'pedagog',
-    imagePath: require('./img/szlachetka.png').default,
-    officeHours: 'czwartek, 8:15 - 9:15, gabinet pedagoga',
   },
   {
     name: 'Donata Wajda',
@@ -130,12 +125,6 @@ const listOfTeachers: StaffMemberProps[] = [
     officeHours: 'czwartek 11:40 - 12:40, pok. nauczycieli WF',
   },
   {
-    name: 'Joanna Dusza',
-    subject: 'EDB, podstawy przedsiębiorczości, doradztwo zawodowe',
-    imagePath: require('./img/dusza.png').default,
-    officeHours: 'czwartek 12:20 - 13:20 pokój nauczycielski, (co drugi tydz.)',
-  },
-  {
     name: 'Krystian Prymon',
     subject: 'język polski',
     imagePath: require('./img/prymon.png').default,
@@ -148,22 +137,22 @@ const listOfTeachers: StaffMemberProps[] = [
     officeHours: 'wtorek 9:35 - 10:35, pokój nauczycielski',
   },
   {
-    name: 'Magdalena Stańczak-Strząska',
-    subject: 'matematyka',
-    imagePath: require('./img/stanczak.png').default,
-    officeHours: 'wtorek, 7:00 - 8:00, s. 207',
+    name: 'Blanka Woszczek',
+    subject: 'geografia',
+    imagePath: placeholder,
+    officeHours: 'poniedziałek, 14:45 - 15:30, pokój nauczycielski',
   },
   {
-    name: 'Karolina Sumara',
-    subject: 'historia',
-    imagePath: require('./img/sumara.png').default,
+    name: 'Marcin Papież',
+    subject: 'historia, biznes i zarządzanie',
+    imagePath: placeholder,
     officeHours: 'poniedziałek, 12:30 - 13:30, s. 206',
   },
   {
-    name: 'Blanka Woszczek',
-    subject: 'geografia',
-    imagePath: require('./img/placeholder.png').default,
-    officeHours: 'poniedziałek, 14:45 - 15:30, pokój nauczycielski',
+    name: 'Natalia Głowicka',
+    subject: 'edukacja dla bezpieczeństwa',
+    imagePath: placeholder,
+    officeHours: 'poniedziałek, 12:30 - 13:30, s. 206',
   },
 ];
 
