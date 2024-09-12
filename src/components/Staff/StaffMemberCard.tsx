@@ -60,7 +60,7 @@ export default function StaffMemberCard({
               <Typography variant="subtitle2" component="div">
                 Konsultacje:
               </Typography>
-              <Typography component="div">{officeHours}</Typography>
+              <Typography component="div">{'podamy wkrótce'}</Typography>
             </>
           )}
           {children && <Typography component="div">{children}</Typography>}
