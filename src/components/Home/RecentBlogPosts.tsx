@@ -1,4 +1,4 @@
-import { BlogPostProvider } from '@docusaurus/theme-common/internal';
+import { BlogPostProvider } from '@docusaurus/plugin-content-blog/client';
 import BlogPostItem from '@theme/BlogPostItem';
 import { Content } from '@theme/BlogPostPage';
 import clsx from 'clsx';
