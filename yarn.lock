@@ -11657,6 +11657,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-medium-image-zoom@npm:^5.2.10":
+  version: 5.2.10
+  resolution: "react-medium-image-zoom@npm:5.2.10"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10/1fd6b6fd17dd9befc8afe61a15f97f0e74825726355df0ae23c66dbcd7f14aa5822829c1129e15eb60979ebd9a819041f97be23b196b876d0ec98a0cf295eaa4
+  languageName: node
+  linkType: hard
+
 "react-router-config@npm:^5.1.1":
   version: 5.1.1
   resolution: "react-router-config@npm:5.1.1"
@@ -13692,6 +13702,7 @@ __metadata:
     prism-react-renderer: "npm:^2.1.0"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
+    react-medium-image-zoom: "npm:^5.2.10"
     typescript: "npm:~5.2.2"
   languageName: unknown
   linkType: soft
