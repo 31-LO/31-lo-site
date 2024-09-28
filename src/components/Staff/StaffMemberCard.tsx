@@ -1,10 +1,9 @@
-import React from 'react';
-import Typography from '@mui/material/Typography';
-import Card from '@mui/material/Card';
+import { Divider } from '@mui/material';
+import Box from '@mui/material/Box';
 import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
-import Box from '@mui/material/Box';
-import { Divider } from '@mui/material';
+import Typography from '@mui/material/Typography';
+import React from 'react';
 
 const placeholder = require('./img/placeholder.png').default;
 
