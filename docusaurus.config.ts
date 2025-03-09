@@ -161,6 +161,20 @@ const config: Config = {
             to: 'docs/boisko',
           },
           {
+            label: 'Zamówienia publiczne',
+            to: 'docs/zamowienia-publiczne',
+            items: [
+              {
+                label: "Plan postępowań o udzielenie zamówień publicznych",
+                to: 'docs/plan-postepowan'
+              },
+              {
+                label: "Zamówienia publiczne równe lub powyżej 130 000 zł",
+                to: 'docs/powyzej-130k'
+              }
+            ]
+          },
+          {
             label: 'Kontakt',
             to: 'docs/kontakt',
           },
