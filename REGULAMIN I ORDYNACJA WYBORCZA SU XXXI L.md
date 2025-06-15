@@ -229,8 +229,8 @@ jego trzyletnia kadencja.
     6. obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
        niezwłoczne ogłoszenie,
     7. rozpatrywanie skarg i protestów wyborczych.
-6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych w celu
-   pełnienia swoich obowiązków.
+6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych, które kolidują
+   z czasem pełnienia przez nich obowiązków wyborczych.
 
 #### Część B: Wybory Przewodniczącego Samorządu Uczniowskiego i Opiekuna Samorządu Uczniowskiego
 
@@ -392,16 +392,17 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 4. W przypadku nieuzyskania przez nominowanego kandydata wymaganej większości
    głosów, stosuje się następującą procedurę:
-   1. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
-   przedstawić nowego kandydata do zatwierdzenia.
-   2. W przypadku, gdy Przewodniczący SU nie skorzysta z tego prawa lub jego
-   kolejny kandydat również nie uzyska wymaganej większości, prawo do zgłaszania
-   kandydatów przechodzi na członków RSK.
-   3. Kandydatury zgłoszone przez członków RSK („z sali”) poddawane są pod
-   głosowanie.
-   4. Jeżeli żaden z kandydatów przedstawionych w powyższym trybie nie zostanie
-   zatwierdzony na bieżącym posiedzeniu, Przewodniczący SU zwołuje kolejne
-   posiedzenie w tym celu w terminie nie późniejszym niż 7 dni.
+    1. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
+       przedstawić nowego kandydata do zatwierdzenia.
+    2. W przypadku, gdy Przewodniczący SU nie skorzysta z tego prawa lub jego
+       kolejny kandydat również nie uzyska wymaganej większości, prawo do
+       zgłaszania
+       kandydatów przechodzi na członków RSK.
+    3. Kandydatury zgłoszone przez członków RSK („z sali”) poddawane są pod
+       głosowanie.
+    4. Jeżeli żaden z kandydatów przedstawionych w powyższym trybie nie zostanie
+       zatwierdzony na bieżącym posiedzeniu, Przewodniczący SU zwołuje kolejne
+       posiedzenie w tym celu w terminie nie późniejszym niż 7 dni.
 
 5. Cały skład Zarządu, obejmujący co najmniej stanowiska obowiązkowe, powinien
    zostać powołany w terminie do 30 dni od dnia wyborów Przewodniczącego SU. W
