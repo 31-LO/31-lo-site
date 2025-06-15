@@ -13,7 +13,7 @@ nr 13 w Krakowie.
 
 Samorząd uczniowski, działający w XXXI Liceum Ogólnokształcącym im. Romana
 Ingardena w Krakowie, zwany dalej SU, działa na podstawie Ustawy o systemie
-oświaty z dn. 7 IX 1991 r. (Dz.U. z 1991 r., nr 95, poz. 425), Statutu XXXI
+oświaty z dn. 14 XII 2016 r. (Dz.U. z 2017 r. poz. 59), Statutu XXXI
 Liceum Ogólnokształcącym im. Romana Ingardena w Krakowie oraz niniejszego
 Regulaminu.
 
@@ -65,8 +65,8 @@ Do wybieralnych organów SU należą:
 2. Rada Samorządów Klasowych – organ uchwałodawczy i opiniodawczy.
 3. Zarząd Samorządu Uczniowskiego – organ wspomagający Przewodniczącego SU.
    Kadencja organów SU trwa 1 rok szkolny. Funckji Przewodniczącego SU nie można
-   łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz członka
-   Zarządu SU.
+   łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
+   funkcją członka Zarządu SU.
 
 #### § 8
 
@@ -92,7 +92,6 @@ Rada Samorządów Klasowych (RSK):
 Do obowiązków Rady Samorządów Klasowych należy:
 
 1. uczestnictwo w pracach Rady Samorządów Klasowych i realizacja celów SU,
-1. stosowanie się w swojej działalności do wytycznych Zarządu SU lub dyrektora,
 1. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
 1. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
 
@@ -201,24 +200,32 @@ się raz w roku szkolnym, nie później niż do 10 października.
 
 #### § 19
 
-1. Za przygotowanie i przeprowadzenie wyborów powszechnych odpowiada Uczniowska
-   Komisja Wyborcza (UKW).
-2. UKW składa się z co najmniej 8 uczniów, którzy w danym roku szkolnym nie
-   kandydują na stanowisko Przewodniczącego SU. Członkowie UKW powinni pochodzić
-   z różnych klas.
-3. Skład UKW ogłasza ustępujący Przewodniczący SU w porozumieniu z Opiekunem SU,
-   co najmniej 3 tygodnie przed wyznaczonym terminem wyborów.
-4. Do zadań UKW należy w szczególności:
-   a) ogłoszenie terminu wyborów i zasad zgłaszania kandydatur,
-   b) przyjmowanie i weryfikacja zgłoszeń od kandydatów na Przewodniczącego SU
-   oraz na Opiekuna SU,
-   c) ogłoszenie ostatecznej listy kandydatów,
-   d) nadzór nad przebiegiem kampanii wyborczej,
+1. Za przygotowanie i przeprowadzenie wyborów powszechnych na stanowisko
+   Przewodniczącego SU oraz Opiekuna SU odpowiada Uczniowska Komisja Wyborcza (
+   UKW).
+2. UKW składa się z co najmniej 8 uczniów, rekrutujących się spośród chętnych,
+   którzy w danym roku szkolnym nie kandydują na stanowisko Przewodniczącego SU.
+   Członkowie UKW powinni pochodzić z różnych klas, aby zapewnić
+   reprezentatywność.
+3. Skład UKW jest ogłaszany przez ustępującego Przewodniczącego SU, w
+   porozumieniu z Opiekunem SU, co najmniej 3 tygodnie przed wyznaczonym
+   terminem wyborów.
+4. **Członkowie UKW są zobowiązani do zachowania pełnej bezstronności** w
+   trakcie całego procesu wyborczego.
+5. Do zadań UKW należy w szczególności:
+   a) ogłoszenie harmonogramu wyborów i zasad zgłaszania kandydatur,
+   b) przyjmowanie i weryfikacja formalna zgłoszeń od kandydatów na
+   Przewodniczącego SU oraz na Opiekuna SU,
+   c) ogłoszenie ostatecznej listy kandydatów dopuszczonych do wyborów,
+   d) nadzór nad przebiegiem kampanii wyborczej i reagowanie na ewentualne
+   naruszenia,
    e) przygotowanie i przeprowadzenie głosowania, w tym przygotowanie kart do
    głosowania, list wyborców i lokalu wyborczego,
-   f) obliczenie głosów, sporządzenie protokołu z wyborów i ogłoszenie wyników,
-   g) rozpatrywanie ewentualnych skarg na przebieg wyborów.
-5. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych.
+   f) obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
+   niezwłoczne ogłoszenie,
+   g) rozpatrywanie skarg i protestów wyborczych.
+6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych w celu
+   pełnienia swoich obowiązków.
 
 #### Część B: Wybory Przewodniczącego Samorządu Uczniowskiego i Opiekuna Samorządu Uczniowskiego
 
@@ -257,50 +264,77 @@ dyrektora szkoły.
 
 #### § 24
 
-Zasady przeprowadzenia wyborów są następujące: Wybory odbywają się w wyznaczonym
-przez Uczniowską Komisję Wyborczą terminie w czasie od 20 minut przed
-rozpoczęciem pierwszej lekcji do 20 minut po zakończeniu ostatniej lekcji w
-danym dniu, w trakcie przerw oraz zajęć lekcyjnych. Wybory odbywają się w
-specjalnie na ten cel wyznaczonym pomieszczeniu (osobna sala lub wydzielona
-część korytarza) – lokalu wyborczym. Lokal wyborczy powinien umożliwiać oddanie
-głosu w warunkach tajności. W lokalu wyborczym przez cały okres trwania wyborów
-znajdują się: min. 2 członkowie Uczniowskiej Komisji Wyborczej, karty do
-głosowania, listy wyborców, zaplombowana urna z głosami. Uczniowska Komisja
-Wyborcza przygotowuje listy wyborców na podstawie aktualnej listy uczniów i
-uczennic szkoły. Na liście znajdują się: imię, nazwisko, miejsce na odręczny
-podpis. Przed rozpoczęciem wyborów Uczniowska Komisja Wyborcza drukuje karty do
-głosowania w liczbie odpowiadającej liczbie uczniów szkoły. Każda karta do
-głosowania powinna być opatrzona pieczęcią szkoły. Na kartach do głosowania
-nazwiska kandydatów do Zarządu Samorządu Uczniowskiego oraz na Opiekuna
-Samorządu Uczniowskiego umieszczone są w kolejności alfabetycznej. Głosowanie
-dokonuje się poprzez stawienie się przed Uczniowską Komisją Wyborczą w
-określonym miejscu i terminie, przedstawienie legitymacji uczniowskiej członkom
-Komisji, złożenie podpisu na liście wyborców oraz wypełnienie kart do głosowania
-wg instrukcji na niej zamieszczonej i wrzucenie karty do urny wyborczej. Jeden
-wyborca głosuje poprzez postawienie jednego znaku X (dwóch krzyżujących się
-linii) w polu po lewej stronie nazwiska kandydata do Rady Samorządu
-Uczniowskiego oraz jednego znaku X w polu po lewej stronie nazwiska kandydata na
-Opiekuna Samorządu Uczniowskiego. Za głos nieważny uznaje się ten, w którym na
-karcie znak „X” postawiono przy więcej niż jednym nazwisku kandydata do Rady
-Samorządu Uczniowskiego lub na Opiekuna Samorządu Uczniowskiego oraz jeżeli na
-karcie nie postawiono żadnego znaku „X”.
+Zasady przeprowadzenia wyborów są następujące:
+
+1. Wybory odbywają się w wyznaczonym przez Uczniowską Komisję Wyborczą (UKW)
+   terminie, w godzinach umożliwiających wszystkim uczniom oddanie głosu (np. w
+   czasie przerw oraz w wyznaczonym czasie przed i po lekcjach).
+2. Głosowanie odbywa się w specjalnie na ten cel wyznaczonym i przygotowanym
+   pomieszczeniu (lokalu wyborczym), które gwarantuje tajność głosowania.
+3. W lokalu wyborczym przez cały okres trwania wyborów znajduje się co najmniej
+   dwóch członków UKW, opieczętowane karty do głosowania, listy wyborców oraz
+   zaplombowana urna wyborcza.
+4. UKW przygotowuje listy wyborców na podstawie aktualnej listy uczniów szkoły.
+   Na liście przy każdym uczniu znajduje się miejsce na jego odręczny podpis.
+5. Przed rozpoczęciem głosowania UKW przygotowuje karty do głosowania w liczbie
+   odpowiadającej liczbie uczniów uprawnionych do głosowania. Każda karta do
+   głosowania musi być opatrzona pieczęcią szkoły.
+6. Na karcie do głosowania umieszczone są dwie oddzielne listy kandydatów w
+   kolejności alfabetycznej:
+   a) lista kandydatów na **Przewodniczącego Samorządu Uczniowskiego**,
+   b) lista kandydatów na **Opiekuna Samorządu Uczniowskiego**.
+7. Głosowanie odbywa się poprzez:
+   a) stawienie się w lokalu wyborczym,
+   b) okazanie członkowi UKW legitymacji szkolnej w celu weryfikacji tożsamości,
+   c) złożenie podpisu na liście wyborców i pobranie jednej karty do głosowania,
+   d) udanie się do miejsca zapewniającego tajność, wypełnienie karty i
+   wrzucenie jej do urny.
+8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie
+   przecinające się w obrębie kratki) w kratce przy nazwisku **jednego kandydata
+   ** na Przewodniczącego SU oraz **jednego kandydata** na Opiekuna SU.
+9. Głos w danej części karty (dotyczącej wyboru Przewodniczącego lub Opiekuna)
+   uznaje się za nieważny, jeżeli:
+   a) postawiono znak „X” przy więcej niż jednym nazwisku,
+   b) nie postawiono znaku „X” przy żadnym nazwisku.
+10. Nieważność głosu w jednej części karty (np. w wyborach na Opiekuna) nie
+    powoduje nieważności głosu w drugiej części (np. w wyborach na
+    Przewodniczącego), o ile ta druga część została wypełniona prawidłowo. Karta
+    całkowicie pusta jest w całości nieważna.
 
 #### § 25
 
-Liczenie głosów odbywa się według poniższej procedury Po zakończeniu głosowania
-członkowie Uczniowskiej Komisji Wyborczej otwierają urnę z głosami i dokonują
-przeliczenia znajdujących się w niej kart do głosowania. Liczbę kart do
-głosowania porównuje się z liczbą podpisów złożonych na liście wyborców. Jeśli
-obie liczby zgadzają się, można przejść do liczenia głosów oddanych na
-poszczególnych kandydatów. Uznanie głosu za nieważny wymaga akceptacji
-wszystkich członków UKW obecnych przy liczeniu głosów. Wyniki liczenia głosów
-Uczniowska Komisja Wyborcza spisuje w protokole zawierającym następujące
-informacje: liczba osób uprawnionych do głosowania:, liczba wydanych kart do
-głosowania:, liczba głosów ważnych:, liczba głosów nieważnych:, liczba głosów
-oddanych na poszczególnych kandydatów:, Wyniki liczenia głosów wraz z informacją
-o tym, kto został członkiem Rady Samorządu Uczniowskiego i Opiekunem, Uczniowska
-Komisja Wyborcza publikuje na szkolnej tablicy ogłoszeń oraz stronie
-internetowej szkoły.
+Liczenie głosów odbywa się według poniższej procedury:
+
+1. Niezwłocznie po zakończeniu głosowania członkowie UKW komisyjnie otwierają
+   urnę wyborczą i przeliczają znajdujące się w niej karty do głosowania.
+2. Liczbę kart wyjętych z urny porównuje się z liczbą podpisów złożonych na
+   liście wyborców. Ewentualne rozbieżności odnotowuje się w protokole.
+3. Następnie UKW przystępuje do liczenia głosów, oddzielnie dla wyborów na
+   Przewodniczącego SU i oddzielnie dla wyborów na Opiekuna SU, segregując karty
+   na głosy ważne i nieważne zgodnie z zasadami określonymi w § 24.
+4. Uznanie głosu za nieważny wymaga jednomyślnej zgody wszystkich członków UKW
+   obecnych przy liczeniu głosów.
+5. Z przebiegu liczenia głosów UKW sporządza protokół, który zawiera co najmniej
+   następujące informacje:
+   a) datę i miejsce głosowania,
+   b) liczbę uczniów uprawnionych do głosowania (wg listy wyborców),
+   c) liczbę uczniów, którzy wzięli udział w głosowaniu (wg liczby podpisów na
+   liście),
+   d) liczbę wyjętych z urny kart do głosowania,
+   e) liczbę kart nieważnych (np. nieopieczętowanych) i ważnych,
+   f) w odniesieniu do wyborów na **Przewodniczącego SU**:
+    - liczbę głosów ważnych,
+    - liczbę głosów nieważnych,
+    - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
+      g) w odniesieniu do wyborów na **Opiekuna SU**:
+    - liczbę głosów ważnych,
+    - liczbę głosów nieważnych,
+    - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
+6. Protokół podpisują wszyscy członkowie UKW obecni przy liczeniu głosów.
+7. Wyniki wyborów, wraz z informacją o tym, kto został **Przewodniczącym
+   Samorządu Uczniowskiego** oraz **Opiekunem Samorządu Uczniowskiego**, UKW
+   niezwłocznie podaje do publicznej wiadomości poprzez ogłoszenie na szkolnej
+   tablicy informacyjnej oraz na stronie internetowej szkoły.
 
 #### § 26
 
@@ -360,33 +394,44 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 #### § 30
 
-Mandat Przewodniczącego Samorządu Uczniowskiego i członka Zarządu Samorządu
-Uczniowskiego wygasa w wypadku:
+1. Mandat **Przewodniczącego SU** oraz **członka Zarządu SU** wygasa w
+   przypadku:
+   a) pisemnej rezygnacji złożonej na ręce Opiekuna SU,
+   b) ukończenia nauki w szkole lub skreślenia z listy uczniów,
+   c) upływu kadencji.
 
-1. rezygnacji,
-1. końca kadencji,
-1. ukończenia nauki w szkole.
+2. Mandat **Opiekuna SU** wygasa w przypadku:
+   a) pisemnej rezygnacji,
+   b) ustania stosunku pracy ze szkołą,
+   c) upływu kadencji,
+   d) odwołania przez Dyrektora Szkoły.
 
-Mandat Opiekuna Samorządu Uczniowskiego wygasa w razie:
+3. W przypadku wygaśnięcia mandatu w trakcie trwania kadencji, stosuje się
+   następujące procedury:
+   a) **W przypadku wygaśnięcia mandatu członka Zarządu SU** (innego niż
+   Przewodniczący), nowego członka powołuje się na zwolnione stanowisko w trybie
+   określonym w § 29 niniejszego regulaminu.
+   b) **W przypadku wygaśnięcia mandatu Przewodniczącego SU**, jego obowiązki
+   tymczasowo przejmuje Wiceprzewodniczący SU.
+    - Jeżeli do końca kadencji pozostało mniej niż 4 miesiące,
+      Wiceprzewodniczący
+      pełni funkcję Przewodniczącego do czasu przeprowadzenia nowych, corocznych
+      wyborów.
+    - Jeżeli do końca kadencji pozostało więcej niż 4 miesiące, w terminie 30
+      dni
+      należy przeprowadzić wybory uzupełniające. Za ich organizację odpowiada *
+      *Uczniowska Komisja Wyborcza**, powołana w tym celu przez p.o.
+      Przewodniczącego w porozumieniu z Opiekunem SU.
+      c) **W przypadku wygaśnięcia mandatu Opiekuna SU**, jego obowiązki
+      tymczasowo
+      pełni Dyrektor Szkoły lub wskazany przez niego nauczyciel. Wybory
+      uzupełniające na stanowisko Opiekuna należy przeprowadzić w terminie 30
+      dni.
+      Za ich organizację i przeprowadzenie odpowiada **Uczniowska Komisja
+      Wyborcza
+      **, powołana w tym celu przez Przewodniczącego SU.
 
-1. rezygnacji,
-1. końca kadencji,
-1. odwołania decyzją dyrektora szkoły lub rady pedagogicznej.
-
-Jeśli wygaśnięcie mandatu następuje w trakcie kadencji:
-
-1. w miejsce stałych członków Rady Samorządu Uczniowskiego – Przewodniczący
-   Samorządu Uczniowskiego w porozumieniu z RSK powołuje osoby pełniące ich
-   obowiązki na czas określony lub przeprowadza uzupełniające zwołanie RSK,
-1. w przypadku Przewodniczącego Rady Samorządu Uczniowskiego – na czas określony
-   obowiązki Przewodniczącego pełni Wiceprzewodniczący lub przeprowadza się
-   uzupełniające wybory powszechne,
-1. w przypadku wygaśnięcia mandatu Opiekuna Samorządu Uczniowskiego – Rada
-   Samorządu Uczniowskiego w ciągu miesiąca od chwili wygaśnięcia mandatu
-   przeprowadza uzupełniające wybory powszechne, a w tym czasie obowiązki
-   Opiekuna pełni tymczasowo dyrektor szkoły.
-
-### Rozdział V: POSTANOWIENIA KOŃCOWE – TECHNICZNE
+### Rozdział VI: POSTANOWIENIA KOŃCOWE – TECHNICZNE
 
 #### § 31
 
