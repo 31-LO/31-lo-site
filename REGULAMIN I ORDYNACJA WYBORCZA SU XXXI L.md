@@ -352,7 +352,7 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 #### § 28
 
 1. Członkowie Rady Samorządów Klasowych (Przewodniczący, Wiceprzewodniczący i
-   Skarbnik klasy) wybierani są w każdej klasie w odrębnych, tajnych wyborach.
+   Skarbnik) wybierani są w każdej klasie w odrębnych, tajnych wyborach.
 2. Wybory w klasach organizują i nadzorują wychowawcy klas. Wybory powinny odbyć
    się nie później niż do końca września każdego roku szkolnego.
 3. Wyniki wyborów klasowych wychowawcy przekazują niezwłocznie Opiekunowi SU.
