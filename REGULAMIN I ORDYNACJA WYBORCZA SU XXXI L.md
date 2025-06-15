@@ -75,9 +75,9 @@ Rada Samorządów Klasowych (RSK):
 1. Radę Samorządów Klasowych, zwaną dalej RSK, tworzą przedstawiciele samorządów
    wszystkich klas w szkole.
 2. W skład RSK z każdej klasy wchodzą:
-   a) Przewodniczący klasy,
-   b) Wiceprzewodniczący klasy,
-   c) Skarbnik klasy.
+    1. Przewodniczący klasy,
+    2. Wiceprzewodniczący klasy,
+    3. Skarbnik klasy.
 3. Członkowie samorządów klasowych są wybierani w wewnętrznych, klasowych
    głosowaniach organizowanych i nadzorowanych przez wychowawcę danej klasy.
 4. W przypadku nieobecności członka RSK na posiedzeniu może on wyznaczyć na
@@ -186,10 +186,10 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 1. Niniejsza ordynacja określa tryb wyboru i powoływania organów Samorządu
    Uczniowskiego (SU), którymi są:
-   1. Przewodniczący Samorządu Uczniowskiego,
-   2. Rada Samorządów Klasowych,
-   3. Zarząd Samorządu Uczniowskiego,
-   4. Opiekun Samorządu Uczniowskiego.
+    1. Przewodniczący Samorządu Uczniowskiego,
+    2. Rada Samorządów Klasowych,
+    3. Zarząd Samorządu Uczniowskiego,
+    4. Opiekun Samorządu Uczniowskiego.
 2. Wybory **Przewodniczącego SU** oraz **Opiekuna SU** są powszechne, równe,
    bezpośrednie i odbywają się w głosowaniu
    tajnym.
@@ -218,17 +218,17 @@ jego trzyletnia kadencja.
 4. **Członkowie UKW są zobowiązani do zachowania pełnej bezstronności** w
    trakcie całego procesu wyborczego.
 5. Do zadań UKW należy w szczególności:
-   1. ogłoszenie harmonogramu wyborów,
-   2. przyjmowanie i weryfikacja formalna zgłoszeń od kandydatów na
-   Przewodniczącego SU oraz na Opiekuna SU,
-   3. ogłoszenie ostatecznej listy kandydatów dopuszczonych do wyborów,
-   4. nadzór nad przebiegiem kampanii wyborczej i reagowanie na ewentualne
-   naruszenia,
-   5. przygotowanie i przeprowadzenie głosowania, w tym przygotowanie kart do
-   głosowania, list wyborców i lokalu wyborczego,
-   6. obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
-   niezwłoczne ogłoszenie,
-   7. rozpatrywanie skarg i protestów wyborczych.
+    1. ogłoszenie harmonogramu wyborów,
+    2. przyjmowanie i weryfikacja formalna zgłoszeń od kandydatów na
+       Przewodniczącego SU oraz na Opiekuna SU,
+    3. ogłoszenie ostatecznej listy kandydatów dopuszczonych do wyborów,
+    4. nadzór nad przebiegiem kampanii wyborczej i reagowanie na ewentualne
+       naruszenia,
+    5. przygotowanie i przeprowadzenie głosowania, w tym przygotowanie kart do
+       głosowania, list wyborców i lokalu wyborczego,
+    6. obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
+       niezwłoczne ogłoszenie,
+    7. rozpatrywanie skarg i protestów wyborczych.
 6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych w celu
    pełnienia swoich obowiązków.
 
@@ -286,21 +286,24 @@ Zasady przeprowadzenia wyborów są następujące:
    głosowania musi być opatrzona pieczęcią szkoły.
 6. Na karcie do głosowania umieszczone są dwie oddzielne listy kandydatów w
    kolejności alfabetycznej:
-   1. lista kandydatów na **Przewodniczącego Samorządu Uczniowskiego**,
-   2. lista kandydatów na **Opiekuna Samorządu Uczniowskiego**.
+    1. lista kandydatów na **Przewodniczącego Samorządu Uczniowskiego**,
+    2. lista kandydatów na **Opiekuna Samorządu Uczniowskiego**.
 7. Głosowanie odbywa się poprzez:
-   1. stawienie się w lokalu wyborczym,
-   2. okazanie członkowi UKW legitymacji szkolnej w celu weryfikacji tożsamości,
-   3. złożenie podpisu na liście wyborców i pobranie jednej karty do głosowania,
-   4. udanie się do miejsca zapewniającego tajność, wypełnienie karty i
-   wrzucenie jej do urny.
+    1. stawienie się w lokalu wyborczym,
+    2. okazanie członkowi UKW legitymacji szkolnej w celu weryfikacji
+       tożsamości,
+    3. złożenie podpisu na liście wyborców i pobranie jednej karty do
+       głosowania,
+    4. udanie się do miejsca zapewniającego tajność, wypełnienie karty i
+       wrzucenie jej do urny.
 8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie
-   przecinające się w obrębie kratki) w kratce przy nazwisku **jednego kandydata
-   ** na Przewodniczącego SU oraz **jednego kandydata** na Opiekuna SU.
+   przecinające się w obrębie kratki) w kratce przy nazwisku
+   **jednego kandydata** na Przewodniczącego SU oraz **jednego kandydata** na
+   Opiekuna SU.
 9. Głos w danej części karty (dotyczącej wyboru Przewodniczącego lub Opiekuna)
    uznaje się za nieważny, jeżeli:
-   1. postawiono znak „X” przy więcej niż jednym nazwisku,
-   2. nie postawiono znaku „X” przy żadnym nazwisku.
+    1. postawiono znak „X” przy więcej niż jednym nazwisku,
+    2. nie postawiono znaku „X” przy żadnym nazwisku.
 10. Nieważność głosu w jednej części karty (np. w wyborach na Opiekuna) nie
     powoduje nieważności głosu w drugiej części (np. w wyborach na
     Przewodniczącego), o ile ta druga część została wypełniona prawidłowo. Karta
@@ -321,20 +324,20 @@ Liczenie głosów odbywa się według poniższej procedury:
    obecnych przy liczeniu głosów.
 5. Z przebiegu liczenia głosów UKW sporządza protokół, który zawiera co najmniej
    następujące informacje:
-   a) datę i miejsce głosowania,
-   b) liczbę uczniów uprawnionych do głosowania (wg listy wyborców),
-   c) liczbę uczniów, którzy wzięli udział w głosowaniu (wg liczby podpisów na
-   liście),
-   d) liczbę wyjętych z urny kart do głosowania,
-   e) liczbę kart nieważnych (np. nieopieczętowanych) i ważnych,
-   f) w odniesieniu do wyborów na **Przewodniczącego SU**:
-    - liczbę głosów ważnych,
-    - liczbę głosów nieważnych,
-    - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
-      g) w odniesieniu do wyborów na **Opiekuna SU**:
-    - liczbę głosów ważnych,
-    - liczbę głosów nieważnych,
-    - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
+    1. datę i miejsce głosowania,
+    2. liczbę uczniów uprawnionych do głosowania (wg listy wyborców),
+    3. liczbę uczniów, którzy wzięli udział w głosowaniu (wg liczby podpisów na
+       liście),
+    4. liczbę wyjętych z urny kart do głosowania,
+    5. liczbę kart nieważnych (np. nieopieczętowanych) i ważnych,
+    6. w odniesieniu do wyborów na **Przewodniczącego SU**:
+        - liczbę głosów ważnych,
+        - liczbę głosów nieważnych,
+        - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
+    7. w odniesieniu do wyborów na **Opiekuna SU**:
+        - liczbę głosów ważnych,
+        - liczbę głosów nieważnych,
+        - liczbę głosów ważnych oddanych na poszczególnych kandydatów.
 6. Protokół podpisują wszyscy członkowie UKW obecni przy liczeniu głosów.
 7. Wyniki wyborów, wraz z informacją o tym, kto został **Przewodniczącym
    Samorządu Uczniowskiego** oraz **Opiekunem Samorządu Uczniowskiego**, UKW
@@ -371,15 +374,17 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
    posiedzenie Rady Samorządów Klasowych w celu powołania Zarządu SU.
 
 2. Procedura powoływania Zarządu opiera się na następujących zasadach:
-   a) **Nominacja:** Przewodniczący SU nominuje kandydatów na poszczególne
-   stanowiska w Zarządzie, w tym na stanowiska obowiązkowe: Wiceprzewodniczącego
-   SU oraz Rzecznika Praw Ucznia. Kandydatem może być każdy uczeń szkoły, który
-   wyrazi na to zgodę.
-   b) **Zatwierdzenie:** Rada Samorządów Klasowych głosuje nad zatwierdzeniem
-   każdej przedstawionej kandydatury oddzielnie. Głosowanie w sprawach
-   personalnych jest co do zasady tajne.
-   c) **Powołanie:** Kandydat zostaje powołany na stanowisko w Zarządzie z
-   chwilą uzyskania akceptacji RSK.
+    1. **Nominacja:** Przewodniczący SU nominuje kandydatów na poszczególne
+       stanowiska w Zarządzie, w tym na stanowiska obowiązkowe:
+       Wiceprzewodniczącego
+       SU oraz Rzecznika Praw Ucznia. Kandydatem może być każdy uczeń szkoły,
+       który
+       wyrazi na to zgodę.
+    2. **Zatwierdzenie:** Rada Samorządów Klasowych głosuje nad zatwierdzeniem
+       każdej przedstawionej kandydatury oddzielnie. Głosowanie w sprawach
+       personalnych jest co do zasady tajne.
+    3. **Powołanie:** Kandydat zostaje powołany na stanowisko w Zarządzie z
+       chwilą uzyskania akceptacji RSK.
 
 3. Do zatwierdzenia kandydata i jego powołania na stanowisko wymagane jest
    uzyskanie zwykłej większości głosów przy obecności co najmniej połowy
@@ -401,40 +406,43 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 1. Mandat **Przewodniczącego SU** oraz **członka Zarządu SU** wygasa w
    przypadku:
-   a) pisemnej rezygnacji złożonej na ręce Opiekuna SU,
-   b) ukończenia nauki w szkole lub skreślenia z listy uczniów,
-   c) upływu kadencji.
+    1. pisemnej rezygnacji złożonej na ręce Opiekuna SU,
+    2. ukończenia nauki w szkole lub skreślenia z listy uczniów,
+    3. upływu kadencji.
 
 2. Mandat **Opiekuna SU** wygasa w przypadku:
-   a) pisemnej rezygnacji,
-   b) ustania stosunku pracy ze szkołą,
-   c) upływu kadencji,
-   d) odwołania przez Dyrektora Szkoły.
+    1. pisemnej rezygnacji,
+    2. ustania stosunku pracy ze szkołą,
+    3. upływu kadencji,
+    4. odwołania przez Dyrektora Szkoły.
 
 3. W przypadku wygaśnięcia mandatu w trakcie trwania kadencji, stosuje się
    następujące procedury:
-   a) **W przypadku wygaśnięcia mandatu członka Zarządu SU** (innego niż
-   Przewodniczący), nowego członka powołuje się na zwolnione stanowisko w trybie
-   określonym w § 29 niniejszego regulaminu.
-   b) **W przypadku wygaśnięcia mandatu Przewodniczącego SU**, jego obowiązki
-   tymczasowo przejmuje Wiceprzewodniczący SU.
-    - Jeżeli do końca kadencji pozostało mniej niż 4 miesiące,
-      Wiceprzewodniczący
-      pełni funkcję Przewodniczącego do czasu przeprowadzenia nowych, corocznych
-      wyborów.
-    - Jeżeli do końca kadencji pozostało więcej niż 4 miesiące, w terminie 30
-      dni
-      należy przeprowadzić wybory uzupełniające. Za ich organizację odpowiada *
-      *Uczniowska Komisja Wyborcza**, powołana w tym celu przez p.o.
-      Przewodniczącego w porozumieniu z Opiekunem SU.
-      c) **W przypadku wygaśnięcia mandatu Opiekuna SU**, jego obowiązki
-      tymczasowo
-      pełni Dyrektor Szkoły lub wskazany przez niego nauczyciel. Wybory
-      uzupełniające na stanowisko Opiekuna należy przeprowadzić w terminie 30
-      dni.
-      Za ich organizację i przeprowadzenie odpowiada **Uczniowska Komisja
-      Wyborcza
-      **, powołana w tym celu przez Przewodniczącego SU.
+    1. **W przypadku wygaśnięcia mandatu członka Zarządu SU** (innego niż
+       Przewodniczący), nowego członka powołuje się na zwolnione stanowisko w
+       trybie
+       określonym w § 29 niniejszego regulaminu.
+    2. **W przypadku wygaśnięcia mandatu Przewodniczącego SU**, jego obowiązki
+       tymczasowo przejmuje Wiceprzewodniczący SU.
+        - Jeżeli do końca kadencji pozostało mniej niż 4 miesiące,
+          Wiceprzewodniczący
+          pełni funkcję Przewodniczącego do czasu przeprowadzenia nowych,
+          corocznych
+          wyborów.
+        - Jeżeli do końca kadencji pozostało więcej niż 4 miesiące, w terminie
+          30
+          dni
+          należy przeprowadzić wybory uzupełniające. Za ich organizację
+          odpowiada
+          **Uczniowska Komisja Wyborcza**, powołana w tym celu przez p.o.
+          Przewodniczącego w porozumieniu z Opiekunem SU.
+    3. **W przypadku wygaśnięcia mandatu Opiekuna SU**, jego obowiązki
+       tymczasowo pełni Dyrektor Szkoły lub wskazany przez niego nauczyciel.
+       Wybory
+       uzupełniające na stanowisko Opiekuna należy przeprowadzić w terminie 30
+       dni. Za ich organizację i przeprowadzenie odpowiada
+       **Uczniowska Komisja Wyborcza**, powołana w tym celu przez
+       Przewodniczącego SU.
 
 ### Rozdział VI: POSTANOWIENIA KOŃCOWE – TECHNICZNE
 
