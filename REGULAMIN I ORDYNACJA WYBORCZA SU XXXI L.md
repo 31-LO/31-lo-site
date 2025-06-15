@@ -53,17 +53,17 @@ Opiekun SU wspomaga jego działalność poprzez:
 1. wsparcie SU w sprawach merytorycznych i organizacyjnych,
 2. inspirowanie uczniów do działania,
 3. pośredniczenie w relacjach SU z dyrektorem oraz radą pedagogiczną. Rozdział
-   IV: ORGANY SU – KOMPETENCJE, ZADANIA, STRUKTURA.
+   IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
 
-### Rozdział IV: ORGANY SU – KOMPETENCJE, ZADANIA, STRUKTURA.
+### Rozdział IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
 
 #### § 7
 
 Do wybieralnych organów SU należą:
 
-1. Przewodniczący Samorządu Uczniowskiego – organ wykonawczy.
-2. Rada Samorządów Klasowych – organ uchwałodawczy i opiniodawczy.
-3. Zarząd Samorządu Uczniowskiego – organ wspomagający Przewodniczącego SU.
+1. Przewodniczący Samorządu Uczniowskiego - organ wykonawczy.
+2. Rada Samorządów Klasowych - organ uchwałodawczy i opiniodawczy.
+3. Zarząd Samorządu Uczniowskiego - organ wspomagający Przewodniczącego SU.
 
 Kadencja organów SU trwa 1 rok szkolny. Funckji Przewodniczącego SU nie można
 łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
@@ -198,10 +198,9 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 #### § 18
 
-Coroczne wybory powszechne na stanowisko Przewodniczącego SU odbywają się nie
-później niż do 10 października. W tym samym terminie, raz na trzy lata,
-przeprowadzane są również wybory na Opiekuna SU, w roku, w którym kończy się
-jego trzyletnia kadencja.
+Coroczne wybory powszechne na stanowisko Przewodniczącego SU oraz, we właściwym
+roku, na Opiekuna SU, odbywają się na początku roku szkolnego zgodnie z
+harmonogramem określonym w § 19a.
 
 #### § 19
 
@@ -232,6 +231,78 @@ jego trzyletnia kadencja.
 6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych, które kolidują
    z czasem pełnienia przez nich obowiązków wyborczych.
 
+#### § 19a
+
+1. Proces wyborczy i powoływanie nowych organów SU odbywa się corocznie na
+   początku roku szkolnego według następującego, stałego harmonogramu:
+
+   **ETAP I - PRZYGOTOWANIE I REJESTRACJA (Wrzesień)**
+
+    1. **Do końca 3. tygodnia września:** Wychowawcy klas przeprowadzają wybory
+       do samorządów klasowych i przekazują składy Opiekunowi SU, tworząc tym
+       samym
+       nową Radę Samorządów Klasowych (zgodnie z § 28).
+
+    2. **Do końca 3. tygodnia września:** Ustępujący Przewodniczący SU, w
+       porozumieniu z Opiekunem SU, powołuje i ogłasza skład Uczniowskiej
+       Komisji
+       Wyborczej (UKW).
+
+    3. **Niezwłocznie po powołaniu, najpóźniej do 25 września:** UKW ogłasza
+       dokładny dzień wyborów powszechnych oraz przyjmuje zgłoszenia kandydatów
+       na
+       Przewodniczącego SU oraz (właściwego roku) na Opiekuna SU.
+
+    4. **Do końca 4. tygodnia września:** Zamyka się przyjmowanie zgłoszeń.
+       Kandydaci na Przewodniczącego składają listy z podpisami poparcia (
+       zgodnie
+       z § 21).
+
+   **ETAP II - KAMPANIA I GŁOSOWANIE (Przełom września i października)**
+
+    5. **W ciągu 2 dni roboczych od zamknięcia rejestracji:** UKW weryfikuje
+       zgłoszenia i publikuje ostateczną listę kandydatów.
+
+    6. **Od dnia ogłoszenia listy kandydatów do dnia poprzedzającego wybory:**
+       Trwa kampania wyborcza.
+
+    7. **Najpóźniej do 10 października:** Odbywa się dzień wyborów. Głosowanie
+       jest tajne i powszechne.
+
+    8. **Niezwłocznie po zakończeniu głosowania:** UKW liczy głosy i ogłasza
+       oficjalne wyniki wyborów.
+
+   **ETAP III - DZIAŁANIA POWYBORCZE (Październik)**
+
+    9. **W ciągu 3 dni roboczych od ogłoszenia wyników:** W przypadku remisu,
+       UKW organizuje drugą turę wyborów (zgodnie z § 26b).
+
+    10. **W ciągu 14 dni od ogłoszenia ostatecznych wyników:** Nowo wybrany
+        Przewodniczący SU zwołuje pierwsze posiedzenie Rady Samorządów
+        Klasowych.
+
+    11. **W ciągu 30 dni od ogłoszenia ostatecznych wyników:** Musi zostać
+        powołany cały skład Zarządu SU (Wiceprzewodniczący, Rzecznik Praw Ucznia
+        i
+        inni członkowie), zgodnie z procedurą opisaną w § 29.
+
+2. Szczegółowy harmonogram na dany rok, zawierający konkretne daty, jest
+   publikowany przez UKW zgodnie z pkt. 1.3.
+3. W uzasadnionych przypadkach takich jak dni ustawowo wolne od zajęć,
+   wydarzenia ogólnoszkolne kolidujące z procesem wyborczym lub inne ważne
+   przyczyny organizacyjne, Uczniowska Komisja Wyborcza w porozumieniu z
+   Opiekunem SU ma prawo do modyfikacji terminów określonych w niniejszym
+   harmonogramie.
+    1. O każdej zmianie i jej przyczynach UKW jest zobowiązana niezwłocznie
+       poinformować społeczność szkolną w sposób publicznie przyjęty (np. na
+       tablicy
+       ogłoszeń, bezpośrednio lub przez dziennik elektroniczny).
+    2. Modyfikacja harmonogramu musi respektować podstawowe zasady ordynacji, w
+       szczególności zapewniać kandydatom odpowiedni czas na rejestrację i
+       prowadzenie kampanii wyborczej, zachowując proporcje między
+       poszczególnymi
+       etapami.
+
 #### Część B: Wybory Przewodniczącego Samorządu Uczniowskiego i Opiekuna Samorządu Uczniowskiego
 
 #### § 20
@@ -246,8 +317,8 @@ jego trzyletnia kadencja.
 1. Kandydat na Przewodniczącego SU musi złożyć do UKW listę zawierającą co
    najmniej 10 podpisów poparcia, zebranych od uczniów z co najmniej 3 różnych
    klas.
-2. Listy z podpisami kandydaci składają do UKW w terminie przez nią wyznaczonym,
-   nie później jednak niż 14 dni przed dniem wyborów.
+2. Listy z podpisami kandydaci składają do UKW w terminie określonym w
+   harmonogramie wyborczym w § 19a.
 3. Po weryfikacji zgłoszeń UKW niezwłocznie publikuje ostateczną listę
    kandydatów, co uprawnia ich do rozpoczęcia kampanii wyborczej.
 
@@ -361,11 +432,10 @@ który otrzymał największą liczbę głosów.
    którzy uzyskali równą liczbę głosów. Zasady głosowania pozostają takie same
    jak w pierwszej turze.
 3. Jeżeli druga tura wyborów również nie przyniesie rozstrzygnięcia (wynik
-   ponownie
-   będzie remisowy), ostatecznego wyboru dokonuje Rada Samorządów Klasowych
-   (RSK) na specjalnie zwołanym w tym celu posiedzeniu, w drodze głosowania
-   tajnego. Zwycięzcą zostaje kandydat, który uzyskał zwykłą większość głosów
-   członków RSK.
+   ponownie będzie remisowy), ostatecznego wyboru dokonuje Rada Samorządów
+   Klasowych (RSK) na specjalnie zwołanym w tym celu posiedzeniu, w drodze
+   głosowania tajnego. Zwycięzcą zostaje kandydat, który uzyskał zwykłą
+   większość głosów członków RSK.
 
 #### § 27
 
@@ -378,8 +448,8 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 1. Członkowie Rady Samorządów Klasowych (Przewodniczący, Wiceprzewodniczący i
    Skarbnik) wybierani są w każdej klasie w odrębnych, tajnych wyborach.
-2. Wybory w klasach organizują i nadzorują wychowawcy klas. Wybory powinny odbyć
-   się nie później niż do końca września każdego roku szkolnego.
+2. Wybory w klasach odbywają się w terminie określonym w harmonogramie wyborczym
+   w § 19a.
 3. Wyniki wyborów klasowych wychowawcy przekazują niezwłocznie Opiekunowi SU.
 
 #### Część D: Tryb Powoływania Zarządu Samorządu Uczniowskiego
@@ -458,12 +528,9 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
           corocznych
           wyborów.
         - Jeżeli do końca kadencji pozostało więcej niż 4 miesiące, w terminie
-          30
-          dni
-          należy przeprowadzić wybory uzupełniające. Za ich organizację
-          odpowiada
-          **Uczniowska Komisja Wyborcza**, powołana w tym celu przez p.o.
-          Przewodniczącego w porozumieniu z Opiekunem SU.
+          30 dni należy przeprowadzić wybory uzupełniające. Za ich organizację
+          odpowiada **Uczniowska Komisja Wyborcza**, powołana w tym celu przez 
+          p.o. Przewodniczącego w porozumieniu z Opiekunem SU.
     3. **W przypadku wygaśnięcia mandatu Opiekuna SU**, jego obowiązki
        tymczasowo pełni Dyrektor Szkoły lub wskazany przez niego nauczyciel.
        Wybory
@@ -472,7 +539,7 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
        **Uczniowska Komisja Wyborcza**, powołana w tym celu przez
        Przewodniczącego SU.
 
-### Rozdział VI: POSTANOWIENIA KOŃCOWE – TECHNICZNE
+### Rozdział VI: POSTANOWIENIA KOŃCOWE - TECHNICZNE
 
 #### § 31
 
