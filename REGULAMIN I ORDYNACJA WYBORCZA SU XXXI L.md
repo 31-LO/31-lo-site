@@ -298,8 +298,8 @@ Zasady przeprowadzenia wyborów są następujące:
        wrzucenie jej do urny.
 8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie
    przecinające się w obrębie kratki) w kratce przy nazwisku
-   **jednego kandydata** na Przewodniczącego SU oraz **jednego kandydata** na
-   Opiekuna SU.
+   **jednego kandydata** na Przewodniczącego SU oraz/lub **jednego kandydata**
+   na Opiekuna SU.
 9. Głos w danej części karty (dotyczącej wyboru Przewodniczącego lub Opiekuna)
    uznaje się za nieważny, jeżeli:
     1. postawiono znak „X” przy więcej niż jednym nazwisku,
