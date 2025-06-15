@@ -13,7 +13,7 @@ nr 13 w Krakowie.
 
 Samorząd uczniowski, działający w XXXI Liceum Ogólnokształcącym im. Romana
 Ingardena w Krakowie, zwany dalej SU, działa na podstawie Ustawy o systemie
-oświaty z dn. 14 XII 2016 r. (Dz.U. z 2017 r. poz. 59), Statutu XXXI
+oświaty z dn. 14 XII 2016 r. (Dz.U. z 2016 r. poz. 59), Statutu XXXI
 Liceum Ogólnokształcącym im. Romana Ingardena w Krakowie oraz niniejszego
 Regulaminu.
 
