@@ -344,11 +344,20 @@ Liczenie głosów odbywa się według poniższej procedury:
    niezwłocznie podaje do publicznej wiadomości poprzez ogłoszenie na szkolnej
    tablicy informacyjnej oraz na stronie internetowej szkoły.
 
-#### § 26
+#### § 26 a
 
 Osoba z największą liczbą głosów zostaje Przewodniczącym Samorządu
 Uczniowskiego. Opiekunem Samorządu Uczniowskiego zostaje nauczyciel,
 który otrzymał największą liczbę głosów.
+
+#### § 26 b
+
+Jeżeli dwóch lub więcej kandydatów otrzyma taką samą, najwyższą liczbę głosów 
+na dane stanowisko (Przewodniczącego SU lub Opiekuna SU), przeprowadza się 
+dogrywkę pomiędzy tymi kandydatami.
+
+Jeżeli dogrywka nie wyłoni zwycięzcy, o ostatecznym wyborze decyduje 
+losowanie przeprowadzone pod nadzorem UKW.
 
 #### § 27
 
@@ -365,17 +374,6 @@ Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wynik�
 2. Wybory w klasach organizują i nadzorują wychowawcy klas. Wybory powinny odbyć
    się nie później niż do końca września każdego roku szkolnego.
 3. Wyniki wyborów klasowych wychowawcy przekazują niezwłocznie Opiekunowi SU.
-
-
-#### § 29
-
-Jeżeli dwóch lub więcej kandydatów otrzyma taką samą, najwyższą liczbę głosów 
-na dane stanowisko (Przewodniczącego SU lub Opiekuna SU), przeprowadza się 
-dogrywkę pomiędzy tymi kandydatami.
-
-Jeżeli dogrywka nie wyłoni zwycięzcy, o ostatecznym wyborze decyduje 
-losowanie przeprowadzone pod nadzorem UKW.
-
 
 #### Część D: Tryb Powoływania Zarządu Samorządu Uczniowskiego
 
