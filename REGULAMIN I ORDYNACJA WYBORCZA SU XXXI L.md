@@ -353,7 +353,8 @@ który otrzymał największą liczbę głosów.
 #### § 27
 
 Kadencja Przewodniczącego i Zarządu Samorządu Uczniowskiego trwa od dnia
-ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
+ogłoszeni
+Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 #### Część C: Wybory do Rady Samorządów Klasowych (RSK)
 
@@ -364,6 +365,17 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 2. Wybory w klasach organizują i nadzorują wychowawcy klas. Wybory powinny odbyć
    się nie później niż do końca września każdego roku szkolnego.
 3. Wyniki wyborów klasowych wychowawcy przekazują niezwłocznie Opiekunowi SU.
+
+
+#### § 29
+
+Jeżeli dwóch lub więcej kandydatów otrzyma taką samą, najwyższą liczbę głosów 
+na dane stanowisko (Przewodniczącego SU lub Opiekuna SU), przeprowadza się 
+dogrywkę pomiędzy tymi kandydatami.
+
+Jeżeli dogrywka nie wyłoni zwycięzcy, o ostatecznym wyborze decyduje 
+losowanie przeprowadzone pod nadzorem UKW.
+
 
 #### Część D: Tryb Powoływania Zarządu Samorządu Uczniowskiego
 
