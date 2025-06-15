@@ -64,11 +64,28 @@ Do wybieralnych organów SU należą:
 1. Przewodniczący Samorządu Uczniowskiego – organ wykonawczy.
 2. Rada Samorządów Klasowych – organ uchwałodawczy i opiniodawczy.
 3. Zarząd Samorządu Uczniowskiego – organ wspomagający Przewodniczącego SU.
-   Kadencja organów SU trwa 1 rok szkolny. Funckji Przewodniczącego SU nie można
-   łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
-   funkcją członka Zarządu SU.
+
+Kadencja organów SU trwa 1 rok szkolny. Funckji Przewodniczącego SU nie można
+łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
+funkcją członka Zarządu SU.
 
 #### § 8
+
+Przewodniczący SU:
+
+1. kieruje pracą Zarządu SU,
+2. nominuje kandydatów na członków Zarządu SU i przedstawia ich do zatwierdzenia
+   Radzie Samorządów Klasowych,
+3. reprezentuje SU wobec dyrektora szkoły, rady pedagogicznej, rady rodziców
+   oraz innych organizacji,
+4. przedstawia uczniom, dyrektorowi, radzie pedagogicznej, radzie rodziców plan
+   pracy Zarządu SU oraz sprawozdanie końcowe z działalności SU,
+5. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
+6. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
+   osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
+   dokumentacji SU.
+
+#### § 9
 
 Rada Samorządów Klasowych (RSK):
 
@@ -86,9 +103,9 @@ Rada Samorządów Klasowych (RSK):
    posiedzenia Rady.
 5. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
    lub na żądanie co najmniej połowy członków RKS.
-6. Spotkania RSK odbywać się muszą przynajmniej raz na semestr.
+6. Obrady RSK odbywać się muszą przynajmniej raz na semestr.
 
-#### § 9
+#### § 10
 
 Do obowiązków Rady Samorządów Klasowych należy:
 
@@ -96,7 +113,7 @@ Do obowiązków Rady Samorządów Klasowych należy:
 2. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
 3. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
 
-#### § 10
+#### § 11
 
 Do kompetencji Rady Samorządów Klasowych należy:
 
@@ -111,7 +128,23 @@ Do kompetencji Rady Samorządów Klasowych należy:
    Przewodniczącego SU z działalności SU i innych spraw wniesionych przez
    członków Zarządu SU pod obrady.
 
-#### § 11
+#### § 12
+
+1. Zarząd Samorządu Uczniowskiego, zwany dalej Zarządem SU, jest powoływany w
+   celu wspierania Przewodniczącego SU w realizacji jego zadań.
+   W skład Zarządu SU wchodzą obligatoryjnie:
+    1. Przewodniczący SU,
+    2. Wiceprzewodniczący SU,
+    3. Rzecznik Praw Ucznia.
+2. Na wniosek Przewodniczącego SU lub RSK, w zależności od potrzeb, mogą zostać
+   powołane dodatkowe, opcjonalne stanowiska, w tym Sekretarz, Skarbnik i
+   kierownictwa wybranych przez siebie sekcji.
+3. Kandydatów na wszystkie (poza Przewodniczącym) stanowiska w Zarządzie
+   nominuje Przewodniczący SU, a zatwierdza ich RSK w głosowaniu. Szczegółowa
+   procedura została określona w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu
+   Samorządu Uczniowskiego.
+
+#### § 13
 
 Do kompetencji Zarządu SU należy:
 
@@ -123,7 +156,7 @@ Do kompetencji Zarządu SU należy:
    Przewodniczącego Zarządu SU lub na żądanie co najmniej połowy członków
    Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
 
-#### § 12
+#### § 14
 
 Do obowiązków członków Zarządu SU należy:
 
@@ -132,39 +165,6 @@ Do obowiązków członków Zarządu SU należy:
 3. uwzględnianie w swojej działalności potrzeb uczniów,
 4. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
 5. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
-
-#### § 13
-
-Zarząd SU składa się z:
-
-1. Zarząd Samorządu Uczniowskiego, zwany dalej Zarządem SU, jest powoływany w
-   celu wspierania Przewodniczącego SU w realizacji jego zadań.
-   W skład Zarządu SU wchodzą obligatoryjnie:
-    1. Przewodniczący SU,
-    2. Wiceprzewodniczący SU,
-    3. Rzecznik Praw Ucznia.
-2. Na wniosek Przewodniczącego SU lub RSK, w zależności od potrzeb, mogą zostać
-   powołane dodatkowe, opcjonalne stanowiska, w tym Sekretarz i Skarbnik.
-3. Kandydatów na wszystkie (poza Przewodniczącym) stanowiska w Zarządzie
-   nominuje Przewodniczący SU, a zatwierdza ich RSK w głosowaniu. Szczegółowa
-   procedura została określona w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu
-   Samorządu Uczniowskiego.
-
-#### § 14
-
-Przewodniczący SU:
-
-1. kieruje pracą Zarządu SU,
-2. nominuje kandydatów na członków Zarządu SU i przedstawia ich do zatwierdzenia
-   Radzie Samorządów Klasowych,
-3. reprezentuje SU wobec dyrektora szkoły, rady pedagogicznej, rady rodziców
-   oraz innych organizacji,
-4. przedstawia uczniom, dyrektorowi, radzie pedagogicznej, radzie rodziców plan
-   pracy Zarządu SU oraz sprawozdanie końcowe z działalności SU,
-5. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
-6. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
-   inna osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
-   dokumentacji SU.
 
 #### § 15
 
@@ -175,7 +175,7 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 1. Organy SU, w tym RSK, podejmują decyzje zwykłą większością głosów w obecności
    co najmniej połowy członków uprawnionych do głosowania.
-1. Decyzje organów SU mogą być uchylone przez dyrektora szkoły, gdy są sprzeczne
+2. Decyzje organów SU mogą być uchylone przez dyrektora szkoły, gdy są sprzeczne
    z prawem lub statutem szkoły.
 
 ### ROZDZIAŁ V: ORDYNACJA WYBORCZA
@@ -206,8 +206,8 @@ jego trzyletnia kadencja.
 #### § 19
 
 1. Za przygotowanie i przeprowadzenie wyborów powszechnych na stanowisko
-   Przewodniczącego SU oraz Opiekuna SU odpowiada Uczniowska Komisja Wyborcza (
-   UKW).
+   Przewodniczącego SU oraz Opiekuna SU odpowiada Uczniowska Komisja Wyborcza
+   (UKW).
 2. UKW składa się z co najmniej 8 uczniów, rekrutujących się spośród chętnych,
    którzy w danym roku szkolnym nie kandydują na stanowisko Przewodniczącego SU.
    Członkowie UKW powinni pochodzić z różnych klas, aby zapewnić
@@ -262,8 +262,8 @@ jego trzyletnia kadencja.
 #### § 23
 
 Kampania wyborcza trwa od dnia ogłoszenia listy kandydatów przez UKW do dnia
-poprzedzającego wybory. Prowadzenie kampanii w dniu wyborów jest zabronione (
-cisza wyborcza). Prowadząc kampanię wyborczą kandydaci nie mogą naruszać
+poprzedzającego wybory. Prowadzenie kampanii w dniu wyborów jest zabronione
+(cisza wyborcza). Prowadząc kampanię wyborczą kandydaci nie mogą naruszać
 dobrego imienia innych osób ani wykorzystywać szkolnej infrastruktury bez zgody
 dyrektora szkoły.
 
