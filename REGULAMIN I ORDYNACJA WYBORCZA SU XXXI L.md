@@ -391,9 +391,17 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
    członków RSK uprawnionych do głosowania (kworum).
 
 4. W przypadku nieuzyskania przez nominowanego kandydata wymaganej większości
-   głosów, Przewodniczący SU i RSK mogą przedstawić nową kandydaturę na to
-   stanowisko na następnym posiedzeniu RSK zwołanym w tym celu, które powinno
-   odbyć się nie później niż w ciągu 7 dni.
+   głosów, stosuje się następującą procedurę:
+   1. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
+   przedstawić nowego kandydata do zatwierdzenia.
+   2. W przypadku, gdy Przewodniczący SU nie skorzysta z tego prawa lub jego
+   kolejny kandydat również nie uzyska wymaganej większości, prawo do zgłaszania
+   kandydatów przechodzi na członków RSK.
+   3. Kandydatury zgłoszone przez członków RSK („z sali”) poddawane są pod
+   głosowanie.
+   4. Jeżeli żaden z kandydatów przedstawionych w powyższym trybie nie zostanie
+   zatwierdzony na bieżącym posiedzeniu, Przewodniczący SU zwołuje kolejne
+   posiedzenie w tym celu w terminie nie późniejszym niż 7 dni.
 
 5. Cały skład Zarządu, obejmujący co najmniej stanowiska obowiązkowe, powinien
    zostać powołany w terminie do 30 dni od dnia wyborów Przewodniczącego SU. W
