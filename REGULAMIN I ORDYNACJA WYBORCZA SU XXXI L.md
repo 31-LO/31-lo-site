@@ -25,14 +25,14 @@ Do głównych celów działalności SU należą:
 
 1. promowanie i rozwijanie wśród uczniów samorządności na rzecz podejmowania
    wspólnych decyzji w sprawach szkoły,
-1. przedstawianie dyrektorowi, radzie pedagogicznej oraz radzie rodziców
+2. przedstawianie dyrektorowi, radzie pedagogicznej oraz radzie rodziców
    wniosków, opinii i potrzeb uczniów we wszystkich sprawach szkoły,
-1. zwiększanie aktywności uczniowskiej, rozwijanie zainteresowań uczniów i
+3. zwiększanie aktywności uczniowskiej, rozwijanie zainteresowań uczniów i
    realizowanie własnych pomysłów dla wspólnego dobra,
-1. promowanie wiedzy na temat praw uczniów i czuwanie nad ich przestrzeganiem,
-1. organizowanie i zachęcanie uczniów do działalności kulturalnej, oświatowej,
+4. promowanie wiedzy na temat praw uczniów i czuwanie nad ich przestrzeganiem,
+5. organizowanie i zachęcanie uczniów do działalności kulturalnej, oświatowej,
    sportowej, rozrywkowej, naukowej w szkole,
-1. reprezentowanie działalności SU przed dyrektorem, radą pedagogiczną, radą
+6. reprezentowanie działalności SU przed dyrektorem, radą pedagogiczną, radą
    rodziców i innymi organami.
 
 ### Rozdział III: OPIEKUN SU
@@ -51,8 +51,8 @@ bezpośrednie, powszechne. Prawo kandydowania przysługuje wszystkim nauczycielo
 Opiekun SU wspomaga jego działalność poprzez:
 
 1. wsparcie SU w sprawach merytorycznych i organizacyjnych,
-1. inspirowanie uczniów do działania,
-1. pośredniczenie w relacjach SU z dyrektorem oraz radą pedagogiczną. Rozdział
+2. inspirowanie uczniów do działania,
+3. pośredniczenie w relacjach SU z dyrektorem oraz radą pedagogiczną. Rozdział
    IV: ORGANY SU – KOMPETENCJE, ZADANIA, STRUKTURA.
 
 ### Rozdział IV: ORGANY SU – KOMPETENCJE, ZADANIA, STRUKTURA.
@@ -74,39 +74,40 @@ Rada Samorządów Klasowych (RSK):
 
 1. Radę Samorządów Klasowych, zwaną dalej RSK, tworzą przedstawiciele samorządów
    wszystkich klas w szkole.
-1. W skład RSK z każdej klasy wchodzą:
+2. W skład RSK z każdej klasy wchodzą:
    a) Przewodniczący klasy,
    b) Wiceprzewodniczący klasy,
    c) Skarbnik klasy.
-1. Członkowie samorządów klasowych są wybierani w wewnętrznych, klasowych
+3. Członkowie samorządów klasowych są wybierani w wewnętrznych, klasowych
    głosowaniach organizowanych i nadzorowanych przez wychowawcę danej klasy.
-1. W przypadku nieobecności członka RSK na posiedzeniu może on wyznaczyć na
+4. W przypadku nieobecności członka RSK na posiedzeniu może on wyznaczyć na
    swoje miejsce zastępstwo (jedna osoba na jednego nieobecnego członka), o czym
    jest zobowiązany poinformować Przewodniczącego SU przed rozpoczęciem
    posiedzenia Rady.
-1. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
-   lub na żądanie co najmniej połowy członków RKS przynajmniej raz na kwartał.
+5. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
+   lub na żądanie co najmniej połowy członków RKS.
+6. Spotkania RSK odbywać się muszą przynajmniej raz na semestr.
 
 #### § 9
 
 Do obowiązków Rady Samorządów Klasowych należy:
 
 1. uczestnictwo w pracach Rady Samorządów Klasowych i realizacja celów SU,
-1. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
-1. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
+2. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
+3. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
 
 #### § 10
 
 Do kompetencji Rady Samorządów Klasowych należy:
 
 1. współpraca z Zarządem SU i Opiekunem SU,
-1. zatwierdzanie kandydatów na członków Zarządu SU, nominowanych przez
+2. zatwierdzanie kandydatów na członków Zarządu SU, nominowanych przez
    Przewodniczącego SU,
-1. opiniowanie planu działań i konkretnych inicjatyw Zarządu SU,
-1. zgłaszanie propozycji działań dla Zarządu SU,
-1. kontrolowanie zgodności działań Zarządu SU z niniejszym Regulaminem oraz
+3. opiniowanie planu działań i konkretnych inicjatyw Zarządu SU,
+4. zgłaszanie propozycji działań dla Zarządu SU,
+5. kontrolowanie zgodności działań Zarządu SU z niniejszym Regulaminem oraz
    Statutem Szkoły
-1. rozpatrywanie i opiniowanie semestralnych i rocznych sprawozdań
+6. rozpatrywanie i opiniowanie semestralnych i rocznych sprawozdań
    Przewodniczącego SU z działalności SU i innych spraw wniesionych przez
    członków Zarządu SU pod obrady.
 
@@ -115,9 +116,9 @@ Do kompetencji Rady Samorządów Klasowych należy:
 Do kompetencji Zarządu SU należy:
 
 1. koordynowanie, inicjowanie i organizowanie działań uczniowskich,
-1. opracowanie rocznego planu działania SU,
-1. identyfikacja potrzeb uczniów i odpowiadanie na te potrzeby,
-1. przedstawianie dyrektorowi, radzie pedagogicznej, radzie rodziców wniosków,
+2. opracowanie rocznego planu działania SU,
+3. identyfikacja potrzeb uczniów i odpowiadanie na te potrzeby,
+4. przedstawianie dyrektorowi, radzie pedagogicznej, radzie rodziców wniosków,
    opinii, sugestii członków SU, Obrady Zarządu SU zwoływane są przez
    Przewodniczącego Zarządu SU lub na żądanie co najmniej połowy członków
    Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
@@ -127,10 +128,10 @@ Do kompetencji Zarządu SU należy:
 Do obowiązków członków Zarządu SU należy:
 
 1. uczestnictwo w pracach Zarządu SU i realizacja celów SU,
-1. stosowanie się w swojej działalności do wytycznych dyrektora,
-1. uwzględnianie w swojej działalności potrzeb uczniów,
-1. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
-1. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
+2. stosowanie się w swojej działalności do wytycznych dyrektora,
+3. uwzględnianie w swojej działalności potrzeb uczniów,
+4. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
+5. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
 
 #### § 13
 
@@ -139,27 +140,29 @@ Zarząd SU składa się z:
 1. Zarząd Samorządu Uczniowskiego, zwany dalej Zarządem SU, jest powoływany w
    celu wspierania Przewodniczącego SU w realizacji jego zadań.
    W skład Zarządu SU wchodzą obligatoryjnie:
-   a) Wiceprzewodniczący SU,
-   b) Rzecznik Praw Ucznia.
-1. Na wniosek Przewodniczącego SU lub RSK, w zależności od potrzeb, mogą zostać
+    1. Przewodniczący SU,
+    2. Wiceprzewodniczący SU,
+    3. Rzecznik Praw Ucznia.
+2. Na wniosek Przewodniczącego SU lub RSK, w zależności od potrzeb, mogą zostać
    powołane dodatkowe, opcjonalne stanowiska, w tym Sekretarz i Skarbnik.
-1. Kandydatów na wszystkie stanowiska w Zarządzie nominuje Przewodniczący SU,
-   a zatwierdza ich RSK w głosowaniu. Szczegółowa procedura została określona
-   w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu Samorządu Uczniowskiego.
+3. Kandydatów na wszystkie (poza Przewodniczącym) stanowiska w Zarządzie
+   nominuje Przewodniczący SU, a zatwierdza ich RSK w głosowaniu. Szczegółowa
+   procedura została określona w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu
+   Samorządu Uczniowskiego.
 
 #### § 14
 
 Przewodniczący SU:
 
 1. kieruje pracą Zarządu SU,
-1. nominuje kandydatów na członków Zarządu SU i przedstawia ich do zatwierdzenia
+2. nominuje kandydatów na członków Zarządu SU i przedstawia ich do zatwierdzenia
    Radzie Samorządów Klasowych,
-1. reprezentuje SU wobec dyrektora szkoły, rady pedagogicznej, rady rodziców
+3. reprezentuje SU wobec dyrektora szkoły, rady pedagogicznej, rady rodziców
    oraz innych organizacji,
-1. przedstawia uczniom, dyrektorowi, radzie pedagogicznej, radzie rodziców plan
+4. przedstawia uczniom, dyrektorowi, radzie pedagogicznej, radzie rodziców plan
    pracy Zarządu SU oraz sprawozdanie końcowe z działalności SU,
-1. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
-1. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
+5. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
+6. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
    inna osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
    dokumentacji SU.
 
@@ -183,10 +186,10 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 1. Niniejsza ordynacja określa tryb wyboru i powoływania organów Samorządu
    Uczniowskiego (SU), którymi są:
-   a) Przewodniczący Samorządu Uczniowskiego,
-   b) Rada Samorządów Klasowych,
-   c) Zarząd Samorządu Uczniowskiego,
-   d) Opiekun Samorządu Uczniowskiego.
+   1. Przewodniczący Samorządu Uczniowskiego,
+   2. Rada Samorządów Klasowych,
+   3. Zarząd Samorządu Uczniowskiego,
+   4. Opiekun Samorządu Uczniowskiego.
 2. Wybory **Przewodniczącego SU** oraz **Opiekuna SU** są powszechne, równe,
    bezpośrednie i odbywają się w głosowaniu
    tajnym.
@@ -195,8 +198,10 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 #### § 18
 
-Wybory powszechne na stanowisko Przewodniczącego SU oraz Opiekuna SU odbywają
-się raz w roku szkolnym, nie później niż do 10 października.
+Coroczne wybory powszechne na stanowisko Przewodniczącego SU odbywają się nie
+później niż do 10 października. W tym samym terminie, raz na trzy lata,
+przeprowadzane są również wybory na Opiekuna SU, w roku, w którym kończy się
+jego trzyletnia kadencja.
 
 #### § 19
 
@@ -213,17 +218,17 @@ się raz w roku szkolnym, nie później niż do 10 października.
 4. **Członkowie UKW są zobowiązani do zachowania pełnej bezstronności** w
    trakcie całego procesu wyborczego.
 5. Do zadań UKW należy w szczególności:
-   a) ogłoszenie harmonogramu wyborów i zasad zgłaszania kandydatur,
-   b) przyjmowanie i weryfikacja formalna zgłoszeń od kandydatów na
+   1. ogłoszenie harmonogramu wyborów,
+   2. przyjmowanie i weryfikacja formalna zgłoszeń od kandydatów na
    Przewodniczącego SU oraz na Opiekuna SU,
-   c) ogłoszenie ostatecznej listy kandydatów dopuszczonych do wyborów,
-   d) nadzór nad przebiegiem kampanii wyborczej i reagowanie na ewentualne
+   3. ogłoszenie ostatecznej listy kandydatów dopuszczonych do wyborów,
+   4. nadzór nad przebiegiem kampanii wyborczej i reagowanie na ewentualne
    naruszenia,
-   e) przygotowanie i przeprowadzenie głosowania, w tym przygotowanie kart do
+   5. przygotowanie i przeprowadzenie głosowania, w tym przygotowanie kart do
    głosowania, list wyborców i lokalu wyborczego,
-   f) obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
+   6. obliczenie głosów, sporządzenie protokołu z wynikami wyborów i ich
    niezwłoczne ogłoszenie,
-   g) rozpatrywanie skarg i protestów wyborczych.
+   7. rozpatrywanie skarg i protestów wyborczych.
 6. Członkowie UKW w dniu wyborów są zwolnieni z zajęć lekcyjnych w celu
    pełnienia swoich obowiązków.
 
@@ -281,21 +286,21 @@ Zasady przeprowadzenia wyborów są następujące:
    głosowania musi być opatrzona pieczęcią szkoły.
 6. Na karcie do głosowania umieszczone są dwie oddzielne listy kandydatów w
    kolejności alfabetycznej:
-   a) lista kandydatów na **Przewodniczącego Samorządu Uczniowskiego**,
-   b) lista kandydatów na **Opiekuna Samorządu Uczniowskiego**.
+   1. lista kandydatów na **Przewodniczącego Samorządu Uczniowskiego**,
+   2. lista kandydatów na **Opiekuna Samorządu Uczniowskiego**.
 7. Głosowanie odbywa się poprzez:
-   a) stawienie się w lokalu wyborczym,
-   b) okazanie członkowi UKW legitymacji szkolnej w celu weryfikacji tożsamości,
-   c) złożenie podpisu na liście wyborców i pobranie jednej karty do głosowania,
-   d) udanie się do miejsca zapewniającego tajność, wypełnienie karty i
+   1. stawienie się w lokalu wyborczym,
+   2. okazanie członkowi UKW legitymacji szkolnej w celu weryfikacji tożsamości,
+   3. złożenie podpisu na liście wyborców i pobranie jednej karty do głosowania,
+   4. udanie się do miejsca zapewniającego tajność, wypełnienie karty i
    wrzucenie jej do urny.
 8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie
    przecinające się w obrębie kratki) w kratce przy nazwisku **jednego kandydata
    ** na Przewodniczącego SU oraz **jednego kandydata** na Opiekuna SU.
 9. Głos w danej części karty (dotyczącej wyboru Przewodniczącego lub Opiekuna)
    uznaje się za nieważny, jeżeli:
-   a) postawiono znak „X” przy więcej niż jednym nazwisku,
-   b) nie postawiono znaku „X” przy żadnym nazwisku.
+   1. postawiono znak „X” przy więcej niż jednym nazwisku,
+   2. nie postawiono znaku „X” przy żadnym nazwisku.
 10. Nieważność głosu w jednej części karty (np. w wyborach na Opiekuna) nie
     powoduje nieważności głosu w drugiej części (np. w wyborach na
     Przewodniczącego), o ile ta druga część została wypełniona prawidłowo. Karta
