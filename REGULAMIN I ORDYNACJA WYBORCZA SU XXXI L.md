@@ -387,11 +387,11 @@ losowanie przeprowadzone pod nadzorem UKW.
 
 2. Procedura powoływania Zarządu opiera się na następujących zasadach:
     1. **Nominacja:** Przewodniczący SU nominuje kandydatów na poszczególne
-       stanowiska w Zarządzie, w tym na stanowiska obowiązkowe:
-       Wiceprzewodniczącego
-       SU oraz Rzecznika Praw Ucznia. Kandydatem może być każdy uczeń szkoły,
-       który
-       wyrazi na to zgodę.
+       stanowiska w Zarządzie,   jasno określając ich obowiązki oraz 
+       uprawnienia. Przewodniczący może wybrać dowolną liczbę osób, ale 
+       wymagane są następujące stanowiska: Wiceprzewodniczący SU oraz 
+       Rzecznik Praw Ucznia. Kandydatem może zostać każdy uczeń szkoły,
+       o ile wyrazi na to zgodę.
     2. **Zatwierdzenie:** Rada Samorządów Klasowych głosuje nad zatwierdzeniem
        każdej przedstawionej kandydatury oddzielnie. Głosowanie w sprawach
        personalnych jest co do zasady tajne.
@@ -404,15 +404,17 @@ losowanie przeprowadzone pod nadzorem UKW.
 
 4. W przypadku nieuzyskania przez nominowanego kandydata wymaganej większości
    głosów, stosuje się następującą procedurę:
-    1. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
+    1. Zainteresowani członkowie RSK mają prawo uzasadnić swoją decyzję, 
+       wyrazić swoje oczekiwania względem osoby na to stanowisko oraz 
+       podać przyczyny braku zgody na propozycję Przewodniczącego SU.
+    2. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
        przedstawić nowego kandydata do zatwierdzenia.
-    2. W przypadku, gdy Przewodniczący SU nie skorzysta z tego prawa lub jego
+    3. W przypadku, gdy Przewodniczący SU nie skorzysta z tego prawa lub jego
        kolejny kandydat również nie uzyska wymaganej większości, prawo do
-       zgłaszania
-       kandydatów przechodzi na członków RSK.
-    3. Kandydatury zgłoszone przez członków RSK („z sali”) poddawane są pod
+       zgłaszania kandydatów przechodzi na członków RSK.
+    4. Kandydatury zgłoszone przez członków RSK („z sali”) poddawane są pod
        głosowanie.
-    4. Jeżeli żaden z kandydatów przedstawionych w powyższym trybie nie zostanie
+    5. Jeżeli żaden z kandydatów przedstawionych w powyższym trybie nie zostanie
        zatwierdzony na bieżącym posiedzeniu, Przewodniczący SU zwołuje kolejne
        posiedzenie w tym celu w terminie nie późniejszym niż 7 dni.
 
