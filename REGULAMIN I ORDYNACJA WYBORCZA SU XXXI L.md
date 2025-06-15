@@ -344,26 +344,33 @@ Liczenie głosów odbywa się według poniższej procedury:
    niezwłocznie podaje do publicznej wiadomości poprzez ogłoszenie na szkolnej
    tablicy informacyjnej oraz na stronie internetowej szkoły.
 
-#### § 26 a
+#### § 26
 
 Osoba z największą liczbą głosów zostaje Przewodniczącym Samorządu
 Uczniowskiego. Opiekunem Samorządu Uczniowskiego zostaje nauczyciel,
 który otrzymał największą liczbę głosów.
 
-#### § 26 b
+#### § 26a
 
-Jeżeli dwóch lub więcej kandydatów otrzyma taką samą, najwyższą liczbę głosów 
-na dane stanowisko (Przewodniczącego SU lub Opiekuna SU), przeprowadza się 
-dogrywkę pomiędzy tymi kandydatami.
-
-Jeżeli dogrywka nie wyłoni zwycięzcy, o ostatecznym wyborze decyduje 
-losowanie przeprowadzone pod nadzorem UKW.
+1. W przypadku uzyskania równej, najwyższej liczby głosów przez dwóch lub więcej
+   kandydatów na dane stanowisko (Przewodniczącego SU lub Opiekuna SU),
+   Uczniowska Komisja Wyborcza (UKW) ogłasza konieczność przeprowadzenia drugiej
+   tury wyborów.
+2. Druga tura wyborów odbywa się w terminie do 3 dni roboczych od dnia
+   ogłoszenia wyników pierwszej tury, z udziałem wyłącznie tych kandydatów,
+   którzy uzyskali równą liczbę głosów. Zasady głosowania pozostają takie same
+   jak w pierwszej turze.
+3. Jeżeli druga tura wyborów również nie przyniesie rozstrzygnięcia (wynik
+   ponownie
+   będzie remisowy), ostatecznego wyboru dokonuje Rada Samorządów Klasowych
+   (RSK) na specjalnie zwołanym w tym celu posiedzeniu, w drodze głosowania
+   tajnego. Zwycięzcą zostaje kandydat, który uzyskał zwykłą większość głosów
+   członków RSK.
 
 #### § 27
 
 Kadencja Przewodniczącego i Zarządu Samorządu Uczniowskiego trwa od dnia
-ogłoszeni
-Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
+ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 #### Część C: Wybory do Rady Samorządów Klasowych (RSK)
 
@@ -385,9 +392,9 @@ Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wynik�
 
 2. Procedura powoływania Zarządu opiera się na następujących zasadach:
     1. **Nominacja:** Przewodniczący SU nominuje kandydatów na poszczególne
-       stanowiska w Zarządzie,   jasno określając ich obowiązki oraz 
-       uprawnienia. Przewodniczący może wybrać dowolną liczbę osób, ale 
-       wymagane są następujące stanowiska: Wiceprzewodniczący SU oraz 
+       stanowiska w Zarządzie, jasno określając ich obowiązki oraz
+       uprawnienia. Przewodniczący może wybrać dowolną liczbę osób, ale
+       wymagane są następujące stanowiska: Wiceprzewodniczący SU oraz
        Rzecznik Praw Ucznia. Kandydatem może zostać każdy uczeń szkoły,
        o ile wyrazi na to zgodę.
     2. **Zatwierdzenie:** Rada Samorządów Klasowych głosuje nad zatwierdzeniem
@@ -402,8 +409,8 @@ Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wynik�
 
 4. W przypadku nieuzyskania przez nominowanego kandydata wymaganej większości
    głosów, stosuje się następującą procedurę:
-    1. Zainteresowani członkowie RSK mają prawo uzasadnić swoją decyzję, 
-       wyrazić swoje oczekiwania względem osoby na to stanowisko oraz 
+    1. Zainteresowani członkowie RSK mają prawo uzasadnić swoją decyzję,
+       wyrazić swoje oczekiwania względem osoby na to stanowisko oraz
        podać przyczyny braku zgody na propozycję Przewodniczącego SU.
     2. Przewodniczący SU ma prawo bezzwłocznie, na tym samym posiedzeniu,
        przedstawić nowego kandydata do zatwierdzenia.
@@ -479,6 +486,5 @@ Napisz tutaj informacje o remisacha wyników wyborów do dnia ogłoszenia wynik�
    w dn. 31 października 2019 r. i wszedł w życie z dn. 12 listopada 2019 r.
 4. Zmiany do niniejszego regulaminu, na wniosek Przewodniczącego Samorządu
    Uczniowskiego, Zarządu SU i Rady Samorządów Klasowych, zostały uchwalone dnia
-   18
-   czerwca 2025 r. Niniejszy dokument stanowi tekst jednolity, uwzględniający
+   18 czerwca 2025 r. Niniejszy dokument stanowi tekst jednolity, uwzględniający
    wprowadzone zmiany.
