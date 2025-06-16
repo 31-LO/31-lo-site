@@ -65,7 +65,7 @@ Do wybieralnych organów SU należą:
 2. Rada Samorządów Klasowych - organ uchwałodawczy i opiniodawczy.
 3. Zarząd Samorządu Uczniowskiego - organ wspomagający Przewodniczącego SU.
 
-Kadencja organów SU trwa 1 rok szkolny. Funckji Przewodniczącego SU nie można
+Kadencja organów SU trwa 1 rok szkolny. Funkcji Przewodniczącego SU nie można
 łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
 funkcją członka Zarządu SU.
 
@@ -103,7 +103,7 @@ Rada Samorządów Klasowych (RSK):
    posiedzenia Rady.
 5. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
    lub na żądanie co najmniej połowy członków RKS.
-6. Obrady RSK odbywać się muszą przynajmniej raz na semestr.
+6. Obrady RSK odbywać się muszą przynajmniej raz na półrocze.
 
 #### § 10
 
@@ -123,7 +123,7 @@ Do kompetencji Rady Samorządów Klasowych należy:
 3. opiniowanie planu działań i konkretnych inicjatyw Zarządu SU,
 4. zgłaszanie propozycji działań dla Zarządu SU,
 5. kontrolowanie zgodności działań Zarządu SU z niniejszym Regulaminem oraz
-   Statutem Szkoły
+   Statutem Szkoły,
 6. rozpatrywanie i opiniowanie semestralnych i rocznych sprawozdań
    Przewodniczącego SU z działalności SU i innych spraw wniesionych przez
    członków Zarządu SU pod obrady.
@@ -136,9 +136,15 @@ Do kompetencji Rady Samorządów Klasowych należy:
     1. Przewodniczący SU,
     2. Wiceprzewodniczący SU,
     3. Rzecznik Praw Ucznia.
-2. Na wniosek Przewodniczącego SU lub RSK, w zależności od potrzeb, mogą zostać
-   powołane dodatkowe, opcjonalne stanowiska, w tym Sekretarz, Skarbnik i
-   kierownictwa wybranych przez siebie sekcji.
+2. Zarząd SU może zostać poszerzony o dodatkowe, opcjonalne stanowiska w celu 
+efektywnej realizacji zadań. W szczególności:
+   1. Na wniosek Przewodniczącego SU mogą zostać powołani Sekretarz i Skarbnik.
+   2. Przewodniczący SU może również wnioskować o utworzenie Sekcji – stałych 
+lub projektowych zespołów zadaniowych, odpowiedzialnych za konkretne obszary
+ działalności (np. sekcja ds. kultury, sportu, promocji, wolontariatu).
+   3.  Utworzenie każdej Sekcji oraz nominacja kandydata na stanowisko 
+Kierownika Sekcji wymaga zatwierdzenia przez RSK w głosowaniu.
+   4.  Kierownik Sekcji staje się członkiem Zarządu SU.
 3. Kandydatów na wszystkie (poza Przewodniczącym) stanowiska w Zarządzie
    nominuje Przewodniczący SU, a zatwierdza ich RSK w głosowaniu. Szczegółowa
    procedura została określona w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu
@@ -152,9 +158,11 @@ Do kompetencji Zarządu SU należy:
 2. opracowanie rocznego planu działania SU,
 3. identyfikacja potrzeb uczniów i odpowiadanie na te potrzeby,
 4. przedstawianie dyrektorowi, radzie pedagogicznej, radzie rodziców wniosków,
-   opinii, sugestii członków SU, Obrady Zarządu SU zwoływane są przez
-   Przewodniczącego Zarządu SU lub na żądanie co najmniej połowy członków
-   Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
+   opinii, sugestii członków SU.
+
+Obrady Zarządu SU zwoływane są przez
+Przewodniczącego Zarządu SU lub na żądanie co najmniej połowy członków
+Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
 
 #### § 14
 
@@ -240,13 +248,11 @@ harmonogramem określonym w § 19a.
 
     1. **Do końca 3. tygodnia września:** Wychowawcy klas przeprowadzają wybory
        do samorządów klasowych i przekazują składy Opiekunowi SU, tworząc tym
-       samym
-       nową Radę Samorządów Klasowych (zgodnie z § 28).
+       samym nową Radę Samorządów Klasowych (zgodnie z § 28).
 
     2. **Do końca 3. tygodnia września:** Ustępujący Przewodniczący SU, w
        porozumieniu z Opiekunem SU, powołuje i ogłasza skład Uczniowskiej
-       Komisji
-       Wyborczej (UKW).
+       Komisji Wyborczej (UKW).
 
     3. **Niezwłocznie po powołaniu, najpóźniej do 25 września:** UKW ogłasza
        dokładny dzień wyborów powszechnych oraz przyjmuje zgłoszenia kandydatów
@@ -254,9 +260,8 @@ harmonogramem określonym w § 19a.
        Przewodniczącego SU oraz (właściwego roku) na Opiekuna SU.
 
     4. **Do końca 4. tygodnia września:** Zamyka się przyjmowanie zgłoszeń.
-       Kandydaci na Przewodniczącego składają listy z podpisami poparcia (
-       zgodnie
-       z § 21).
+       Kandydaci na Przewodniczącego składają listy z podpisami poparcia
+       (zgodnie z § 21).
 
    **ETAP II - KAMPANIA I GŁOSOWANIE (Przełom września i października)**
 
@@ -288,7 +293,7 @@ harmonogramem określonym w § 19a.
 
 2. Szczegółowy harmonogram na dany rok, zawierający konkretne daty, jest
    publikowany przez UKW zgodnie z pkt. 1.3.
-3. W uzasadnionych przypadkach takich jak dni ustawowo wolne od zajęć,
+3. W uzasadnionych przypadkach, takich jak dni ustawowo wolne od zajęć,
    wydarzenia ogólnoszkolne kolidujące z procesem wyborczym lub inne ważne
    przyczyny organizacyjne, Uczniowska Komisja Wyborcza w porozumieniu z
    Opiekunem SU ma prawo do modyfikacji terminów określonych w niniejszym
@@ -498,7 +503,7 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
    przypadku niedotrzymania tego terminu, Opiekun SU w porozumieniu z Dyrektorem
    Szkoły podejmuje działania mediacyjne.
 
-#### Część E: Postanowienia Końcowe
+#### Część E: Postanowienia końcowe
 
 #### § 30
 
@@ -510,7 +515,7 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
 
 2. Mandat **Opiekuna SU** wygasa w przypadku:
     1. pisemnej rezygnacji,
-    2. ustania stosunku pracy ze szkołą,
+    2. ustania stosunku pracy w szkole,
     3. upływu kadencji,
     4. odwołania przez Dyrektora Szkoły.
 
