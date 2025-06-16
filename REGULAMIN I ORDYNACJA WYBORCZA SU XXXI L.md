@@ -136,15 +136,16 @@ Do kompetencji Rady Samorządów Klasowych należy:
     1. Przewodniczący SU,
     2. Wiceprzewodniczący SU,
     3. Rzecznik Praw Ucznia.
-2. Zarząd SU może zostać poszerzony o dodatkowe, opcjonalne stanowiska w celu 
-efektywnej realizacji zadań. W szczególności:
-   1. Na wniosek Przewodniczącego SU mogą zostać powołani Sekretarz i Skarbnik.
-   2. Przewodniczący SU może również wnioskować o utworzenie Sekcji – stałych 
-lub projektowych zespołów zadaniowych, odpowiedzialnych za konkretne obszary
- działalności (np. sekcja ds. kultury, sportu, promocji, wolontariatu).
-   3.  Utworzenie każdej Sekcji oraz nominacja kandydata na stanowisko 
-Kierownika Sekcji wymaga zatwierdzenia przez RSK w głosowaniu.
-   4.  Kierownik Sekcji staje się członkiem Zarządu SU.
+2. Zarząd SU może zostać poszerzony o dodatkowe, opcjonalne stanowiska w celu
+   efektywnej realizacji zadań. W szczególności:
+    1. Na wniosek Przewodniczącego SU mogą zostać powołani Sekretarz i Skarbnik.
+    2. Przewodniczący SU może również wnioskować o utworzenie Sekcji – stałych
+       lub projektowych zespołów zadaniowych, odpowiedzialnych za konkretne
+       obszary
+       działalności (np. sekcja ds. kultury, sportu, promocji, wolontariatu).
+    3. Utworzenie każdej Sekcji oraz nominacja kandydata na stanowisko
+       Kierownika Sekcji wymaga zatwierdzenia przez RSK w głosowaniu.
+    4. Kierownik Sekcji staje się członkiem Zarządu SU.
 3. Kandydatów na wszystkie (poza Przewodniczącym) stanowiska w Zarządzie
    nominuje Przewodniczący SU, a zatwierdza ich RSK w głosowaniu. Szczegółowa
    procedura została określona w ROZDZIAŁ V, Część D: Tryb Powoływania Zarządu
@@ -329,12 +330,17 @@ harmonogramem określonym w § 19a.
 
 #### § 22
 
-1. Bierne prawo wyborcze w wyborach na Opiekuna SU posiada każdy nauczyciel szkoły.
-2. Czynne prawo wyborcze w wyborach na Opiekuna SU posiadają wszscy uczniowie szkoły.
+1. Bierne prawo wyborcze w wyborach na Opiekuna SU posiada każdy nauczyciel
+   szkoły.
+2. Czynne prawo wyborcze w wyborach na Opiekuna SU posiadają wszscy uczniowie
+   szkoły.
 3. Nauczyciele chętni do pełnienia funkcji Opiekuna SU zgłaszają swoją
    kandydaturę do UKW w terminie przez nią wyznaczonym.
-4. Wybory Opiekuna SU odbywają się w tym samym dniu i na tych samych zasadach, wyłączając parafrafy 20 i 21, co
-   wybory Przewodniczącego SU.
+4. Wybory na stanowisko Opiekuna SU przeprowadza się łącznie z wyborami na
+   Przewodniczącego SU. Do ich przeprowadzenia stosuje się odpowiednio przepisy
+   niniejszej ordynacji, w szczególności dotyczące przebiegu kampanii,
+   głosowania i liczenia głosów, z wyłączeniem § 20 oraz § 21, które regulują
+   wyłącznie zasady kandydowania na Przewodniczącego SU.
 
 #### § 23
 
@@ -535,7 +541,7 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
           wyborów.
         - Jeżeli do końca kadencji pozostało więcej niż 4 miesiące, w terminie
           30 dni należy przeprowadzić wybory uzupełniające. Za ich organizację
-          odpowiada **Uczniowska Komisja Wyborcza**, powołana w tym celu przez 
+          odpowiada **Uczniowska Komisja Wyborcza**, powołana w tym celu przez
           p.o. Przewodniczącego w porozumieniu z Opiekunem SU.
     3. **W przypadku wygaśnięcia mandatu Opiekuna SU**, jego obowiązki
        tymczasowo pełni Dyrektor Szkoły lub wskazany przez niego nauczyciel.
