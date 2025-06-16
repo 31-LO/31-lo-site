@@ -5,7 +5,7 @@ INGARDENA
 
 #### § 1
 
-Samorząd uczniowski tworzą wszyscy uczniowie szkoły XXXI Liceum
+Samorząd uczniowski tworzą wszyscy uczniowie XXXI Liceum
 Ogólnokształcącego im. Romana Ingardena w Krakowie należącego do Zespołu Szkół
 nr 13 w Krakowie.
 
