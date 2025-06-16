@@ -141,8 +141,8 @@ Do kompetencji Rady Samorządów Klasowych należy:
     1. Na wniosek Przewodniczącego SU mogą zostać powołani Sekretarz i Skarbnik.
     2. Przewodniczący SU może również wnioskować o utworzenie Sekcji – stałych
        lub projektowych zespołów zadaniowych, odpowiedzialnych za konkretne
-       obszary
-       działalności (np. sekcja ds. kultury, sportu, promocji, wolontariatu).
+       obszary działalności (np. sekcja ds. kultury, sportu, promocji,
+       wolontariatu).
     3. Utworzenie każdej Sekcji oraz nominacja kandydata na stanowisko
        Kierownika Sekcji wymaga zatwierdzenia przez RSK w głosowaniu.
     4. Kierownik Sekcji staje się członkiem Zarządu SU.
