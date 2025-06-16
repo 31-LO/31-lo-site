@@ -314,7 +314,7 @@ harmonogramem określonym w § 19a.
 
 1. Czynne prawo wyborcze (prawo do głosowania) w wyborach na Przewodniczącego SU
    posiadają wszyscy uczniowie szkoły.
-2. Bierne prawo wyborcze (prawo do kandydowania) na stanowisko Przewodniczącego
+2. Bierne prawo wyborcze (prawo do kandydowania) w wyborach na Przewodniczącego
    SU posiada każdy uczeń szkoły.
 
 #### § 21
@@ -329,10 +329,11 @@ harmonogramem określonym w § 19a.
 
 #### § 22
 
-1. Prawo kandydowania na Opiekuna SU posiada każdy nauczyciel szkoły.
-2. Nauczyciele chętni do pełnienia funkcji Opiekuna SU zgłaszają swoją
+1. Bierne prawo wyborcze w wyborach na Opiekuna SU posiada każdy nauczyciel szkoły.
+2. Czynne prawo wyborcze w wyborach na Opiekuna SU posiadają wszscy uczniowie szkoły.
+3. Nauczyciele chętni do pełnienia funkcji Opiekuna SU zgłaszają swoją
    kandydaturę do UKW w terminie przez nią wyznaczonym.
-3. Wybory Opiekuna SU odbywają się w tym samym dniu i na tych samych zasadach co
+4. Wybory Opiekuna SU odbywają się w tym samym dniu i na tych samych zasadach, wyłączając parafrafy 20 i 21, co
    wybory Przewodniczącego SU.
 
 #### § 23
