@@ -65,9 +65,10 @@ Do wybieralnych organów SU należą:
 2. Rada Samorządów Klasowych - organ uchwałodawczy i opiniodawczy.
 3. Zarząd Samorządu Uczniowskiego - organ wspomagający Przewodniczącego SU.
 
-Kadencja organów SU trwa 1 rok szkolny. Funkcji Przewodniczącego SU nie można
-łączyć z funkcją przedstawiciela w Radzie Samorządów Klasowych oraz inną
-funkcją członka Zarządu SU.
+Kadencja organów SU trwa od ich zaprzysiężenia do momentu przekazania urzędu
+nowemu SU. Funkcji Przewodniczącego SU nie można łączyć z funkcją
+przedstawiciela w Radzie Samorządów Klasowych oraz inną funkcją członka Zarządu
+SU.
 
 #### § 8
 
@@ -78,12 +79,15 @@ Przewodniczący SU:
    Radzie Samorządów Klasowych,
 3. reprezentuje SU wobec Dyrektora szkoły, Rady Pedagogicznej, Rady Rodziców
    oraz innych organizacji,
-4. przedstawia uczniom, Dyrektorowi, Radzie Pedagogicznej, Radzie Rodziców plan
+4. Pełni funkcję koordynacyjno-doradczą podczas obrad RSK.
+5. przedstawia uczniom, Dyrektorowi, Radzie Pedagogicznej, Radzie Rodziców plan
    pracy Zarządu SU oraz sprawozdanie końcowe z działalności SU,
-5. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
-6. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
-   osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
+6. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
+7. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych może
+   wskazać osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
    dokumentacji SU.
+8. W przypadku nieobecności Przewodniczącego SU jego obowiązki pełni wyznaczony
+   przez niego Wiceprzewodniczący SU.
 
 #### § 9
 
@@ -91,19 +95,21 @@ Rada Samorządów Klasowych (RSK):
 
 1. Radę Samorządów Klasowych, zwaną dalej RSK, tworzą przedstawiciele samorządów
    wszystkich klas w szkole.
-2. W skład RSK z każdej klasy wchodzą:
+2. RSK jest wyrazicielem woli wszystkich uczniów szkoły po wcześniejszym
+   zapoznaniu się z wolą klasy.
+3. W skład RSK z każdej klasy wchodzą:
     1. Przewodniczący klasy,
     2. Wiceprzewodniczący klasy,
     3. Skarbnik klasy.
-3. Członkowie samorządów klasowych są wybierani w wewnętrznych, klasowych
+4. Członkowie samorządów klasowych są wybierani w wewnętrznych, klasowych
    głosowaniach organizowanych i nadzorowanych przez wychowawcę danej klasy.
-4. W przypadku nieobecności członka RSK na posiedzeniu może on wyznaczyć na
+5. W przypadku nieobecności członka RSK na posiedzeniu może on wyznaczyć na
    swoje miejsce zastępstwo (jedna osoba na jednego nieobecnego członka), o czym
    jest zobowiązany poinformować Przewodniczącego SU przed rozpoczęciem
    posiedzenia Rady.
-5. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
+6. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
    lub na żądanie co najmniej połowy członków RKS.
-6. Obrady RSK odbywać się muszą przynajmniej raz na półrocze.
+7. Obrady RSK odbywać się muszą przynajmniej raz na półrocze.
 
 #### § 10
 
@@ -141,7 +147,7 @@ Do kompetencji Rady Samorządów Klasowych należy:
     1. Na wniosek Przewodniczącego SU mogą zostać powołani Sekretarz i Skarbnik.
     2. Przewodniczący SU może również wnioskować o utworzenie Sekcji – stałych
        lub projektowych zespołów zadaniowych, odpowiedzialnych za konkretne
-       obszary działalności (np. sekcja ds. kultury, sportu, promocji,
+       obszary działalności (np. sekcja ds. komunikacji, organizacji, promocji,
        wolontariatu).
     3. Utworzenie każdej Sekcji oraz nominacja kandydata na stanowisko
        Kierownika Sekcji wymaga zatwierdzenia przez RSK w głosowaniu.
@@ -165,6 +171,20 @@ Obrady Zarządu SU zwoływane są przez
 Przewodniczącego Zarządu SU lub na żądanie co najmniej połowy członków
 Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
 
+#### § 13a
+
+Do kompetencji Rzecznika Praw Ucznia należy:
+
+1. przyjmowanie i rozpatrywanie skarg i wniosków od uczniów w sprawach
+   dotyczących podejrzenia naruszenia ich praw;
+2. podejmowanie, na prośbę ucznia, interwencji i mediacji w sprawach spornych;
+3. badanie zasadności skarg i występowanie w obronie ucznia, którego prawa
+   zostały naruszone;
+4. reprezentowanie ucznia, za jego zgodą, przed organami szkoły, w tym
+   Dyrektorem i Radą Pedagogiczną, z wnioskiem o rozwiązanie zgłoszonej sprawy;
+5. prowadzenie działalności informacyjnej i edukacyjnej w zakresie praw i
+   obowiązków ucznia.
+
 #### § 14
 
 Do obowiązków członków Zarządu SU należy:
@@ -174,6 +194,17 @@ Do obowiązków członków Zarządu SU należy:
 3. uwzględnianie w swojej działalności potrzeb uczniów,
 4. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
 5. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
+
+#### § 14a
+
+Do obowiązków Rzecznika Praw Ucznia należy:
+
+1. kierowanie się w swojej działalności zasadami **bezstronności, poufności,
+   dobrowolności** i poszanowania dobra wszystkich stron konfliktu;
+2. posiadanie i stałe aktualizowanie wiedzy na temat praw i obowiązków ucznia,
+   wynikających ze Statutu Szkoły oraz innych obowiązujących przepisów;
+3. zachowanie w tajemnicy informacji uzyskanych w toku prowadzenia sprawy, chyba
+   że uczeń, którego sprawa dotyczy, wyrazi zgodę na ich ujawnienie.
 
 #### § 15
 
