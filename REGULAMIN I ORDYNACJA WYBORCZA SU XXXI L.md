@@ -25,15 +25,15 @@ Do głównych celów działalności SU należą:
 
 1. promowanie i rozwijanie wśród uczniów samorządności na rzecz podejmowania
    wspólnych decyzji w sprawach szkoły,
-2. przedstawianie dyrektorowi, radzie pedagogicznej oraz radzie rodziców
+2. przedstawianie Dyrektorowi, Radzie Pedagogicznej oraz Radzie Rodziców
    wniosków, opinii i potrzeb uczniów we wszystkich sprawach szkoły,
 3. zwiększanie aktywności uczniowskiej, rozwijanie zainteresowań uczniów i
    realizowanie własnych pomysłów dla wspólnego dobra,
 4. promowanie wiedzy na temat praw uczniów i czuwanie nad ich przestrzeganiem,
 5. organizowanie i zachęcanie uczniów do działalności kulturalnej, oświatowej,
    sportowej, rozrywkowej, naukowej w szkole,
-6. reprezentowanie działalności SU przed dyrektorem, radą pedagogiczną, radą
-   rodziców i innymi organami.
+6. reprezentowanie działalności SU przed Dyrektorem, Radą Pedagogiczną, Radą
+   Rodziców i innymi organami.
 
 ### Rozdział III: OPIEKUN SU
 
@@ -52,7 +52,7 @@ Opiekun SU wspomaga jego działalność poprzez:
 
 1. wsparcie SU w sprawach merytorycznych i organizacyjnych,
 2. inspirowanie uczniów do działania,
-3. pośredniczenie w relacjach SU z dyrektorem oraz radą pedagogiczną. Rozdział
+3. pośredniczenie w relacjach SU z Dyrektorem oraz Radą Pedagogiczną. Rozdział
    IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
 
 ### Rozdział IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
@@ -76,9 +76,9 @@ Przewodniczący SU:
 1. kieruje pracą Zarządu SU,
 2. nominuje kandydatów na członków Zarządu SU i przedstawia ich do zatwierdzenia
    Radzie Samorządów Klasowych,
-3. reprezentuje SU wobec dyrektora szkoły, rady pedagogicznej, rady rodziców
+3. reprezentuje SU wobec Dyrektora szkoły, Rady Pedagogicznej, Rady Rodziców
    oraz innych organizacji,
-4. przedstawia uczniom, dyrektorowi, radzie pedagogicznej, radzie rodziców plan
+4. przedstawia uczniom, Dyrektorowi, Radzie Pedagogicznej, Radzie Rodziców plan
    pracy Zarządu SU oraz sprawozdanie końcowe z działalności SU,
 5. zwołuje i przewodniczy zebraniom Zarządu SU oraz Rady Samorządów Klasowych,
 6. podczas każdego z zebrań Zarządu SU oraz Rady Samorządów Klasowych wskazuje
@@ -157,7 +157,7 @@ Do kompetencji Zarządu SU należy:
 1. koordynowanie, inicjowanie i organizowanie działań uczniowskich,
 2. opracowanie rocznego planu działania SU,
 3. identyfikacja potrzeb uczniów i odpowiadanie na te potrzeby,
-4. przedstawianie dyrektorowi, radzie pedagogicznej, radzie rodziców wniosków,
+4. przedstawianie Dyrektorowi, Radzie Pedagogicznej, Radzie Rodziców wniosków,
    opinii, sugestii członków SU.
 
 Obrady Zarządu SU zwoływane są przez
@@ -169,7 +169,7 @@ Zarządu SU lub Opiekuna SU przynajmniej raz w miesiącu.
 Do obowiązków członków Zarządu SU należy:
 
 1. uczestnictwo w pracach Zarządu SU i realizacja celów SU,
-2. stosowanie się w swojej działalności do wytycznych dyrektora,
+2. stosowanie się w swojej działalności do wytycznych Dyrektora,
 3. uwzględnianie w swojej działalności potrzeb uczniów,
 4. troska o wysoki poziom organizacyjny i dobrą atmosferę podczas pracy SU,
 5. włączanie uczniów w ogólnoszkolne działania Zarządu SU.
@@ -183,7 +183,7 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 
 1. Organy SU, w tym RSK, podejmują decyzje zwykłą większością głosów w obecności
    co najmniej połowy członków uprawnionych do głosowania.
-2. Decyzje organów SU mogą być uchylone przez dyrektora szkoły, gdy są sprzeczne
+2. Decyzje organów SU mogą być uchylone przez Dyrektora szkoły, gdy są sprzeczne
    z prawem lub statutem szkoły.
 
 ### ROZDZIAŁ V: ORDYNACJA WYBORCZA
@@ -341,7 +341,7 @@ Kampania wyborcza trwa od dnia ogłoszenia listy kandydatów przez UKW do dnia
 poprzedzającego wybory. Prowadzenie kampanii w dniu wyborów jest zabronione
 (cisza wyborcza). Prowadząc kampanię wyborczą kandydaci nie mogą naruszać
 dobrego imienia innych osób ani wykorzystywać szkolnej infrastruktury bez zgody
-dyrektora szkoły.
+Dyrektora szkoły.
 
 #### § 24
 
