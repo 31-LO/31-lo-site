@@ -479,9 +479,8 @@ który otrzymał największą liczbę głosów.
    większość głosów członków RSK.
 4. Jeżeli wynik głosowania będzie remisowy, zamiast tradycyjnego głosowania,
    przeprowadzona zostanie gra w Marynażyka, nadzorowana przez członków
-   RSK oraz Opiekuna SU. Każdy kandydat jednocześnie pokazuje rękę z liczbą
-   od 1 do 5. Następnie, zaczynając od pierwszego kandydata alfabetycznie,
-   zgodnie z ruchem wskazówek zegara, odliczane jest do wybranej liczby.
+   RSK oraz Opiekuna SU. Szczegółowy przebieg gry opisano w Załączniku 
+   nr 1 do niniejszego dokumentu.
 
 #### § 27
 
@@ -601,3 +600,59 @@ ogłoszenia wyników wyborów do dnia ogłoszenia wyników kolejnych wyborów.
    Uczniowskiego, Zarządu SU i Rady Samorządów Klasowych, zostały uchwalone dnia
    18 czerwca 2025 r. Niniejszy dokument stanowi tekst jednolity, uwzględniający
    wprowadzone zmiany.
+
+### Załączniki
+
+#### Załącznik nr 1
+#### Procedura rozstrzygnięcia remisu poprzez grę „Marynarzyk”
+
+---
+
+##### 1. Cel gry
+
+Gra „Marynarzyk” stanowi **ostateczny sposób rozstrzygnięcia** wyborów na stanowisko **Przewodniczącego Samorządu Uczniowskiego** lub **Opiekuna Samorządu Uczniowskiego** w sytuacji, gdy:
+
+1. Pierwsza tura wyborów nie wyłoni zwycięzcy z powodu remisu,
+2. Druga tura, przeprowadzona zgodnie z tymi samymi zasadami, również zakończy się remisem,
+3. Głosowanie tajne przeprowadzone przez **Radę Samorządów Klasowych (RSK)** na specjalnie zwołanym posiedzeniu również zakończy się remisem.
+
+W takiej sytuacji gra „Marynarzyk” zostaje zastosowana jako narzędzie losowego wyboru zwycięzcy, zapewniając jednoznaczne i natychmiastowe rozstrzygnięcie. Gra przeprowadzana jest pod nadzorem członków RSK oraz Opiekuna SU i ma na celu wyłonienie jednej osoby spośród kandydatów objętych remisem.
+
+---
+
+##### 2. Uczestnicy
+
+- W grze uczestniczą wyłącznie **kandydaci, którzy uzyskali identyczną, najwyższą liczbę głosów**.
+- Grę nadzoruje **co najmniej dwóch członków RSK oraz Opiekun SU**.
+
+---
+
+##### 3. Przebieg gry
+
+##### 3.1 Ustawienie
+
+- Kandydaci ustawiają się w **kole** (lub wokół stołu) **według kolejności alfabetycznej nazwisk**.
+- Odliczanie odbywa się zgodnie z **ruchem wskazówek zegara**, rozpoczynając od pierwszego kandydata alfabetycznie.
+
+##### 3.2 Wybór liczby
+
+- Na wyraźny znak osoby nadzorującej **każdy kandydat pokazuje jednocześnie** wyciągniętą dłoń z **liczbą palców od 1 do 5**.
+- Nadzorujący **sumuje wszystkie pokazane liczby palców** i głośno ogłasza wynik (np. „Suma to 13”).
+
+##### 3.3 Odliczanie
+
+- Odliczanie rozpoczyna się od pierwszego kandydata (alfabetycznie), zgodnie z ruchem wskazówek zegara.
+- Na każde kolejne liczby (od 1 do sumy) przypada kolejna osoba w ustalonej kolejności.
+- **Kandydat, na którym zakończy się odliczanie, zostaje zwycięzcą wyborów.**
+
+---
+
+##### 4. Uwagi dodatkowe
+
+- Gra jest **jednorundowa** – przeprowadzana tylko raz.
+- W przypadku błędu proceduralnego gra jest **powtarzana natychmiast**.
+- Zabronione jest porozumiewanie się między kandydatami w trakcie gry.
+- Wszelkie spory i niejasności rozstrzyga **Opiekun Samorządu Uczniowskiego**.
+- Celem gry jest zapewnienie **uczciwego, losowego i przejrzystego** rozstrzygnięcia.
+
+---
