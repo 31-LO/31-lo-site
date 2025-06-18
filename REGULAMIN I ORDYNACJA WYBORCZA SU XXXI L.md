@@ -5,13 +5,13 @@ INGARDENA
 
 #### § 1
 
-Samorząd uczniowski tworzą wszyscy uczniowie XXXI Liceum
+Samorząd Uczniowski tworzą wszyscy uczniowie XXXI Liceum
 Ogólnokształcącego im. Romana Ingardena w Krakowie należącego do Zespołu Szkół
 nr 13 w Krakowie.
 
 #### § 2
 
-Samorząd uczniowski, działający w XXXI Liceum Ogólnokształcącym im. Romana
+Samorząd Uczniowski, działający w XXXI Liceum Ogólnokształcącym im. Romana
 Ingardena w Krakowie, zwany dalej SU, działa na podstawie Ustawy o systemie
 oświaty z dn. 14 XII 2016 r. (Dz.U. z 2016 r. poz. 59), Statutu XXXI
 Liceum Ogólnokształcącym im. Romana Ingardena w Krakowie oraz niniejszego
@@ -58,8 +58,7 @@ Opiekun SU wspomaga jego działalność poprzez:
 
 1. wsparcie SU w sprawach merytorycznych i organizacyjnych,
 2. inspirowanie uczniów do działania,
-3. pośredniczenie w relacjach SU z Dyrektorem oraz Radą Pedagogiczną. Rozdział
-   IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
+3. pośredniczenie w relacjach SU z Dyrektorem oraz Radą Pedagogiczną.
 
 ### Rozdział IV: ORGANY SU - KOMPETENCJE, ZADANIA, STRUKTURA.
 
@@ -114,7 +113,7 @@ Rada Samorządów Klasowych (RSK):
    jest zobowiązany poinformować Przewodniczącego SU przed rozpoczęciem
    posiedzenia Rady.
 6. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
-   lub na żądanie co najmniej połowy członków RKS.
+   lub na żądanie co najmniej połowy członków RSK.
 7. Obrady RSK odbywać się muszą przynajmniej raz na półrocze.
 
 #### § 10
