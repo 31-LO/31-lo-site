@@ -23,17 +23,23 @@ Regulaminu.
 
 Do głównych celów działalności SU należą:
 
-1. promowanie i rozwijanie wśród uczniów samorządności na rzecz podejmowania
-   wspólnych decyzji w sprawach szkoły,
-2. przedstawianie Dyrektorowi, Radzie Pedagogicznej oraz Radzie Rodziców
-   wniosków, opinii i potrzeb uczniów we wszystkich sprawach szkoły,
-3. zwiększanie aktywności uczniowskiej, rozwijanie zainteresowań uczniów i
-   realizowanie własnych pomysłów dla wspólnego dobra,
-4. promowanie wiedzy na temat praw uczniów i czuwanie nad ich przestrzeganiem,
-5. organizowanie i zachęcanie uczniów do działalności kulturalnej, oświatowej,
-   sportowej, rozrywkowej, naukowej w szkole,
-6. reprezentowanie działalności SU przed Dyrektorem, Radą Pedagogiczną, Radą
-   Rodziców i innymi organami.
+1. Kształtowanie postaw samorządności i współodpowiedzialności za społeczność
+   szkolną poprzez angażowanie uczniów w
+   procesy
+   decyzyjne.
+2. Artykułowanie i reprezentowanie stanowiska oraz interesów społeczności
+   uczniowskiej wobec Dyrektora, Rady
+   Pedagogicznej
+   i Rady Rodziców w duchu dialogu i partnerstwa.
+3. Ochrona praw i godności ucznia oraz dbanie o ich respektowanie w życiu
+   szkoły, w tym upowszechnianie wiedzy na ich
+   temat.
+4. Inicjowanie i wspieranie działań rozwijających pasje, talenty i integrację
+   uczniów poprzez organizację życia
+   kulturalnego, sportowego, naukowego i społecznego.
+5. Tworzenie przestrzeni dla uczniowskich inicjatyw oraz wspieranie realizacji
+   pomysłów zgłaszanych przez społeczność
+   szkolną dla wspólnego dobra.
 
 ### Rozdział III: OPIEKUN SU
 
@@ -87,7 +93,7 @@ Przewodniczący SU:
    wskazać osobę sporządzającą notatkę z obrad, która zostaje dodana do archiwum
    dokumentacji SU.
 8. W przypadku nieobecności Przewodniczącego SU jego obowiązki pełni wyznaczony
-   przez niego Wiceprzewodniczący SU.
+   na pierwszym posiedzeniu RSK Wiceprzewodniczący SU.
 
 #### § 9
 
