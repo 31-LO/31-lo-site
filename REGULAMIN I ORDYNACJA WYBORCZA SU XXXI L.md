@@ -1,5 +1,5 @@
-REGULAMIN I ORDYNACJA WYBORCZA SU XXXI LICEUM OGÓLNOKSZTAŁCĄCEGO IM. ROMANA
-INGARDENA
+REGULAMIN I ORDYNACJA WYBORCZA SAMORZĄDU UCZNIOWSKIEGO
+XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie 
 
 ### Rozdział I: POSTANOWIENIA OGÓLNE
 
@@ -11,11 +11,11 @@ nr 13 w Krakowie.
 
 #### § 2
 
-Samorząd Uczniowski, działający w XXXI Liceum Ogólnokształcącym im. Romana
-Ingardena w Krakowie, zwany dalej SU, działa na podstawie Ustawy o systemie
-oświaty z dn. 14 XII 2016 r. (Dz.U. z 2016 r. poz. 59), Statutu XXXI
-Liceum Ogólnokształcącym im. Romana Ingardena w Krakowie oraz niniejszego
-Regulaminu.
+Samorząd Uczniowski (dalej SU) w XXXI Liceum Ogólnokształcącym 
+im. Romana Ingardena w Krakowie działa na podstawie Ustawy o systemie 
+oświaty z dnia 14 grudnia 2016 r. (Dz.U. z 2016 r. poz. 59), 
+Statutu XXXI Liceum Ogólnokształcącego im. Romana Ingardena w Krakowie
+oraz niniejszego Regulaminu
 
 ### Rozdział II: CELE DZIAŁALNOŚCI SU
 
@@ -25,15 +25,13 @@ Do głównych celów działalności SU należą:
 
 1. Kształtowanie postaw samorządności i współodpowiedzialności za społeczność
    szkolną poprzez angażowanie uczniów w
-   procesy
-   decyzyjne.
+   procesy decyzyjne.
 2. Artykułowanie i reprezentowanie stanowiska oraz interesów społeczności
    uczniowskiej wobec Dyrektora, Rady
    Pedagogicznej
    i Rady Rodziców w duchu dialogu i partnerstwa.
-3. Ochrona praw i godności ucznia oraz dbanie o ich respektowanie w życiu
-   szkoły, w tym upowszechnianie wiedzy na ich
-   temat.
+3. Ochrona praw i godności ucznia oraz dbanie o ich respektowanie w życiu szkoły,
+   w tym upowszechnianie wiedzy na temat praw ucznia
 4. Inicjowanie i wspieranie działań rozwijających pasje, talenty i integrację
    uczniów poprzez organizację życia
    kulturalnego, sportowego, naukowego i społecznego.
@@ -45,12 +43,12 @@ Do głównych celów działalności SU należą:
 
 #### § 4
 
-Opiekę nad pracą SU sprawuje Opiekun SU wybierany na kadencję trwającą 3 lata.
+Opiekę nad pracą SU sprawuje Opiekun SU wybierany jest na kadencję trwającą 3 lata.
 
 #### § 5
 
-Opiekuna SU wybiera ogół uczniów w szkole. Wybory Opiekuna SU są równe, tajne,
-bezpośrednie, powszechne. Prawo kandydowania przysługuje wszystkim nauczycielom.
+Opiekuna SU wybiera ogół uczniów w szkole w drodze wyborów, które są równe,
+tajne, bezpośrednie i powszechne. Prawo kandydowania przysługuje wszystkim nauczycielom.
 
 #### § 6
 
@@ -113,7 +111,7 @@ Rada Samorządów Klasowych (RSK):
    jest zobowiązany poinformować Przewodniczącego SU przed rozpoczęciem
    posiedzenia Rady.
 6. Obrady Rady Samorządów Klasowych zwoływane są przez Przewodniczącego SU
-   lub na żądanie co najmniej połowy członków RSK.
+   lub na wniosek co najmniej połowy jej członków.
 7. Obrady RSK odbywać się muszą przynajmniej raz na półrocze.
 
 #### § 10
@@ -230,14 +228,13 @@ członków Zarządu SU zostaje ustalony na pierwszym posiedzeniu Zarządu.
 #### § 17
 
 1. Niniejsza ordynacja określa tryb wyboru i powoływania organów Samorządu
-   Uczniowskiego (SU), którymi są:
+   Uczniowskiego, którymi są:
     1. Przewodniczący Samorządu Uczniowskiego,
     2. Rada Samorządów Klasowych,
     3. Zarząd Samorządu Uczniowskiego,
     4. Opiekun Samorządu Uczniowskiego.
 2. Wybory **Przewodniczącego SU** oraz **Opiekuna SU** są powszechne, równe,
-   bezpośrednie i odbywają się w głosowaniu
-   tajnym.
+   bezpośrednie i odbywają się w głosowaniu tajnym.
 3. Członkowie **Rady Samorządów Klasowych** wybierani są w wyborach klasowych.
 4. Członkowie **Zarządu SU** są powoływani w trybie nominacji i zatwierdzenia.
 
@@ -256,8 +253,8 @@ harmonogramem określonym w § 19a.
    którzy w danym roku szkolnym nie kandydują na stanowisko Przewodniczącego SU.
    Członkowie UKW powinni pochodzić z różnych klas, aby zapewnić
    reprezentatywność.
-3. Skład UKW jest ogłaszany przez ustępującego Przewodniczącego SU, w
-   porozumieniu z Opiekunem SU, co najmniej 3 tygodnie przed wyznaczonym
+3. Skład UKW jest ogłaszany przez Opiekuna SU w porozumieniu z ustępującym
+   Przewodniczącym SU, co najmniej 3 tygodnie przed wyznaczonym
    terminem wyborów.
 4. **Członkowie UKW są zobowiązani do zachowania pełnej bezstronności** w
    trakcie całego procesu wyborczego.
@@ -293,8 +290,7 @@ harmonogramem określonym w § 19a.
 
     3. **Niezwłocznie po powołaniu, najpóźniej do 25 września:** UKW ogłasza
        dokładny dzień wyborów powszechnych oraz przyjmuje zgłoszenia kandydatów
-       na
-       Przewodniczącego SU oraz (właściwego roku) na Opiekuna SU.
+       na Przewodniczącego SU oraz (właściwego roku) na Opiekuna SU.
 
     4. **Do końca 4. tygodnia września:** Zamyka się przyjmowanie zgłoszeń.
        Kandydaci na Przewodniczącego składają listy z podpisami poparcia
@@ -325,8 +321,7 @@ harmonogramem określonym w § 19a.
 
     11. **W ciągu 30 dni od ogłoszenia ostatecznych wyników:** Musi zostać
         powołany cały skład Zarządu SU (Wiceprzewodniczący, Rzecznik Praw Ucznia
-        i
-        inni członkowie), zgodnie z procedurą opisaną w § 29.
+        i inni członkowie), zgodnie z procedurą opisaną w § 29.
 
 2. Szczegółowy harmonogram na dany rok, zawierający konkretne daty, jest
    publikowany przez UKW zgodnie z pkt. 1.3.
@@ -337,13 +332,11 @@ harmonogramem określonym w § 19a.
    harmonogramie.
     1. O każdej zmianie i jej przyczynach UKW jest zobowiązana niezwłocznie
        poinformować społeczność szkolną w sposób publicznie przyjęty (np. na
-       tablicy
-       ogłoszeń, bezpośrednio lub przez dziennik elektroniczny).
+       tablicy ogłoszeń, bezpośrednio lub przez dziennik elektroniczny).
     2. Modyfikacja harmonogramu musi respektować podstawowe zasady ordynacji, w
        szczególności zapewniać kandydatom odpowiedni czas na rejestrację i
        prowadzenie kampanii wyborczej, zachowując proporcje między
-       poszczególnymi
-       etapami.
+       poszczególnymi etapami.
 
 #### Część B: Wybory Przewodniczącego Samorządu Uczniowskiego i Opiekuna Samorządu Uczniowskiego
 
@@ -415,8 +408,8 @@ Zasady przeprowadzenia wyborów są następujące:
        głosowania,
     4. udanie się do miejsca zapewniającego tajność, wypełnienie karty i
        wrzucenie jej do urny.
-8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie
-   przecinające się w obrębie kratki) w kratce przy nazwisku
+8. Głos jest ważny, jeśli wyborca postawi znak „X” (co najmniej dwie linie 
+   przecinające się w obrębie kratki) w kratce przy nazwisku 
    **jednego kandydata** na Przewodniczącego SU oraz/lub **jednego kandydata**
    na Opiekuna SU.
 9. Głos w danej części karty (dotyczącej wyboru Przewodniczącego lub Opiekuna)
@@ -461,7 +454,7 @@ Liczenie głosów odbywa się według poniższej procedury:
 7. Wyniki wyborów, wraz z informacją o tym, kto został **Przewodniczącym
    Samorządu Uczniowskiego** oraz **Opiekunem Samorządu Uczniowskiego**, UKW
    niezwłocznie podaje do publicznej wiadomości poprzez ogłoszenie na szkolnej
-   tablicy informacyjnej oraz na stronie internetowej szkoły.
+   tablicy ogłoszeń, bezpośrednio lub przez dziennik elektroniczny.
 
 #### § 26
 
@@ -484,6 +477,11 @@ który otrzymał największą liczbę głosów.
    Klasowych (RSK) na specjalnie zwołanym w tym celu posiedzeniu, w drodze
    głosowania tajnego. Zwycięzcą zostaje kandydat, który uzyskał zwykłą
    większość głosów członków RSK.
+4. Jeżeli wynik głosowania będzie remisowy, zamiast tradycyjnego głosowania,
+   przeprowadzona zostanie gra w Marynażyka, nadzorowana przez członków
+   RSK oraz Opiekuna SU. Każdy kandydat jednocześnie pokazuje rękę z liczbą
+   od 1 do 5. Następnie, zaczynając od pierwszego kandydata alfabetycznie,
+   zgodnie z ruchem wskazówek zegara, odliczane jest do wybranej liczby.
 
 #### § 27
 
