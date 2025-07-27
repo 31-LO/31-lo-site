@@ -175,6 +175,11 @@ const config: Config = {
             label: 'Facebook',
             position: 'right',
           },
+          {
+            to: 'https://discord.com/invite/5e2qXHWx',
+            label: 'Discord',
+            position: 'right',
+          },
         ],
       },
       footer: {
