@@ -190,7 +190,7 @@ const config: Config = {
             position: 'right',
           },
           {
-            to: 'https://discord.com/invite/5e2qXHWx',
+            to: 'https://discord.gg/y7sW8UM9c6',
             label: 'Discord',
             position: 'right',
           },
