@@ -64,7 +64,7 @@ const config: Config = {
         items: [
           // left side
           {
-            label: 'Dowiedz się!',
+            label: 'Dowiedz się! (blog)',
             to: '/blog',
           },
           {
@@ -165,14 +165,14 @@ const config: Config = {
             to: 'docs/zamowienia-publiczne',
             items: [
               {
-                label: "Plan postępowań o udzielenie zamówień publicznych",
-                to: 'docs/plan-postepowan'
+                label: 'Plan postępowań o udzielenie zamówień publicznych',
+                to: 'docs/plan-postepowan',
               },
               {
-                label: "Zamówienia publiczne równe lub powyżej 130 000 zł",
-                to: 'docs/powyzej-130k'
-              }
-            ]
+                label: 'Zamówienia publiczne równe lub powyżej 130 000 zł',
+                to: 'docs/powyzej-130k',
+              },
+            ],
           },
           {
             label: 'Kontakt',
@@ -240,7 +240,7 @@ const config: Config = {
         id: 'blog',
         routeBasePath: 'blog',
         path: './blog',
-        blogTitle: 'Dowiedz się!',
+        blogTitle: 'Dowiedz się! (blog)',
         blogDescription: 'Wszystko co w szkole piszczy!',
         postsPerPage: 'ALL',
         blogSidebarTitle: 'Wszystkie "Dowiedz się!"',
