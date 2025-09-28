@@ -22,6 +22,7 @@
     "hackhatonach",
     "hakatony",
     "Hanko",
+    "Hartopp",
     "Helmin",
     "Holeczek",
     "ITIL",
@@ -42,14 +43,19 @@
     "Molicka",
     "Mordyl",
     "Mrzigod",
+    "noopener",
+    "noreferrer",
     "NPRCZ",
     "ogólnoszkolne",
+    "Paryga",
     "Pazdro",
     "Perekietka",
+    "placeholderess",
     "planszówkach",
     "Planszówki",
     "pogimnazjalnych",
     "Ponczek",
+    "Prymon",
     "przemocowych",
     "Rawecka",
     "ROZSZ",
@@ -73,11 +79,12 @@
     "Zamarlik",
     "zoomable"
   ],
-  "cSpell.enableFiletypes": ["mdx"],
+  "#cSpell.enableFiletypes#": ["mdx"],
   "cSpell.ignoreRegExpList": [
     "(?<=\\[[^\\]]+\\])\\([^\\)]+\\)",
     "href=\"[^\"]+\"",
     "id: '[^\"]+'",
-    "import .*;"
+    "import .*;",
+    "require\\('([^']+)\\'\\)\\.default"
   ]
 }
