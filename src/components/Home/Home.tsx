@@ -5,7 +5,6 @@ import Layout from '@theme/Layout';
 import styles from './Home.module.css';
 import HomepageHeader from './HomepageHeader';
 import RecentBlogPosts from './RecentBlogPosts';
-import React from 'react';
 
 interface Props {
   readonly recentPosts: readonly { readonly content: Content }[];

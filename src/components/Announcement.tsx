@@ -1,7 +1,6 @@
-import Stack from '@mui/material/Stack';
-import React from 'react';
-import banner from '@site/static/img/dzien-2.png';
 import Link from '@docusaurus/Link';
+import Stack from '@mui/material/Stack';
+import banner from '@site/static/img/dzien-2.png';
 
 export default function Announcement() {
   return (

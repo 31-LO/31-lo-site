@@ -1,7 +1,6 @@
-import React from 'react';
-import styles from './CookieDialog.module.css';
-import useConsent from '@site/src/hooks/useConsent';
 import Dialog from '@mui/material/Dialog';
+import useConsent from '@site/src/hooks/useConsent';
+import styles from './CookieDialog.module.css';
 
 export default function CookieDialog() {
   const { consentGiven, setConsent } = useConsent();

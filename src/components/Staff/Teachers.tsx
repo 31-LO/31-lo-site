@@ -1,4 +1,3 @@
-import React from 'react';
 import Box from '@mui/material/Box';
 import StaffMemberCard, { StaffMemberProps } from './StaffMemberCard';
 const placeholder = require('./img/placeholder.png').default;

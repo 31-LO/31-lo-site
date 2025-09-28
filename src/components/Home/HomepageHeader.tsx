@@ -2,7 +2,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import KrakowLogoFrame from '@site/src/components/KrakowLogoFrame/KrakowLogoFrame';
 import clsx from 'clsx';
-import React from 'react';
 import styles from './Home.module.css';
 
 export default function HomepageHeader() {

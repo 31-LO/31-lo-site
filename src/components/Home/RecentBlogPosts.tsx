@@ -2,7 +2,6 @@ import { BlogPostProvider } from '@docusaurus/plugin-content-blog/client';
 import BlogPostItem from '@theme/BlogPostItem';
 import { Content } from '@theme/BlogPostPage';
 import clsx from 'clsx';
-import React from 'react';
 import styles from './Home.module.css';
 
 type RecentBlogPostsProps = {

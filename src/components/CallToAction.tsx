@@ -1,6 +1,5 @@
 import Link from '@docusaurus/Link';
 import Stack from '@mui/material/Stack';
-import React from 'react';
 
 export default function CallToAction() {
   return (
