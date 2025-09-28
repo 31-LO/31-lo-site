@@ -90,7 +90,7 @@ const partnerList: PartnerProps[] = [
         <p>
           Pracownicy firmy Cisco prowadzą w naszej szkole szereg warsztatów:
           zarządzanie projektami, Arduino, Python w języku angielskim oraz
-          webdesign
+          webdesign.
         </p>
       </>
     ),
