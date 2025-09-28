@@ -23,9 +23,15 @@ export default function CopyrightWrapper(props: Props): JSX.Element {
       </div>
       <div>
         {'Strona jest open source. Kod źródłowy znajdziesz '}
-        <a href="https://github.com/31-LO/31-lo-site" style={{ color: 'white' }}>
+        <a
+          href="https://github.com/31-LO/31-lo-site"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: 'white' }}
+        >
           tutaj
-        </a>.
+        </a>
+        .
       </div>
     </>
   );

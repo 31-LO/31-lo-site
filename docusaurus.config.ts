@@ -210,11 +210,6 @@ const config: Config = {
             </a>`,
           },
           {
-            html: `<a href="https://www.marr.pl/liderhr/" target="_blank" rel="noreferrer noopener" aria-label="Lider HR">
-              <img src="/img/footer-logos/lider_hr.png" alt="Lider HR" height="51" />
-            </a>`,
-          },
-          {
             html: `<a href="https://support.google.com/a/answer/139019" target="_blank" rel="noreferrer noopener" aria-label="Google Workspace dla edukacji">
               <img src="/img/footer-logos/google-workspace.png" alt="Google Workspace dla edukacji" height="51" />
             </a>`,
