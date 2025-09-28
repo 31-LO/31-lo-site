@@ -16,11 +16,6 @@ const listOfTeachers: StaffMemberProps[] = [
     imagePath: require('./img/budziak.png').default,
   },
   {
-    name: 'Barbara Machnik',
-    subject: 'chemia',
-    imagePath: require('./img/machnik.png').default,
-  },
-  {
     name: 'Roman Czapla',
     subject: 'informatyka',
     imagePath: require('./img/czapla.png').default,
@@ -78,7 +73,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Jakub Gajda',
     subject: 'informatyka',
-    imagePath: placeholder,
+    imagePath: require('./img/gajda.png').default,
   },
   {
     name: 'Albert Swęd',
