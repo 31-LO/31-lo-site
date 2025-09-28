@@ -18,8 +18,13 @@ const config: Config = {
   organizationName: '31-LO', // Usually your GitHub org/user name.
   projectName: '31-lo-site', // Usually your repo name.
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownImages: 'throw',
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
   trailingSlash: true,
 
   // Even if you don't use internalization, you can use this field to set useful
