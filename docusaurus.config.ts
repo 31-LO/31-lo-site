@@ -69,13 +69,17 @@ const config: Config = {
         items: [
           // left side
           {
-            label: 'Dowiedz się! (blog)',
+            label: 'Blog',
             to: '/blog',
           },
           {
             label: 'Rekrutacja',
             to: 'docs/oferta-edukacyjna',
             items: [
+              {
+                label: 'Profile',
+                to: 'docs/profile',
+              },
               {
                 label: 'Oferta edukacyjna',
                 to: 'docs/oferta-edukacyjna',
@@ -87,14 +91,6 @@ const config: Config = {
             ],
           },
           {
-            label: 'Profile',
-            to: 'docs/programowanie',
-            items: [
-              { label: 'Programowanie', to: 'docs/programowanie' },
-              { label: 'Game dev', to: 'docs/game-dev' },
-            ],
-          },
-          {
             label: 'O szkole',
             to: 'docs/kadra',
             items: [
@@ -103,15 +99,31 @@ const config: Config = {
                 to: 'docs/kadra',
               },
               {
+                label: 'Samorząd',
+                to: 'docs/samorzad',
+              },
+              {
                 label: 'Biblioteka',
                 to: 'docs/biblioteka',
+              },
+              {
+                label: 'Podręczniki',
+                to: 'docs/podreczniki',
+              },
+              {
+                label: 'Zajęcia dodatkowe',
+                to: 'docs/zajecia-dodatkowe',
+              },
+              {
+                label: 'Projekty',
+                to: 'docs/projekty',
               },
               {
                 label: 'Statut szkoły',
                 to: 'docs/statut',
               },
               {
-                label: 'Informacje dodatkowe',
+                label: 'Historia szkoły',
                 to: 'docs/informacje-dodatkowe',
               },
               {
@@ -122,28 +134,6 @@ const config: Config = {
                 label:
                   'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
                 to: 'docs/ochrona',
-              },
-            ],
-          },
-          {
-            label: 'Dla uczniów',
-            to: 'docs/samorzad',
-            items: [
-              {
-                label: 'Samorząd',
-                to: 'docs/samorzad',
-              },
-              {
-                label: 'Zajęcia dodatkowe',
-                to: 'docs/zajecia-dodatkowe',
-              },
-              {
-                label: 'Podręczniki',
-                to: 'docs/podreczniki',
-              },
-              {
-                label: 'Projekty',
-                to: 'docs/projekty',
               },
             ],
           },
@@ -166,7 +156,7 @@ const config: Config = {
             to: 'docs/boisko',
           },
           {
-            label: 'Zamówienia publiczne',
+            label: 'Zam. publiczne',
             to: 'docs/zamowienia-publiczne',
             items: [
               {

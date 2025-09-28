@@ -24,13 +24,13 @@ export default function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className={'button button--secondary button--lg'}
-              to="/docs/programowanie"
+              to="/docs/profile#programowanie"
             >
               Programowanie
             </Link>
             <Link
               className={'button button--secondary button--lg'}
-              to="/docs/game-dev"
+              to="/docs/profile#game-dev"
             >
               Game dev
             </Link>
