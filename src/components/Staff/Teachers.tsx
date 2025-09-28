@@ -133,7 +133,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Alicja Padło',
     subject: 'wychowanie fizyczne',
-    imagePath: placeholderess,
+    imagePath: require('./img/padlo.png').default,
   },
 ];
 
