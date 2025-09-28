@@ -4,7 +4,6 @@ import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
 import Typography from '@mui/material/Typography';
 import React from 'react';
-import Zoom from 'react-medium-image-zoom';
 import 'react-medium-image-zoom/dist/styles.css';
 
 const placeholder = require('./img/placeholder.png').default;
@@ -39,9 +38,7 @@ export default function StaffMemberCard({
           justifyContent: 'flex-start',
         }}
       >
-        <Zoom>
-          <img alt="" src={imagePath || placeholder} />
-        </Zoom>
+        <img alt="" src={imagePath || placeholder} />
       </Box>
       <Box>
         <CardHeader
