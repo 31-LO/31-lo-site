@@ -4,7 +4,6 @@ import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
 import Typography from '@mui/material/Typography';
 import React from 'react';
-import 'react-medium-image-zoom/dist/styles.css';
 
 const placeholder = require('./img/placeholder.png').default;
 
