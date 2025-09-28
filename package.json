@@ -26,16 +26,21 @@
     "@mui/material": "^5.13.1",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^2.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.1",
     "@docusaurus/tsconfig": "^3.9.1",
     "@docusaurus/types": "^3.9.1",
-    "@types/react": "^18.2.29",
-    "prettier": "2.8.8",
-    "typescript": "~5.2.2"
+    "@types/react": "18.3.24",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2"
+  },
+  "overrides": {
+    "@types/react": "18.3.24",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "browserslist": {
     "production": [

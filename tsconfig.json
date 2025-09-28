@@ -3,6 +3,14 @@
   "extends": "@docusaurus/tsconfig",
   "compilerOptions": {
     "baseUrl": ".",
-    "jsx": "react"
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "typeRoots": ["./node_modules/@types"],
+    "paths": {
+      "@site/*": ["./*"],
+      "react": ["./node_modules/react"],
+      "react-dom": ["./node_modules/react-dom"],
+      "@types/react": ["./node_modules/@types/react"]
+    }
   }
 }
