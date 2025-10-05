@@ -37,7 +37,12 @@ export default function StaffMemberCard({
           justifyContent: 'flex-start',
         }}
       >
-        <img alt="" src={imagePath || placeholder} />
+        <img
+          alt=""
+          src={imagePath || placeholder}
+          width={143}
+          style={{ maxWidth: '100%' }}
+        />
       </Box>
       <Box>
         <CardHeader
