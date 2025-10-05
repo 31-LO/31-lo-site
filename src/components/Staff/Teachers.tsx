@@ -127,7 +127,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Artur Paryga',
     subject: 'matematyka',
-    imagePath: placeholder,
+    imagePath: require('./img/paryga.png').default,
   },
   {
     name: 'Alicja Padło',
