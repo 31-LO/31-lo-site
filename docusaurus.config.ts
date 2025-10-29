@@ -175,18 +175,8 @@ const config: Config = {
           },
           // right side
           {
-            to: 'https://www.instagram.com/31lokrakow',
-            label: 'Instagram',
-            position: 'right',
-          },
-          {
-            to: 'https://www.facebook.com/31LOKrakow',
-            label: 'Facebook',
-            position: 'right',
-          },
-          {
-            to: 'https://discord.gg/y7sW8UM9c6',
-            label: 'Discord',
+            to: 'https://linktr.ee/lo.31',
+            label: 'Linktree',
             position: 'right',
           },
         ],
