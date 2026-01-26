@@ -169,6 +169,10 @@ const config: Config = {
             label: 'Kontakt',
             to: 'docs/kontakt',
           },
+	  {
+	    label: 'Wynajmij boisko',
+	    to: 'https://rezerwacje-lo31.pl/',
+	  },
           // right side
           {
             to: 'https://linktr.ee/lo.31',
