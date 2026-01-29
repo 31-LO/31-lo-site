@@ -114,6 +114,3 @@ Notes in this repo:
   make local imports resolve correctly for Docusaurus.
 - We keep React at v18 + matching @types; avoid upgrading to React 19 unless all
   major deps (Docusaurus and others) support it.
-
-If you want, I can create a short CONTRIBUTING.md with these steps and CI
-typecheck instructions.
