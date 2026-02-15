@@ -32,7 +32,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'wicedyr. Kamila Jakóbczak',
     subject: 'plastyka',
-    imagePath: require('./img/jakóbczak.png').default,
+    imagePath: require('./img/jakobczak.png').default,
   },
   {
     name: 'Agnieszka Korpała',
@@ -87,7 +87,7 @@ const listOfTeachers: StaffMemberProps[] = [
   {
     name: 'Angelika Wójciak',
     subject: 'język angielski',
-    imagePath: require('./img/wójciak.png').default,
+    imagePath: require('./img/wojciak.png').default,
   },
   {
     name: 'Joanna Wojciechowska-Hartopp',
