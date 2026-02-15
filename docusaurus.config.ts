@@ -1,6 +1,6 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import type { Config } from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
   title: 'LO 31',
@@ -69,10 +69,6 @@ const config: Config = {
         items: [
           // left side
           {
-            label: 'Blog',
-            to: '/blog',
-          },
-          {
             label: 'Rekrutacja',
             to: 'docs/oferta-edukacyjna',
             items: [
@@ -135,6 +131,10 @@ const config: Config = {
                   'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
                 to: 'docs/ochrona',
               },
+              {
+                label: 'FAQ',
+                to: '/faq',
+              },
             ],
           },
           {
@@ -169,10 +169,10 @@ const config: Config = {
             label: 'Kontakt',
             to: 'docs/kontakt',
           },
-	  {
-	    label: 'Wynajmij boisko',
-	    to: 'https://rezerwacje-lo31.pl/',
-	  },
+          {
+            label: 'Wynajmij boisko',
+            to: 'https://rezerwacje-lo31.pl/',
+          },
           // right side
           {
             to: 'https://linktr.ee/lo.31',
@@ -212,22 +212,6 @@ const config: Config = {
         darkTheme: prismThemes.dracula,
       },
     } satisfies Preset.ThemeConfig,
-
-  plugins: [
-    [
-      './src/plugins/blog-plugin',
-      {
-        id: 'blog',
-        routeBasePath: 'blog',
-        path: './blog',
-        blogTitle: 'Dowiedz się! (blog)',
-        blogDescription: 'Wszystko co w szkole piszczy!',
-        postsPerPage: 'ALL',
-        blogSidebarTitle: 'Wszystkie "Dowiedz się!"',
-        blogSidebarCount: 'ALL',
-      },
-    ],
-  ],
 };
 
 module.exports = config;
