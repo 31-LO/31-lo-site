@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     ),
     src: '/img/features/atmosfera.png',
     alt: 'Weseli uczniowie pozują do zdjęcia z nauczycielami i dyrekcją',
-    href: '/docs/oferta-edukacyjna',
+    href: '/docs/profile#co-wyróżnia-nasze-liceum',
     linkDescription: 'Zobacz ofertę edukacyjną',
   },
   {
@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
     ),
     src: '/img/features/rozwijanie-zainteresowan.png',
     alt: 'Uczeń pracuje nad grą używając Unreal Engine',
-    href: '/docs/zajecia-dodatkowe',
+    href: '/docs/profile#zajęcia-dodatkowe',
     linkDescription: 'Zobacz listę zajęć dodatkowych',
   },
   {

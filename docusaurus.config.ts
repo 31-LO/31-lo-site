@@ -76,16 +76,12 @@ const config: Config = {
                 to: 'docs/profile',
               },
               {
-                label: 'Oferta edukacyjna',
-                to: 'docs/oferta-edukacyjna',
-              },
-              {
                 label: 'Zasady rekrutacji',
                 to: 'docs/zasady-rekrutacji',
               },
               {
                 label: 'Jak wybrać szkołę?',
-                to: '/jak-wybrac',
+                to: 'docs/jak-wybrac',
               },
             ],
           },
@@ -110,10 +106,6 @@ const config: Config = {
                 to: 'docs/podreczniki',
               },
               {
-                label: 'Zajęcia dodatkowe',
-                to: 'docs/zajecia-dodatkowe',
-              },
-              {
                 label: 'Projekty',
                 to: 'docs/projekty',
               },
@@ -136,7 +128,7 @@ const config: Config = {
               },
               {
                 label: 'FAQ',
-                to: '/faq',
+                to: 'docs/faq',
               },
             ],
           },
