@@ -87,7 +87,6 @@ const config: Config = {
           },
           {
             label: 'O szkole',
-            to: 'docs/kadra',
             items: [
               {
                 label: 'Kadra',
@@ -110,21 +109,8 @@ const config: Config = {
                 to: 'docs/projekty',
               },
               {
-                label: 'Statut szkoły',
-                to: 'docs/statut',
-              },
-              {
                 label: 'Historia szkoły',
                 to: 'docs/informacje-dodatkowe',
-              },
-              {
-                label: 'Deklaracja dostępności',
-                to: 'docs/deklaracja-dostepnosci',
-              },
-              {
-                label:
-                  'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
-                to: 'docs/ochrona',
               },
               {
                 label: 'FAQ',
@@ -134,7 +120,6 @@ const config: Config = {
           },
           {
             label: 'Partnerzy',
-            to: 'docs/nasi-partnerzy',
             items: [
               {
                 label: 'Nasi partnerzy',
@@ -147,9 +132,21 @@ const config: Config = {
             ],
           },
           {
-            label: 'Zam. publiczne',
-            to: 'docs/zamowienia-publiczne',
+            label: 'Dokumenty',
             items: [
+              {
+                label: 'Statut szkoły',
+                to: 'docs/statut',
+              },
+              {
+                label: 'Deklaracja dostępności',
+                to: 'docs/deklaracja-dostepnosci',
+              },
+              {
+                label:
+                  'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
+                to: 'docs/ochrona',
+              },
               {
                 label: 'Plan postępowań o udzielenie zamówień publicznych',
                 to: 'docs/plan-postepowan',
