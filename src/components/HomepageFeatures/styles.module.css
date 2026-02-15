@@ -1,11 +1,12 @@
 .features {
-  display: flex;
-  align-items: center;
-  margin-bottom: 1rem;
-  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.feature {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

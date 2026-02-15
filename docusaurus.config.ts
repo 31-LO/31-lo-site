@@ -1,6 +1,6 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import type { Config } from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
   title: 'LO 31',
@@ -69,30 +69,24 @@ const config: Config = {
         items: [
           // left side
           {
-            label: 'Blog',
-            to: '/blog',
-          },
-          {
             label: 'Rekrutacja',
-            to: 'docs/oferta-edukacyjna',
             items: [
               {
                 label: 'Profile',
                 to: 'docs/profile',
               },
               {
-                label: 'Oferta edukacyjna',
-                to: 'docs/oferta-edukacyjna',
-              },
-              {
                 label: 'Zasady rekrutacji',
                 to: 'docs/zasady-rekrutacji',
+              },
+              {
+                label: 'Jak wybrać szkołę?',
+                to: 'docs/jak-wybrac',
               },
             ],
           },
           {
             label: 'O szkole',
-            to: 'docs/kadra',
             items: [
               {
                 label: 'Kadra',
@@ -111,35 +105,21 @@ const config: Config = {
                 to: 'docs/podreczniki',
               },
               {
-                label: 'Zajęcia dodatkowe',
-                to: 'docs/zajecia-dodatkowe',
-              },
-              {
                 label: 'Projekty',
                 to: 'docs/projekty',
-              },
-              {
-                label: 'Statut szkoły',
-                to: 'docs/statut',
               },
               {
                 label: 'Historia szkoły',
                 to: 'docs/informacje-dodatkowe',
               },
               {
-                label: 'Deklaracja dostępności',
-                to: 'docs/deklaracja-dostepnosci',
-              },
-              {
-                label:
-                  'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
-                to: 'docs/ochrona',
+                label: 'FAQ',
+                to: 'docs/faq',
               },
             ],
           },
           {
             label: 'Partnerzy',
-            to: 'docs/nasi-partnerzy',
             items: [
               {
                 label: 'Nasi partnerzy',
@@ -152,9 +132,21 @@ const config: Config = {
             ],
           },
           {
-            label: 'Zam. publiczne',
-            to: 'docs/zamowienia-publiczne',
+            label: 'Dokumenty',
             items: [
+              {
+                label: 'Statut szkoły',
+                to: 'docs/statut',
+              },
+              {
+                label: 'Deklaracja dostępności',
+                to: 'docs/deklaracja-dostepnosci',
+              },
+              {
+                label:
+                  'Polityka oraz procedury ochrony dzieci przed krzywdzeniem',
+                to: 'docs/ochrona',
+              },
               {
                 label: 'Plan postępowań o udzielenie zamówień publicznych',
                 to: 'docs/plan-postepowan',
@@ -166,13 +158,13 @@ const config: Config = {
             ],
           },
           {
+            label: 'Wynajmij boisko',
+            to: 'https://rezerwacje-lo31.pl/',
+          },
+          {
             label: 'Kontakt',
             to: 'docs/kontakt',
           },
-	  {
-	    label: 'Wynajmij boisko',
-	    to: 'https://rezerwacje-lo31.pl/',
-	  },
           // right side
           {
             to: 'https://linktr.ee/lo.31',
@@ -212,22 +204,6 @@ const config: Config = {
         darkTheme: prismThemes.dracula,
       },
     } satisfies Preset.ThemeConfig,
-
-  plugins: [
-    [
-      './src/plugins/blog-plugin',
-      {
-        id: 'blog',
-        routeBasePath: 'blog',
-        path: './blog',
-        blogTitle: 'Dowiedz się! (blog)',
-        blogDescription: 'Wszystko co w szkole piszczy!',
-        postsPerPage: 'ALL',
-        blogSidebarTitle: 'Wszystkie "Dowiedz się!"',
-        blogSidebarCount: 'ALL',
-      },
-    ],
-  ],
 };
 
 module.exports = config;
