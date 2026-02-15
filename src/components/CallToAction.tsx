@@ -49,8 +49,8 @@ export default function CallToAction() {
             </Stack>
           </Stack>
           <img
-            src="/img/features/undraw_educator.svg"
-            alt=""
+            src="/img/call-to-action/dolacz.png"
+            alt="Zdjęcie grupowe uczniów pozujących z nauczycielami i dyrekcją"
             style={{
               width: '400px',
               maxWidth: '100%',

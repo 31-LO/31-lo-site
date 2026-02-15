@@ -70,7 +70,6 @@ const config: Config = {
           // left side
           {
             label: 'Rekrutacja',
-            to: 'docs/oferta-edukacyjna',
             items: [
               {
                 label: 'Profile',
@@ -83,6 +82,10 @@ const config: Config = {
               {
                 label: 'Zasady rekrutacji',
                 to: 'docs/zasady-rekrutacji',
+              },
+              {
+                label: 'Jak wybrać szkołę?',
+                to: '/jak-wybrac',
               },
             ],
           },
@@ -166,12 +169,12 @@ const config: Config = {
             ],
           },
           {
-            label: 'Kontakt',
-            to: 'docs/kontakt',
-          },
-          {
             label: 'Wynajmij boisko',
             to: 'https://rezerwacje-lo31.pl/',
+          },
+          {
+            label: 'Kontakt',
+            to: 'docs/kontakt',
           },
           // right side
           {
