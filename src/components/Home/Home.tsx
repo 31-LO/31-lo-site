@@ -3,6 +3,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Layout from '@theme/Layout';
 import styles from './Home.module.css';
 import HomepageHeader from './HomepageHeader';
+import NoticeBanner from "../NoticeBanner/NoticeBanner";
 
 export default function Home(): JSX.Element {
   return (
@@ -11,6 +12,7 @@ export default function Home(): JSX.Element {
       description="Liceum informatyczne o profilach programowanie i game dev, rekrutacja. Liceum Ogólnokształcące im. Romana Ingardena w Krakowie."
     >
       <HomepageHeader />
+      <NoticeBanner />
       <main className={styles.main}>
         <HomepageFeatures />
         <CallToAction />
