@@ -7,6 +7,11 @@
   border: var(--frame-width) solid white;
   margin: var(--frame-distance);
   width: 100%;
+  pointer-events: none;
+}
+
+.frame * {
+  pointer-events: all;
 }
 
 .krakowLogo {
