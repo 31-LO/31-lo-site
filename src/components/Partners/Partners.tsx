@@ -96,48 +96,73 @@ const partnerList: PartnerProps[] = [
     ),
   },
   {
-    name: 'Draw Distance',
-    url: 'https://drawdistance.dev/',
-    logo: require('./img/draw-distance.webp').default,
+    name: 'Nokia',
+    url: 'https://www.nokia.com',
+    logo: require('./img/nokia.png').default,
     description: (
       <>
         <p>
-          Studio game devowe znane między innymi jako autorzy gry "Vampire: The
-          Masquerade - Coteries of New York", "Vampire: The Masquerade - Shadows
-          of New York", "Serial Cleaners", czy "Serial Cleaner".
+          Nokia to obecnie globalny lider w dziedzinie infrastruktury sieciowej,
+          technologii telekomunikacyjnych oraz rozwiązań opartych na sztucznej
+          inteligencji (AI).
         </p>
+
         <p>
-          Studio wspiera naszą szkołę merytorycznie poprzez przygotowanie
-          programu nauczania dla klas o profilu projektowanie gier oraz przez
-          prowadzenie warsztatów między innymi z programowania w języku C# oraz
-          pracy Unity - silniku do tworzenia trójwymiarowych oraz dwuwymiarowych
-          gier komputerowych lub innych materiałów interaktywnych, takich jak
-          wizualizacje czy animacje.
+          Programiści z reh firmy prowadzą dla naszych uczniów bezpłatne
+          warsztaty z programowania w języku C++.
         </p>
       </>
     ),
   },
   {
-    name: 'Untitled Kingdom',
-    url: 'https://www.untitledkingdom.com/',
-    logo: require('./img/untitled-kingdom.webp').default,
-    backgroundColor: '#0e0e0e',
+    name: 'NextGenIT',
+    url: 'https://nextgenitinfo.pl/',
+    logo: require('./img/nextgenit.png').default,
     description: (
       <>
         <p>
-          Firma tworząca oprogramowanie w branży zdrowia cyfrowego i IoT które
-          wpływają pozytywnie na życie i zdrowie ludzi.
+          NextGenIT to cykl spotkań, który inspiruje młode pokolenie do
+          odkrywania, tworzenia i rozwoju w świecie nowych technologii. Łączymy
+          przyszłych i obecnych specjalistów IT, tworząc przestrzeń wymiany
+          wiedzy, doświadczeń i inspiracji.
         </p>
+
         <p>
-          Firma wspiera naszą szkołę merytorycznie poprzez przygotowanie planu
-          nauczania dla klasy o profilu programowanie oraz przez prowadzenie
-          warsztatów między innymi z metodyki organizacji pracy programisty
-          (scrum/kanban), edytorów kodu, frameworku do tworzenia aplikacji
-          internetowych, edytora PyCharm i wiele innych. Ponadto firma Untitled
-          kingdom doposażyła naszą pracownię komputerową w nowoczesne
-          superkomputery, które bez problemu pozwalają uczniom tworzyć między
-          innymi grafikę 3D.
+          Jesteśmy szkołą partnerską NextGenIT. Nasi uczniowie regularnie
+          uczestniczą w meetupach i warsztatach ze specjalistami z branży IT.
         </p>
+      </>
+    ),
+  },
+  {
+    name: 'Bartosz Kamiński',
+    url: 'https://www.youtube.com/user/KamskiStudio',
+    logo: require('./img/bartosz-kaminski.webp').default,
+    backgroundColor: 'transparent',
+    description: (
+      <>
+        <p>
+          Jedyny i niepowtarzalny. Człowiek renesansu: raper, specjalista od
+          muzyki i dźwięku, programista.
+        </p>
+        <p>Bartosz Kamiński uczy nas silnika Unreal Engine.</p>
+      </>
+    ),
+  },
+  {
+    name: 'Make Games Today',
+    url: 'https://www.youtube.com/@MakeGamesToday',
+    logo: require('./img/make-games-today.webp').default,
+    description: (
+      <>
+        <p>
+          Konrad Gadzina to kolejny człowiek renesansu. Od ponad 15 lat temu
+          pracuje jako programista. Zajmował się robieniem aplikacji, tworzeniem
+          gier i nauką programowania. Stworzył darmowy kurs wprowadzający
+          podstawy C# na przykładzie gry roguelike. Prowadził też serię rozmów
+          na żywo "O piątej nad graniem".
+        </p>
+        <p>Konrad Gadzina czy nas silnika Unity.</p>
       </>
     ),
   },
@@ -155,26 +180,6 @@ const partnerList: PartnerProps[] = [
           Dzięki tej współpracy uczymy się różnicy między "IT" a "softwarem".
           Poza tym, jeśli kiedyś przyjdzie nam zakładać własne studio będziemy
           mieli lepszy start z własną infrastrukturą.
-        </p>
-      </>
-    ),
-  },
-  {
-    name: 'Salon reklamy',
-    url: 'https://salonreklamy.pl/',
-    logo: require('./img/salon-reklamy-square.png').default,
-    description: (
-      <>
-        <p>
-          Firma zajmuje się kompleksową obsługą reklamową biznesu. Tworzy
-          kreatywne projekty graficzne i skuteczne strategie marketingowe.
-        </p>
-        <p>
-          Poprzez współpracę z firmą nasi uczniowie poznają podstawy
-          projektowania graficznego 2D, teorie koloru, kompozycji, uczą się jak
-          przygotowywać pliki i wiele innych ważnych aspektów grafiki. Pobudzają
-          również swoją kreatywność podczas ciekawych warsztatów i projektów, a
-          energia i zapał prowadzących zaszczepia w nich miłość do tworzenia.
         </p>
       </>
     ),
@@ -209,56 +214,6 @@ const partnerList: PartnerProps[] = [
           współpracy z WSE poznajemy zasady budowania opowieści, konstruowania
           historii w scenariuszach growych, tworzenia narracji i mechaniki itp.
         </p>
-      </>
-    ),
-  },
-  {
-    name: 'Na Niby Studio (Make Believe Graphics)',
-    url: 'https://nanibystudio.pl/',
-    logo: require('./img/na-niby.webp').default,
-    description: (
-      <>
-        <p>
-          Studio graficzne specjalizujące się w tworzeniu animacji 3D,
-          wizualizacji, wirtualnych spacerów oraz wirtualnej rzeczywistości.
-        </p>
-        <p>
-          Pracownicy na Niby Studio uczą nas grafiki 3D i projektowania światów
-          za pomocą Blendera. Nadzorują nasze projekty, a my z biegiem tygodni i
-          miesięcy coraz swobodniej poruszamy sie w narzędziach do grafiki 3D.
-        </p>
-      </>
-    ),
-  },
-  {
-    name: 'Bartosz Kamiński',
-    url: 'https://www.youtube.com/user/KamskiStudio',
-    logo: require('./img/bartosz-kaminski.webp').default,
-    backgroundColor: 'transparent',
-    description: (
-      <>
-        <p>
-          Jedyny i niepowtarzalny. Człowiek renesansu: raper, specjalista od
-          muzyki i dźwięku, programista.
-        </p>
-        <p>Bartosz Kamiński uczy nas silnika Unreal Engine.</p>
-      </>
-    ),
-  },
-  {
-    name: 'Make Games Today',
-    url: 'https://www.youtube.com/@MakeGamesToday',
-    logo: require('./img/make-games-today.webp').default,
-    description: (
-      <>
-        <p>
-          Konrad Gadzina to kolejny człowiek renesansu. Od ponad 15 lat temu
-          pracuje jako programista. Zajmował się robieniem aplikacji, tworzeniem
-          gier i nauką programowania. Stworzył darmowy kurs wprowadzający
-          podstawy C# na przykładzie gry roguelike. Prowadził też serię rozmów
-          na żywo "O piątej nad graniem".
-        </p>
-        <p>Konrad Gadzina czy nas silnika Unity.</p>
       </>
     ),
   },
