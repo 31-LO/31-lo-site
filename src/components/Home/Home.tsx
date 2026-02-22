@@ -1,9 +1,10 @@
 import CallToAction from '@site/src/components/CallToAction';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Layout from '@theme/Layout';
+import { JSX } from 'react';
+import NoticeBanner from '../NoticeBanner/NoticeBanner';
 import styles from './Home.module.css';
 import HomepageHeader from './HomepageHeader';
-import NoticeBanner from "../NoticeBanner/NoticeBanner";
 
 export default function Home(): JSX.Element {
   return (
