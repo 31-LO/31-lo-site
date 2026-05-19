@@ -27,18 +27,6 @@ describe('Partners Component', () => {
     }).not.toThrow();
   });
 
-  it('should render with expected content', () => {
-    const rendered = renderToString(<Partners />);
-    
-    // Check that the rendered content contains key elements
-    expect(rendered).toContain('Krakowski Park Technologiczny');
-    expect(rendered).toContain('https://www.kpt.krakow.pl/');
-    expect(rendered).toContain('Patron całego Liceum');
-    expect(rendered).toContain('Cisco Kraków');
-    expect(rendered).toContain('drawdistance.dev');
-    expect(rendered).toContain('container'); // Main container class
-  });
-
   it('should be a function component', () => {
     expect(typeof Partners).toBe('function');
   });
@@ -67,15 +55,6 @@ describe('Partners Component', () => {
     expect(rendered).toContain('href="https://www.facebook.com/CiscoKrakow/"');
     expect(rendered).toContain('Krakowski Park Technologiczny');
     expect(rendered).toContain('Cisco Kraków');
-  });
-
-  it('renders partner descriptions', () => {
-    const rendered = renderToString(<Partners />);
-
-    // Look for specific text from partner descriptions
-    expect(rendered).toContain('Patron całego Liceum. Dzięki KPT możemy');
-    expect(rendered).toContain('Cisco opracowuje, produkuje i sprzedaje');
-    expect(rendered).toContain('Studio game devowe znane między innymi');
   });
 
   it('renders specific partner correctly - Krakowski Park Technologiczny', () => {

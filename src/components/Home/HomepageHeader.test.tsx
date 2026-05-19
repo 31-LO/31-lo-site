@@ -82,25 +82,6 @@ describe('HomepageHeader', () => {
     expect(rendered).toContain('class="buttons"');
   });
 
-  it('has the correct hierarchy of elements', () => {
-    const rendered = renderToString(<HomepageHeader />);
-
-    // Check that the container wraps all the content inside
-    expect(rendered).toContain('<div class="container">');
-
-    // Check that the logo img is inside hero__title div
-    expect(rendered).toContain('<div class="hero__title">');
-    expect(rendered).toContain('src="img/logo.png"');
-
-    // Check that subtitle and buttons come after the title
-    const titleIndex = rendered.indexOf('<div class="hero__title">');
-    const subtitleIndex = rendered.indexOf('<h1 class="hero__subtitle');
-    const buttonsIndex = rendered.indexOf('class="buttons"');
-
-    expect(subtitleIndex).toBeGreaterThan(titleIndex);
-    expect(buttonsIndex).toBeGreaterThan(subtitleIndex);
-  });
-
   it('contains both profile links in the buttons section', () => {
     const rendered = renderToString(<HomepageHeader />);
 

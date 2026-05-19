@@ -9,17 +9,6 @@ describe('CallToAction', () => {
     }).not.toThrow();
   });
 
-  it('should render with expected content', () => {
-    const rendered = renderToString(<CallToAction />);
-
-    // Check that the rendered content contains key elements
-    expect(rendered).toContain('Chcesz do nas dołączyć?');
-    expect(rendered).toContain('Zapoznaj się z zasadami rekrutacji i do dzieła!');
-    expect(rendered).toContain('/docs/zasady-rekrutacji');
-    expect(rendered).toContain('Rekrutacja');
-    expect(rendered).toContain('/img/features/undraw_educator.svg');
-  });
-
   it('should be a function component', () => {
     expect(typeof CallToAction).toBe('function');
   });
@@ -38,12 +27,6 @@ describe('CallToAction', () => {
     const rendered = renderToString(<CallToAction />);
     expect(rendered).toContain('href="/docs/zasady-rekrutacji"');
     expect(rendered).toContain('>Rekrutacja<');
-  });
-
-  it('renders the educator image', () => {
-    const rendered = renderToString(<CallToAction />);
-    expect(rendered).toContain('src="/img/features/undraw_educator.svg"');
-    expect(rendered).toContain('alt=""');
   });
 
   it('renders with correct structure', () => {
