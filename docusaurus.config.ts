@@ -158,10 +158,6 @@ const config: Config = {
             ],
           },
           {
-            label: 'Wynajmij boisko',
-            to: 'https://rezerwacje-lo31.pl/',
-          },
-          {
             label: 'Kontakt',
             to: 'docs/kontakt',
           },
