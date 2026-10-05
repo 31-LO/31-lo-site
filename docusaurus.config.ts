@@ -192,6 +192,11 @@ const config: Config = {
               <img src="/img/footer-logos/google-workspace.png" alt="Google Workspace dla edukacji" height="51" />
             </a>`,
           },
+          {
+            html: `<a href="https://naszeszkoly.krakow.pl/" target="_blank" rel="noreferrer noopener" aria-label="Nasze Szkoły">
+              <img src="/img/footer-logos/nasze-szkoly.jpg" alt="Nasze Szkoły" height="51" />
+            </a>`,
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} XXXI Liceum Ogólnokształcące im. Romana Ingardena w Krakowie`,
       },
