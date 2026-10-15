@@ -50,31 +50,6 @@ function Partner({
 
 const partnerList: PartnerProps[] = [
   {
-    name: 'Krakowski Park Technologiczny',
-    url: 'https://www.kpt.krakow.pl/',
-    logo: require('./img/kpt.webp').default,
-    description: (
-      <>
-        <p>
-          Patron całego Liceum. Dzięki KPT możemy uczestniczyć we wszelkich
-          wydarzeniach z branży gier video. Przede wszystkim Digital Dragons
-          Academy oraz Krak Jam.
-        </p>
-        <p>
-          Na Digital Dragons Academy występują osoby tworzące gry zawodowo.
-          Możemy się uczyć od przedstawicieli CD Projekt Red, Techlandu, i
-          innych gigantów polskiej sceny gamedevowej. Chłoniemy wiedzę
-          wynikającą z doświadczenia praktycznego i możemy sobie lepiej
-          wyobrazić jak wygląda praca w branży.
-        </p>
-        <p>
-          Także pracownicy KPT prowadzą w naszej szkole zajęcia podejmując
-          szeroki zakres tematyki gamedev.
-        </p>
-      </>
-    ),
-  },
-  {
     name: 'Cisco Kraków',
     url: 'https://www.facebook.com/CiscoKrakow/',
     logo: require('./img/cisco.webp').default,
@@ -98,18 +73,45 @@ const partnerList: PartnerProps[] = [
   {
     name: 'Nokia',
     url: 'https://www.nokia.com',
-    logo: require('./img/nokia.png').default,
+    logo: require('./img/nokia.webp').default,
     description: (
       <>
         <p>
-          Nokia to obecnie globalny lider w dziedzinie infrastruktury sieciowej,
-          technologii telekomunikacyjnych oraz rozwiązań opartych na sztucznej
-          inteligencji (AI).
+          Nokia jest globalnym liderem w dziedzinie technologii
+          telekomunikacyjnych i infrastruktury sieciowej.
         </p>
 
         <p>
-          Programiści z reh firmy prowadzą dla naszych uczniów bezpłatne
-          warsztaty z programowania w języku C++.
+          W ramach współpracy z XXXI LO w Krakowie eksperci Nokia prowadzą dla
+          uczniów bezpłatny kurs programowania w języku C++, dzieląc się
+          praktyczną wiedzą i doświadczeniem. Wspólnie rozwijamy młode talenty i
+          przybliżamy uczniom świat nowoczesnych technologii oraz możliwości
+          rozwoju w branży technologicznej.
+        </p>
+      </>
+    ),
+  },
+  {
+    name: 'Krakowski Park Technologiczny',
+    url: 'https://www.kpt.krakow.pl/',
+    logo: require('./img/kpt.webp').default,
+    description: (
+      <>
+        <p>
+          Patron całego Liceum. Dzięki KPT możemy uczestniczyć we wszelkich
+          wydarzeniach z branży gier video. Przede wszystkim Digital Dragons
+          Academy oraz Krak Jam.
+        </p>
+        <p>
+          Na Digital Dragons Academy występują osoby tworzące gry zawodowo.
+          Możemy się uczyć od przedstawicieli CD Projekt Red, Techlandu, i
+          innych gigantów polskiej sceny gamedevowej. Chłoniemy wiedzę
+          wynikającą z doświadczenia praktycznego i możemy sobie lepiej
+          wyobrazić jak wygląda praca w branży.
+        </p>
+        <p>
+          Także pracownicy KPT prowadzą w naszej szkole zajęcia podejmując
+          szeroki zakres tematyki gamedev.
         </p>
       </>
     ),
